@@ -15,9 +15,6 @@ megjelenítéshez.
 https://magi12345.github.io/eurosport-foci-rss/rss.xml
 ```
 
-A `USERNAME` és `REPOSITORY` helyére a saját GitHub felhasználóneved és a
-repó neve kerül.
-
 ## Hogyan működik
 
 A `scripts/generate_feed.py` letölti a labdarúgás oldalt, és elsődlegesen a

@@ -12,7 +12,7 @@ megjelenítéshez.
 ## Feed URL
 
 ```
-https://USERNAME.github.io/REPOSITORY/rss.xml
+https://magi12345.github.io/eurosport-foci-rss/rss.xml
 ```
 
 A `USERNAME` és `REPOSITORY` helyére a saját GitHub felhasználóneved és a
@@ -58,14 +58,14 @@ python scripts/generate_feed.py
 2. **Source:** „Deploy from a branch".
 3. **Branch:** `main`, **mappa:** `/docs`.
 4. Mentés után pár perccel elérhető lesz a feed:
-   `https://USERNAME.github.io/REPOSITORY/rss.xml`
+   `https://magi12345.github.io/eurosport-foci-rss/rss.xml`
 
 ## Feliratkozás Inoreaderben
 
 1. Lépj be az [Inoreaderbe](https://www.inoreader.com/).
 2. Bal felül **+ Add (Hozzáadás)** → **Subscribe / Feed hozzáadása**.
 3. Illeszd be a feed URL-t:
-   `https://USERNAME.github.io/REPOSITORY/rss.xml`
+   `https://magi12345.github.io/eurosport-foci-rss/rss.xml`
 4. **Subscribe.** A cikkek képes előnézettel jelennek meg a lista- és
    olvasónézetben is.
 
@@ -73,10 +73,12 @@ Ugyanez a URL működik Feedlyben és NewsBlurben is.
 
 ## Megjegyzés (Akamai)
 
-Az Eurosport oldalt Akamai Bot Manager védi, ezért a script teljes
-böngésző-fejléceket küld, session-t használ és retry/backoff logikát
-tartalmaz. Egy óránkénti, alacsony volumenű kérés jellemzően gond nélkül
-átmegy. Ha valamelyik futás 403-at kapna, a következő órás futás újrapróbálja.
+Az Eurosport oldalt Akamai Bot Manager védi, amely a sima `requests`
+TLS-ujjlenyomatát (és így a GitHub Actions kéréseit) 403-mal blokkolja. Ezért
+a letöltés a **`curl_cffi`** csomaggal történik, amely valódi Chrome
+TLS/HTTP2-ujjlenyomatot imitál – így az Akamai böngészőnek látja a kérést. A
+`requests` tartalékként marad, és retry/backoff logika hidalja át a múló
+hibákat.
 
 ## Repó-struktúra
 

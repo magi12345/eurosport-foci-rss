@@ -4,3 +4,4 @@ __pycache__/
 page.html
 rsc.txt
 .claude/
+.venv2/

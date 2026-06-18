@@ -39,6 +39,14 @@ import requests
 from bs4 import BeautifulSoup
 from feedgen.feed import FeedGenerator
 
+# curl_cffi valódi böngésző TLS/HTTP2-ujjlenyomatot imitál. Erre azért van
+# szükség, mert az oldalt védő Akamai Bot Manager a sima requests/urllib3
+# ujjlenyomatát (és így a GitHub Actions kéréseit) 403-mal blokkolja.
+try:
+    from curl_cffi import requests as cffi_requests
+except ImportError:  # tartalék, ha a csomag nem elérhető
+    cffi_requests = None
+
 # --- Konfiguráció ----------------------------------------------------------
 
 SOURCE_URL = "https://www.eurosport.hu/labdarugas/"
@@ -72,35 +80,36 @@ ARTICLE_URL_RE = re.compile(r"/labdarugas/.*_(?:sto|vid)\d+/(?:story|video)\.sht
 
 # --- Letöltés --------------------------------------------------------------
 
+def _fetch_once(url: str) -> tuple[int, str]:
+    """
+    Egyetlen letöltés. Elsődlegesen curl_cffi-vel, Chrome-ujjlenyomattal
+    (ez megy át az Akamai botvédelmen); ha a csomag nincs telepítve, a sima
+    requests a tartalék.
+    """
+    if cffi_requests is not None:
+        resp = cffi_requests.get(
+            url, headers=HEADERS, impersonate="chrome", timeout=30
+        )
+        return resp.status_code, resp.text
+
+    resp = requests.get(url, headers=HEADERS, timeout=30)
+    resp.encoding = "utf-8"
+    return resp.status_code, resp.text
+
+
 def fetch_page(url: str, retries: int = 4) -> str:
     """
-    Letöltés egy session-nel, exponenciális backoff-fal.
-
-    Az oldalt Akamai Bot Manager védi: nagy kérésszám / gyanús IP esetén 403-at
-    adhat. Egy óránkénti, alacsony volumenű kérés jellemzően átmegy; a retry a
-    múló jellegű 403/5xx hibákat hidalja át. Először a főoldalt kérjük le, hogy
-    megkapjuk a cookie-kat, majd same-origin Referer-rel a szekciót.
+    Letöltés exponenciális backoff-fal. A retry a múló jellegű 403/5xx
+    hibákat hidalja át.
     """
-    session = requests.Session()
-    session.headers.update(HEADERS)
-
     last_status = None
     for attempt in range(retries):
         try:
-            session.get("https://www.eurosport.hu/", timeout=30)
-            resp = session.get(
-                url,
-                timeout=30,
-                headers={
-                    "Referer": "https://www.eurosport.hu/",
-                    "Sec-Fetch-Site": "same-origin",
-                },
-            )
-            last_status = resp.status_code
-            if resp.status_code == 200 and resp.text:
-                resp.encoding = "utf-8"
-                return resp.text
-        except requests.RequestException as exc:
+            status, text = _fetch_once(url)
+            last_status = status
+            if status == 200 and text:
+                return text
+        except Exception as exc:  # hálózati hiba is retry-olható
             last_status = repr(exc)
 
         if attempt < retries - 1:

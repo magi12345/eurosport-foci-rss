@@ -1,0 +1,43 @@
+name: Update RSS feed
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # minden órában
+  workflow_dispatch: {}      # kézi indítás
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate feed
+        run: python scripts/generate_feed.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain docs/rss.xml)" ]; then
+            git add docs/rss.xml
+            git commit -m "chore: update RSS feed [skip ci]"
+            git push
+          else
+            echo "Nincs változás a feedben."
+          fi

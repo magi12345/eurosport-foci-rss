@@ -78,9 +78,9 @@ böngészőnek látja a kérést.
 Az Akamai a futtató IP-jétől függően néha a GitHub Actions kéréseit is
 blokkolja (200-as „challenge" oldal valódi tartalom nélkül). Ezt a script
 felismeri, és ilyenkor **csendben kihagyja a futást** (a korábbi feed
-érvényben marad, a workflow zölden kilép). Mivel a futások nagyjából fele
-sikeres, és a workflow **30 percenként** fut, a feed jellemzően legfeljebb
-~1,5 órás késéssel frissül.
+érvényben marad, a workflow zölden kilép). A workflow szándékosan ritkán,
+**~90 percenként** fut: a kis volumenű kérés kevésbé váltja ki a blokkolást,
+így nagyobb eséllyel sikerül, és a feed elfogadható késéssel frissül.
 
 ## Repó-struktúra
 

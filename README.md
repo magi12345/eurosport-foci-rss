@@ -71,11 +71,16 @@ Ugyanez a URL működik Feedlyben és NewsBlurben is.
 ## Megjegyzés (Akamai)
 
 Az Eurosport oldalt Akamai Bot Manager védi, amely a sima `requests`
-TLS-ujjlenyomatát (és így a GitHub Actions kéréseit) 403-mal blokkolja. Ezért
-a letöltés a **`curl_cffi`** csomaggal történik, amely valódi Chrome
-TLS/HTTP2-ujjlenyomatot imitál – így az Akamai böngészőnek látja a kérést. A
-`requests` tartalékként marad, és retry/backoff logika hidalja át a múló
-hibákat.
+TLS-ujjlenyomatát blokkolja. Ezért a letöltés a **`curl_cffi`** csomaggal
+történik, amely valódi Chrome TLS/HTTP2-ujjlenyomatot imitál – így az Akamai
+böngészőnek látja a kérést.
+
+Az Akamai a futtató IP-jétől függően néha a GitHub Actions kéréseit is
+blokkolja (200-as „challenge" oldal valódi tartalom nélkül). Ezt a script
+felismeri, és ilyenkor **csendben kihagyja a futást** (a korábbi feed
+érvényben marad, a workflow zölden kilép). Mivel a futások nagyjából fele
+sikeres, és a workflow **30 percenként** fut, a feed jellemzően legfeljebb
+~1,5 órás késéssel frissül.
 
 ## Repó-struktúra
 

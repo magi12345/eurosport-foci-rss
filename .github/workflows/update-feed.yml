@@ -2,7 +2,8 @@ name: Update RSS feed
 
 on:
   schedule:
-    - cron: "0 * * * *"   # minden órában
+    - cron: "*/30 * * * *"   # 30 percenként (az Akamai időnként blokkol egyes IP-ket,
+                             # így nagyobb eséllyel lesz friss frissítés ~1,5 órán belül)
   workflow_dispatch: {}      # kézi indítás
 
 permissions:

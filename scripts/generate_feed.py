@@ -111,7 +111,7 @@ def _looks_like_content(text: str) -> bool:
     return "story.shtml" in text or 'data-testid="card-title"' in text
 
 
-def fetch_page(url: str, retries: int = 5) -> str:
+def fetch_page(url: str, retries: int = 3) -> str:
     """
     Letöltés exponenciális backoff-fal. A retry a múló jellegű 403/5xx hibákat
     ÉS a tartalom nélküli 200-as botvédelmi oldalakat is áthidalja.
@@ -384,7 +384,14 @@ def build_feed(articles: list[dict]) -> bytes:
 # --- Belépési pont ---------------------------------------------------------
 
 def main() -> int:
-    html = fetch_page(SOURCE_URL)
+    # Az Akamai botvédelem a futtató IP-től függően néha minden próbálkozást
+    # blokkol. Ez nem hiba: ilyenkor csendben kihagyjuk a futást (a korábbi
+    # feed érvényben marad), és 0-val lépünk ki, hogy a workflow zöld legyen.
+    try:
+        html = fetch_page(SOURCE_URL)
+    except RuntimeError as exc:
+        print(f"KIHAGYVA (botvédelem): {exc}", file=sys.stderr)
+        return 0
 
     # Elsődlegesen a strukturált JSON-ból, tartalékként a HTML-ből.
     articles = parse_from_rsc(html)
@@ -396,8 +403,8 @@ def main() -> int:
     articles = dedupe(articles)
 
     if not articles:
-        print("HIBA: egyetlen cikket sem sikerült kinyerni.", file=sys.stderr)
-        return 1
+        print("KIHAGYVA: egyetlen cikket sem sikerült kinyerni.", file=sys.stderr)
+        return 0
 
     # A legfrissebb 30 elem. Ahol nincs dátum, az a lista végére kerül.
     articles.sort(

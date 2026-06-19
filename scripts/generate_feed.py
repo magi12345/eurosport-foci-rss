@@ -80,7 +80,12 @@ ARTICLE_URL_RE = re.compile(r"/labdarugas/.*_(?:sto|vid)\d+/(?:story|video)\.sht
 
 # --- Letöltés --------------------------------------------------------------
 
-def _fetch_once(url: str) -> tuple[int, str]:
+# Több Chrome-verziót váltogatunk az újrapróbálkozások közt: ha az Akamai egy
+# adott ujjlenyomatra challenge-oldalt adna, egy másikkal nagyobb az esély.
+IMPERSONATE_TARGETS = ["chrome", "chrome124", "chrome120", "chrome116"]
+
+
+def _fetch_once(url: str, impersonate: str) -> tuple[int, str]:
     """
     Egyetlen letöltés. Elsődlegesen curl_cffi-vel, Chrome-ujjlenyomattal
     (ez megy át az Akamai botvédelmen); ha a csomag nincs telepítve, a sima
@@ -88,7 +93,7 @@ def _fetch_once(url: str) -> tuple[int, str]:
     """
     if cffi_requests is not None:
         resp = cffi_requests.get(
-            url, headers=HEADERS, impersonate="chrome", timeout=30
+            url, headers=HEADERS, impersonate=impersonate, timeout=30
         )
         return resp.status_code, resp.text
 
@@ -97,23 +102,33 @@ def _fetch_once(url: str) -> tuple[int, str]:
     return resp.status_code, resp.text
 
 
-def fetch_page(url: str, retries: int = 4) -> str:
+def _looks_like_content(text: str) -> bool:
     """
-    Letöltés exponenciális backoff-fal. A retry a múló jellegű 403/5xx
-    hibákat hidalja át.
+    Igaz, ha a válasz valódi cikkoldal. Az Akamai néha 200-as challenge-
+    oldalt ad valódi tartalom nélkül; ezeket itt szűrjük ki, hogy retry
+    induljon helyettük.
+    """
+    return "story.shtml" in text or 'data-testid="card-title"' in text
+
+
+def fetch_page(url: str, retries: int = 5) -> str:
+    """
+    Letöltés exponenciális backoff-fal. A retry a múló jellegű 403/5xx hibákat
+    ÉS a tartalom nélküli 200-as botvédelmi oldalakat is áthidalja.
     """
     last_status = None
     for attempt in range(retries):
+        impersonate = IMPERSONATE_TARGETS[attempt % len(IMPERSONATE_TARGETS)]
         try:
-            status, text = _fetch_once(url)
-            last_status = status
-            if status == 200 and text:
+            status, text = _fetch_once(url, impersonate)
+            if status == 200 and _looks_like_content(text):
                 return text
+            last_status = f"{status} (tartalom-ellenőrzés: {_looks_like_content(text)})"
         except Exception as exc:  # hálózati hiba is retry-olható
             last_status = repr(exc)
 
         if attempt < retries - 1:
-            time.sleep(2 ** attempt * 5)  # 5s, 10s, 20s
+            time.sleep(2 ** attempt * 5)  # 5s, 10s, 20s, 40s
 
     raise RuntimeError(f"Nem sikerült letölteni az oldalt (utolsó állapot: {last_status})")
 

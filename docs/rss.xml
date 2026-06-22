@@ -7,9 +7,45 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 22 Jun 2026 16:50:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 20:42:19 +0000</lastBuildDate>
     <item>
-      <title>Megbüntették a belga játékost és a gyerekszületést gyalázó műsorvezetőnőt, a focivilág is reagált</title>
+      <title>Ruben Amorim korábbi segítője lett a ZTE új vezetőedzője</title>
+      <link>https://www.eurosport.hu/labdarugas/filipe-celikkaya-zalaegerszeg-uj-edzo_sto23312184/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/06/22/image-3881d261-04c2-4ca1-8c88-71624a608689-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A portugál Filipe Celikkaya lett a labdarúgó NB I-ben szereplő ZTE FC vezetőedzője.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/filipe-celikkaya-zalaegerszeg-uj-edzo_sto23312184/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/06/22/image-3881d261-04c2-4ca1-8c88-71624a608689-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Jun 2026 19:26:58 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/06/22/image-3881d261-04c2-4ca1-8c88-71624a608689-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Messi ismét varázsolt, duplázott és vb-rekordot döntött, Argentína legyőzte Ausztriát is</title>
+      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/argentina-ausztria-osszefoglalo-messi_sto23312185/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/06/22/image-ba592b74-7132-4733-88c7-ed5199e5dc51-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A címvédő argentin labdarúgó-válogatott Lionel Messi rekordot jelentő 17., majd a hosszabbításban szerzett 18. világbajnoki góljával 2-0-ra legyőzte Ausztriát a J-csoport második fordulójának hétfői mérkőzésén, ezzel biztosította helyét a legjobb 32 között.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/argentina-ausztria-osszefoglalo-messi_sto23312185/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/06/22/image-ba592b74-7132-4733-88c7-ed5199e5dc51-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Jun 2026 19:18:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/06/22/image-ba592b74-7132-4733-88c7-ed5199e5dc51-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A Bayern München korábbi argentin klasszisa lett az RB Leipzig új vezetőedzője</title>
+      <link>https://www.eurosport.hu/labdarugas/bundesliga/2025-2026/demichelis-rb-leipzig_sto23312148/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/06/22/image-e3ceb2e1-d1c9-4e6d-8e38-14119603d7e5-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Bundesliga - Az argentin Martín Demichelis lett a Gulácsi Pétert és Willi Orbánt foglalkoztató RB Leipzig csapatának vezetőedzője. A lipcsei klub honlapjának hétfői beszámolója szerint a 45 éves tréner szerződése 2028 nyaráig szól.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bundesliga/2025-2026/demichelis-rb-leipzig_sto23312148/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/06/22/image-e3ceb2e1-d1c9-4e6d-8e38-14119603d7e5-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 22 Jun 2026 17:11:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/06/22/image-e3ceb2e1-d1c9-4e6d-8e38-14119603d7e5-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Megbüntették a gyerekszületést és a belga játékost gyalázó műsorvezetőnőt, a focivilág is reagált</title>
       <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/jeremy-doku-france-pierron-buntetes_sto23312101/story.shtml</link>
       <description>&lt;img src="https://i.eurosport.com/2026/06/22/image-80ac71bf-8fc5-471a-9aa2-94253238011b-85-2560-1440.jpeg" /&gt;
 &lt;p&gt;A L'Équipe közleményt adott ki és levette a további adásairól France Pierron műsorvezetőnőt, aki a napokban kemény kritikával illette a belgák játékosát, Jérémy Dokut, amiért a szélső haza szeretne menni a világbajnokság közben az első gyereke születésére. A focivilág szereplői, korábbi és…&lt;/p&gt;</description>
@@ -105,30 +141,6 @@
       </media:group>
     </item>
     <item>
-      <title>Lamine Yamal első vb-góljával indult be a spanyol henger, 4-0-ra nyertek a szaúdiak ellen</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/spanyolorszag-szaud-arabia-eredmeny-osszefoglalo_sto23311830/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/06/21/image-980be108-0416-4105-a60b-cbf8aaf144ff-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A 18 éves sztár találatával, Oyarzabal duplájával és egy öngóllal győzte le az Európa-bajnok spanyol válogatott Szaúd-Arábia csapatát az észak-amerikai labdarúgó-világbajnokság H csoportjának vasárnapi első mérkőzésén.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/spanyolorszag-szaud-arabia-eredmeny-osszefoglalo_sto23311830/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/06/21/image-980be108-0416-4105-a60b-cbf8aaf144ff-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jun 2026 18:16:48 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/06/21/image-980be108-0416-4105-a60b-cbf8aaf144ff-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Kiderült, a brazilok melyik vb-meccsén térhet vissza legkorábban a Haiti ellen megsérült Raphinha</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/brazil-valogatott-raphinha-serules_sto23311814/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/06/19/image-95bce6e0-fbfa-4342-b579-be549c1f34d8-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A vizsgálatok megerősítették Raphinhának, a brazil labdarúgó-válogatott rutinos alapemberének combizomsérülését, aki emiatt várhatóan több mérkőzést is kénytelen lesz kihagyni az észak-amerikai térségben zajló világbajnokságon.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/brazil-valogatott-raphinha-serules_sto23311814/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/06/19/image-95bce6e0-fbfa-4342-b579-be549c1f34d8-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jun 2026 16:59:14 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/06/19/image-95bce6e0-fbfa-4342-b579-be549c1f34d8-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
       <title>Messihez hiba lenne hasonlítani, de zseni, mint Michelangelo – véli Yamalról a spanyol kapitány</title>
       <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/lamine-yamal-lionel-messi-osszehasonlitas-szovetsegi-kapitanyok_sto23311772/story.shtml</link>
       <description>&lt;img src="https://i.eurosport.com/2026/06/21/image-61ab7973-9509-4634-a0e0-17c13fdae171-85-2560-1440.jpeg" /&gt;
@@ -162,18 +174,6 @@
       <pubDate>Sun, 21 Jun 2026 08:17:30 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/06/21/image-56174508-1ac8-4222-b60d-b5577436c87d-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>"Azt hiszem, szobrot kellene kapnom Curacaón" - mondta a kapus, akinek képtelenség volt gólt lőni</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/curacao-kapus-szobor_sto23311658/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/06/21/image-00b7e27f-91d0-4316-83f1-413c748c329b-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Eloy Room szerint az első védés önbizalmat adott neki, ezért tudta rekordot jelentő 15 hárítással gól nélküli döntetlenhez segíteni Curacao válogatottját az Ecuador elleni csoportmérkőzésen az észak-amerikai térségben zajló labdarúgó-világbajnokság szombati játéknapján.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/curacao-kapus-szobor_sto23311658/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/06/21/image-00b7e27f-91d0-4316-83f1-413c748c329b-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 21 Jun 2026 07:20:26 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/06/21/image-00b7e27f-91d0-4316-83f1-413c748c329b-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>

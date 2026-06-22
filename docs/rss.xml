@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 21 Jun 2026 23:49:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 03:54:37 +0000</lastBuildDate>
     <item>
       <title>Újabb döntetlen: Iránt sem tudták legyőzni az emberhátrányba kerülő belgák</title>
       <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/ujabb-doentetlen-irant-sem-tudtak-legyozni-az-emberhatranyba-keruelo-belgak_sto23311880/story.shtml</link>
@@ -129,6 +129,18 @@
       </media:group>
     </item>
     <item>
+      <title>Duplázó hős, 94. perces gól: hátrányból fordítottak a németek a nagyot küzdő Elefántcsontpart ellen</title>
+      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/nemetorszag-elefantcsontpart-osszefoglalo_sto23311604/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/06/20/image-d4f5db12-dac8-4d30-b315-0b096ebe027c-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A német válogatott hátrányba került ugyan, végül 2-1-re legyőzte Elefántcsontpartot szombaton a labdarúgó-világbajnokság E-csoportjának második fordulójában, Torontóban.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/nemetorszag-elefantcsontpart-osszefoglalo_sto23311604/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/06/20/image-d4f5db12-dac8-4d30-b315-0b096ebe027c-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 20 Jun 2026 22:17:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/06/20/image-d4f5db12-dac8-4d30-b315-0b096ebe027c-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Egy műsorvezetőnő szerint gusztustalan, hogy a belga játékos haza akar menni a gyereke születésére</title>
       <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/jeremy-doku-gyerekszuletes-kritika-musorvezetono_sto23311532/story.shtml</link>
       <description>&lt;img src="https://i.eurosport.com/2026/06/20/image-4e66eb2c-c08a-4e9e-a219-00171a46d312-85-2560-1440.jpeg" /&gt;
@@ -162,42 +174,6 @@
       <pubDate>Fri, 19 Jun 2026 16:20:54 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/06/19/image-a184d609-9c95-4b15-a744-b15eccc57771-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Ronaldo: Messi a valaha volt legjobb futballista</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/ronaldo-lionel-messi-goat_sto23311141/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/06/19/image-4cea73c2-8574-41b4-91f3-5868a6ae4905-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A brazil válogatott legendája, Ronaldo egy interjúban minden idők legjobb futballistájának nevezte Lionel Messit. A korábbi támadó szerint Messi szinte minden pályára lépésével történelmet ír, és valamennyi futballrajongónak óriási élmény, hogy még mindig láthatja őt ezen a szinten játszani.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/ronaldo-lionel-messi-goat_sto23311141/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/06/19/image-4cea73c2-8574-41b4-91f3-5868a6ae4905-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 19 Jun 2026 11:24:33 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/06/19/image-4cea73c2-8574-41b4-91f3-5868a6ae4905-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Súlyos állapot: közleményt adott ki a család, hogy miért sírt Messi az első gólja után</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/lionel-messi-edesapja-kozlemeny-csalad_sto23310942/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/06/18/image-e85a0e05-6e8d-4742-978a-f4680420f90a-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Lionel Messi elsírta magát, miután a 17. percben megszerezte az első gólját az argentinok algériaiak elleni, 3-0-ra megnyert meccsén. A 38 éves klasszis később elárulta, semmi köze a focihoz a könnyeknek, csütörtökön pedig a család közleményt adott ki a helyzettel kapcsolatban.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/lionel-messi-edesapja-kozlemeny-csalad_sto23310942/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/06/18/image-e85a0e05-6e8d-4742-978a-f4680420f90a-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 18:37:31 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/06/18/image-e85a0e05-6e8d-4742-978a-f4680420f90a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>"Mióta meghaltál, üres vagyok" – a foci-vb csillagának megható levele a 15 évesen elhunyt húgához</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/yan-diomande-meghato-level-a-15-evesen-elhunyt-hugahoz_sto23310839/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/06/18/image-b26413c4-26b6-4e43-902d-34207a24d613-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Megható levelet írt a The Players' Tribune-nek Yan Diomande. Az elefántcsontparti válogatott 19 éves, Liverpool és PSG által is figyelt tehetsége kegyetlen őszinteséggel számolt be az őt ért tragédiáról, húga, Roxane haláláról – az ő emlékéért küzd a világbajnokságon. Út az afrikai…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/yan-diomande-meghato-level-a-15-evesen-elhunyt-hugahoz_sto23310839/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/06/18/image-b26413c4-26b6-4e43-902d-34207a24d613-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 18 Jun 2026 14:47:12 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/06/18/image-b26413c4-26b6-4e43-902d-34207a24d613-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

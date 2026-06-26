@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Fri, 26 Jun 2026 14:17:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 15:36:06 +0000</lastBuildDate>
+    <item>
+      <title>Kapitánya ellen fordulva várja a spanyolok elleni sorsdöntő meccset az egykori kétszeres vb-győztes</title>
+      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/bielsa-uruguay-belso-viszaly-balhe-szovetsgi-kapitany-sorsdonto-spanyolorszag_sto23313410/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/06/23/image-d54fd775-2bab-4200-8a75-9571f4c16ef8-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Meglehetősen feszült a hangulat az uruguayi válogatott háza táján a világbajnokságon. Médiaértesülések szerint a keret kulcsemberei nyíltan fellázadtak Marcelo Bielsa szövetségi kapitány ellen, miközben a csapat a kiesés szélére sodródott, és szombat hajnalban Spanyolország ellen az életéért…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/bielsa-uruguay-belso-viszaly-balhe-szovetsgi-kapitany-sorsdonto-spanyolorszag_sto23313410/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/06/23/image-d54fd775-2bab-4200-8a75-9571f4c16ef8-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 26 Jun 2026 14:24:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/06/23/image-d54fd775-2bab-4200-8a75-9571f4c16ef8-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Tchouaméni: "Az a küldetésünk, hogy Franciaországot és Didier-t büszkévé tegyük!"</title>
       <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/deschamps-temetes-tchouameni_sto23313374/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Tue, 23 Jun 2026 17:54:35 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/06/23/image-9a95b80a-8a1b-4d8f-8342-fbd212469ad2-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Itt a 2026-os labdarúgó-világbajnokság csoportbeosztása</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/csoportbeosztas-vilagbajnoksag_sto23308948/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/06/12/image-3597ec24-dc95-4a17-b6c7-cb888eab95a2-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Csütörtökön elrajtolt a 2026-os labdarúgó-világbajnokság, az amerikai-mexikó-kanadai közös rendezésű tornán rekordot jelentő 48 csapat vesz részt. Íme, a 12 csoport beosztása!&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/csoportbeosztas-vilagbajnoksag_sto23308948/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/06/12/image-3597ec24-dc95-4a17-b6c7-cb888eab95a2-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 12 Jun 2026 14:37:38 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/06/12/image-3597ec24-dc95-4a17-b6c7-cb888eab95a2-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

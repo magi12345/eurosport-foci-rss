@@ -7,7 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 30 Jun 2026 17:04:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:12:16 +0000</lastBuildDate>
+    <item>
+      <title>Haaland gólja döntött: Norvégia első európai csapatként a nyolcaddöntőben</title>
+      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/elefantcsontpart-norvegia-eredmeny-osszefoglalo_sto23314863/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/06/30/image-dcb873a7-f361-47ee-aae2-b8ed374801ae-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A norvég válogatott 2-1-re legyőzte Elefántcsontpartot kedden a labdarúgó-világbajnokságon Dallasban, és a mezőny első európai csapataként jutott a 16 közé.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/elefantcsontpart-norvegia-eredmeny-osszefoglalo_sto23314863/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/06/30/image-dcb873a7-f361-47ee-aae2-b8ed374801ae-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Jun 2026 19:22:45 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/06/30/image-dcb873a7-f361-47ee-aae2-b8ed374801ae-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Minden ruháját eladta beteg gyermeke születésekor, most nemzeti hős a paraguayi kapus</title>
+      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/orlando-gill-paraguayi-kapus-tortenete_sto23314840/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/06/30/image-5cfc319a-3651-417c-9179-7c77aaa95c73-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Néhány évvel ezelőtt még csak pár felnőtt klubmeccset tudhatott a neve mellett Orlando Gill, a paraguayi válogatott mostanra első számúvá váló kapusa – emiatt pedig komoly áldozatokat kellett hoznia, amikor a kisfia egészségi problémákkal látott napvilágot.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/orlando-gill-paraguayi-kapus-tortenete_sto23314840/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/06/30/image-5cfc319a-3651-417c-9179-7c77aaa95c73-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 30 Jun 2026 18:19:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/06/30/image-5cfc319a-3651-417c-9179-7c77aaa95c73-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>„Mi rontottuk ezt el, vállaljuk a felelősséget” – felmentik az edzőt a kieső német játékosok</title>
       <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/nemetorszag-kieses-kimmich-havertz-nyilatkozat_sto23314807/story.shtml</link>
@@ -174,18 +198,6 @@
       <pubDate>Sun, 28 Jun 2026 10:05:18 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/06/28/image-f735aa04-2584-45c5-bf2c-64f060387c4f-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A vb élő szobra: ezért áll mozdulatlanul 90 percen át a kongói szurkoló</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/vilagbajnoksag-szurkolo-kongoi-dk_sto23312707/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/06/24/image-e5060983-e69b-4e09-99d1-588d8a70444e-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Egy különleges megjelenésű, emelvényen álló szurkoló tűnt fel a lelátón a Kongói DK és Kolumbia világbajnoki csoportmérkőzése alatt. Ő Michel Nkuka Mboladinga, a férfi, aki minden bizonnyal jó eséllyel pályázik a 2026-os vb "legkülönlegesebb szurkolója" címre - ismerjük meg a történetét!&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/vilagbajnoksag-szurkolo-kongoi-dk_sto23312707/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/06/24/image-e5060983-e69b-4e09-99d1-588d8a70444e-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 24 Jun 2026 12:21:36 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/06/24/image-e5060983-e69b-4e09-99d1-588d8a70444e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

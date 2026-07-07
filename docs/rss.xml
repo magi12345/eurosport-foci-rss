@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 06 Jul 2026 23:35:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 06:43:03 +0000</lastBuildDate>
     <item>
       <title>A 91. percben jött a spanyol gól, a nyolcaddöntőben ért véget Cristiano Ronaldo utolsó vébéje</title>
       <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/merino-gol-spanyol-tovabbjutas-portugal-bucsu_sto23317034/story.shtml</link>
@@ -186,30 +186,6 @@
       <pubDate>Sun, 05 Jul 2026 22:29:14 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/05/image-a6e97b1d-6899-4075-a782-7ca1d4bec478-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Ez volt eddig a legrosszabb játékvezetői teljesítmény a világbajnokságon”</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/paraguay-franciaorszag-a-legrosszabb-jatekvezetoi-teljesitmeny_sto23316422/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/05/image-8d02e1cc-bb98-43ca-859a-3d6d91c62343-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Franciaország 1-0 arányban legyőzte Paraguay válogatottját, amivel ott van a világbajnokság negyeddöntőjében. A dél-amerikaiak meglehetősen durván játszottak, volt néhány vitatott incidens, de összességében rendben lezajlott a találkozó. Érdekesség, hogy Paraguay sárga lap nélkül zárta az…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/paraguay-franciaorszag-a-legrosszabb-jatekvezetoi-teljesitmeny_sto23316422/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/05/image-8d02e1cc-bb98-43ca-859a-3d6d91c62343-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 05 Jul 2026 09:53:06 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/05/image-8d02e1cc-bb98-43ca-859a-3d6d91c62343-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Rasszista felhangú nyilatkozattal hergel a paraguayi kapuslegenda a franciák elleni meccs előtt</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/chilavert-paraguay-afrikai-francia-beszolas-rasszista-botrany_sto23316238/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/04/image-439ab03f-2b49-47ef-a1f5-73cd806eb4bb-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Komoly felháborodást váltott ki José Luis Chilavert, a paraguayi válogatott egykori legendás kapusának megnyilvánulása, aki a közösségi médiában konkrétan „afrikai csapatnak” nevezte a francia válogatottat a két ország világbajnoki nyolcaddöntője előtt.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/chilavert-paraguay-afrikai-francia-beszolas-rasszista-botrany_sto23316238/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/04/image-439ab03f-2b49-47ef-a1f5-73cd806eb4bb-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 04 Jul 2026 16:58:48 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/04/image-439ab03f-2b49-47ef-a1f5-73cd806eb4bb-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

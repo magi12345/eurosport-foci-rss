@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Thu, 09 Jul 2026 14:51:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:20:49 +0000</lastBuildDate>
+    <item>
+      <title>Arsène Wenger szerint egyetlen csapat lehet képes megállítani Franciaországot a világbajnokságon</title>
+      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/arsene-wenger-franciak-az-eselyesek-spanyolok_sto23317984/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/07/09/image-6a96312c-0248-466c-82c0-04adc682441c-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Sebességben kiemelkednek a mezőnyből a franciák – véli Arsène Wenger, aki szerint ezért fogják ők nyerni a világbajnokságot. Azért így is lát egy csapatot az Arsenal korábbi edzője, amely technikailag jobb náluk, és ez döntő lehet egy esetleges összecsapás során: a spanyol válogatottat.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/arsene-wenger-franciak-az-eselyesek-spanyolok_sto23317984/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/07/09/image-6a96312c-0248-466c-82c0-04adc682441c-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 16:14:21 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/07/09/image-6a96312c-0248-466c-82c0-04adc682441c-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Bajban Infantino: vizsgálat indulhat ellene politikai elfogultsága miatt, két évre tilthatják el</title>
       <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/gianni-infantino-donald-trump-fifa_sto23317938/story.shtml</link>
@@ -174,18 +186,6 @@
       <pubDate>Tue, 07 Jul 2026 08:50:38 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/07/image-3ed53a7a-fe88-46c4-873c-9833502fe0b5-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Belgium egy 4–1-es győzelemmel vetett véget az Egyesült Államok világbajnoki álmainak</title>
-      <link>https://www.eurosport.hu/labdarugas/belgium-egyesuelt-allamok-eredmeny_sto23317106/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/07/image-38b05023-1d53-42b8-a37d-ee79f22949d4-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A belga válogatott 4-1-re legyőzte a társházigazda Egyesült Államok csapatát a labdarúgó-világbajnokság Seattle-ben rendezett nyolcaddöntőjében.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/belgium-egyesuelt-allamok-eredmeny_sto23317106/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/07/image-38b05023-1d53-42b8-a37d-ee79f22949d4-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 07:17:16 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/07/image-38b05023-1d53-42b8-a37d-ee79f22949d4-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

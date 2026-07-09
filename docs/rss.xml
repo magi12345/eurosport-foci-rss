@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Thu, 09 Jul 2026 17:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:59:52 +0000</lastBuildDate>
+    <item>
+      <title>Újvidéki győzelemmel kezdte az Európa-liga selejtezőjét a Ferencváros</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/vojvodina-ferencvaros-eredmeny-selejtezo_sto23318104/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/07/09/image-d8a52b71-30a0-4fc3-9b3a-0e13f61d3e39-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Az előző szezonban nyolcaddöntős Ferencváros 2-1-es győzelemmel kezdett csütörtökön a labdarúgó Európa-liga selejtezőjének első fordulójában a szerb Vojvodina vendégeként.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/vojvodina-ferencvaros-eredmeny-selejtezo_sto23318104/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/07/09/image-d8a52b71-30a0-4fc3-9b3a-0e13f61d3e39-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 09 Jul 2026 20:10:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/07/09/image-d8a52b71-30a0-4fc3-9b3a-0e13f61d3e39-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Arsène Wenger szerint egyetlen csapat lehet képes megállítani Franciaországot a világbajnokságon</title>
       <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/arsene-wenger-franciak-az-eselyesek-spanyolok_sto23317984/story.shtml</link>
@@ -174,18 +186,6 @@
       <pubDate>Tue, 07 Jul 2026 09:31:18 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/07/image-d73be375-57b0-4df3-b915-deb1a80d1584-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Véget ért egy korszak: Cristiano Ronaldo könnyek között búcsúzott a világbajnokságtól</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/cristiano-ronaldo-vb_sto23317137/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/07/image-3ed53a7a-fe88-46c4-873c-9833502fe0b5-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Cristiano Ronaldo több mint húsz éven át döntött el mérkőzéseket, a legnehezebb pillanatokban is a hátán vitte a csapatait, és az idő múlásának is fittyet hányva maradt a világ futballelitjének tagja még jóval a Real Madridnál, a Manchester Unitednél és a Juventusnál töltött fénykora után is.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/cristiano-ronaldo-vb_sto23317137/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/07/image-3ed53a7a-fe88-46c4-873c-9833502fe0b5-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 07 Jul 2026 08:50:38 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/07/image-3ed53a7a-fe88-46c4-873c-9833502fe0b5-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

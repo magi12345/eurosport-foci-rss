@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 21 Jul 2026 22:01:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 02:21:32 +0000</lastBuildDate>
     <item>
       <title>Hatot rúgott Luxemburgban az ETO, gyakorlatilag már továbbjutott</title>
       <link>https://www.eurosport.hu/labdarugas/gyori-eto-luxemburg-konferencia-liga_sto23321639/story.shtml</link>
@@ -174,18 +174,6 @@
       <pubDate>Mon, 20 Jul 2026 08:33:52 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/20/image-8e1609ea-9a5a-4ba0-b94e-6b29a7d1214d-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A csecsemő felnőtt és az elődje trónjára tör – Lamine Yamal útja a Messi-fotótól a vb-döntőig</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/donto-argentina-spanyolorszag-messi-yamal-kozos-foto-generaciovaltas_sto23320886/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/19/image-53cf6b02-3fed-43ef-905f-d5489df30ea9-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;39 nap és 103 mérkőzés után vasárnap véget ér a 2026-os világbajnokság. A New Jersey-ben esedékes döntőben a címvédő és Copa América-győztes Argentína csap össze Európa regnáló bajnokával, Spanyolországgal.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/donto-argentina-spanyolorszag-messi-yamal-kozos-foto-generaciovaltas_sto23320886/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/19/image-53cf6b02-3fed-43ef-905f-d5489df30ea9-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 19 Jul 2026 11:54:17 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/19/image-53cf6b02-3fed-43ef-905f-d5489df30ea9-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

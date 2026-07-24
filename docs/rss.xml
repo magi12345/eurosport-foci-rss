@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Fri, 24 Jul 2026 09:41:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 13:29:05 +0000</lastBuildDate>
+    <item>
+      <title>Most már tényleg hivatalos: Jürgen Klopp lett a német válogatott szövetségi kapitánya</title>
+      <link>https://www.eurosport.hu/labdarugas/hivatalos-klopp-szovetsegi-kapitany_sto23322290/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/07/24/image-500b039d-1b6e-4738-9f58-d1693748bb8e-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Jürgen Kloppot nevezte ki pénteken a labdarúgó-válogatott szövetségi kapitányának a német szövetség. Az 59 éves szakember 2024-ben távozott a Liverpooltól, azóta először vállalt edzői munkát. A szerződése a 2030-as világbajnokságig szól.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/hivatalos-klopp-szovetsegi-kapitany_sto23322290/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/07/24/image-500b039d-1b6e-4738-9f58-d1693748bb8e-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 09:42:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/07/24/image-500b039d-1b6e-4738-9f58-d1693748bb8e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>A Ferencváros a Real Madridot fogadja augusztusban</title>
       <link>https://www.eurosport.hu/labdarugas/a-ferencvaros-a-real-madridot-fogadja-augusztusban_sto23322272/story.shtml</link>
@@ -198,18 +210,6 @@
       <pubDate>Tue, 21 Jul 2026 15:13:29 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/21/image-b9a14baa-66b5-4bcc-b400-dbb2a96fd0ac-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Nicolò Barella: "Sosem fogadtam el igazán, hogy még nem vagyok BL-győztes"</title>
-      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/nicolo-barella-internazionale-bl-gyoztes-akarok-lenni_sto23321460/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/21/image-278b1efa-ee51-48de-9c6a-4f9ddc55f21a-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Nicolò Barella az Inter nyári edzőtáborában nyilatkozott, és többek között beszélt a következő szezonról, a fiatalokról, a jövőbeli céljairól és az olasz válogatottról is. Elégedett interes karrierjével, de többet szeretne: BL-győztes akar lenni, és majd ha eljön az ideje, Milánóból akar…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/nicolo-barella-internazionale-bl-gyoztes-akarok-lenni_sto23321460/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/21/image-278b1efa-ee51-48de-9c6a-4f9ddc55f21a-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 13:32:27 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/21/image-278b1efa-ee51-48de-9c6a-4f9ddc55f21a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

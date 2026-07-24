@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Fri, 24 Jul 2026 04:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:21:20 +0000</lastBuildDate>
+    <item>
+      <title>Újabb front nyílt a foci-vb legnagyobb botrányában: etikai bizottság elé kerülhet a Balogun-ügy</title>
+      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/balogun-ugy-folytatas-fifa_sto23322146/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/07/23/image-d470e6ae-379d-4ced-9ee1-c1cfceedeb72-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Norvég Labdarúgó-szövetség (NFF) fontolóra vette, hogy hivatalos panaszt nyújt be a FIFA etikai bizottságához amiatt, hogy a szervezet felfüggesztette Folarin Balogun automatikusan járó egymeccses eltiltását a világbajnokság alatt.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/balogun-ugy-folytatas-fifa_sto23322146/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/07/23/image-d470e6ae-379d-4ced-9ee1-c1cfceedeb72-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 05:30:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/07/23/image-d470e6ae-379d-4ced-9ee1-c1cfceedeb72-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Előnyben a Fradi, 2-1-re győzték le a Twentét az Európa-liga selejtezőjében</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/selejtezo-2.-fordulo-twente-ferencvarosi-tc_sto23322201/story.shtml</link>
@@ -210,18 +222,6 @@
       <pubDate>Tue, 21 Jul 2026 13:32:27 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/21/image-278b1efa-ee51-48de-9c6a-4f9ddc55f21a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Zajlik a harc az európai válogatottak között Guardioláért - ki áll nyerésre?</title>
-      <link>https://www.eurosport.hu/labdarugas/pep-guardiola-figc-fa-hol-terhet-vissza-a-katalan-edzo_sto23321481/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/20/image-190a4fd0-0c19-4049-9412-67db979fd5e1-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Pep Guardiola a tavalyi szezon végén elköszönt a Manchester Citytől, és elmondása szerint egy időre a futballtól is. Viszont már arról lehet olvasni, hogy az olasz szövetség udvarol neki, és nem kizárt, hogy Anglia is beszáll a versenybe.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/pep-guardiola-figc-fa-hol-terhet-vissza-a-katalan-edzo_sto23321481/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/20/image-190a4fd0-0c19-4049-9412-67db979fd5e1-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 10:37:55 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/20/image-190a4fd0-0c19-4049-9412-67db979fd5e1-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

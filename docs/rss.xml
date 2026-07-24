@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Thu, 23 Jul 2026 23:25:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 04:42:33 +0000</lastBuildDate>
     <item>
       <title>Előnyben a Fradi, 2-1-re győzték le a Twentét az Európa-liga selejtezőjében</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/selejtezo-2.-fordulo-twente-ferencvarosi-tc_sto23322201/story.shtml</link>
@@ -222,30 +222,6 @@
       <pubDate>Tue, 21 Jul 2026 10:37:55 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/20/image-190a4fd0-0c19-4049-9412-67db979fd5e1-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>FIFA-vizsgálat indulhat az argentinokkal szemben a vb-döntő lefújása után történtek miatt</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/fifa-fegyelmi-vizsgalat-argentina_sto23321371/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/20/image-d1b5e3a6-09b9-42fa-a8a1-af5e8f54d483-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Sajtóértesülések szerint a Nemzetközi Labdarúgó Szövetség (FIFA) fegyelmi vizsgálatot indít az argentinokkal szemben a spanyolok elleni vasárnapi világbajnoki döntő lefújását követően történtek miatt.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/fifa-fegyelmi-vizsgalat-argentina_sto23321371/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/20/image-d1b5e3a6-09b9-42fa-a8a1-af5e8f54d483-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 18:19:02 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/20/image-d1b5e3a6-09b9-42fa-a8a1-af5e8f54d483-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Soha nem lesz még egy Lionel Messi” – Így tisztelgett a világbajnok Yamal egykori példaképe előtt</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/donto-yamal-messi-olelkezes-peldakep-nyilatkozat_sto23321186/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/20/image-8e1609ea-9a5a-4ba0-b94e-6b29a7d1214d-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A Spanyolország 1–0-s győzelmével zárult vb-döntő a spanyolok fiatal csillaga, Lamine Yamal odament a könnyeivel küzdő Lionel Messihez. A 19 éves klasszis a meccs után megható szavakkal tisztelgett gyermekkori példaképe előtt.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/donto-yamal-messi-olelkezes-peldakep-nyilatkozat_sto23321186/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/20/image-8e1609ea-9a5a-4ba0-b94e-6b29a7d1214d-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 20 Jul 2026 08:33:52 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/20/image-8e1609ea-9a5a-4ba0-b94e-6b29a7d1214d-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

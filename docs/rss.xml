@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Fri, 24 Jul 2026 13:29:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 16:31:48 +0000</lastBuildDate>
+    <item>
+      <title>Álomprojekt edző nélkül: Guardiola nem kért a tízéves olasz tervből, dupla akkora gázsit akart</title>
+      <link>https://www.eurosport.hu/labdarugas/olasz-valogatott-szovetsegi-kapitany-maldini-guardiola-pirlo_sto23322363/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/07/24/image-a9437954-a6db-4ac1-bcf5-e35d697dc70a-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Pep Guardiola nemet mondott az Olasz Labdarúgó-szövetség (FIGC) megkeresésére, így biztosan nem ő veszi át a nemzeti csapat irányítását. A La Gazzetta dello Sport értesülései szerint a spanyol tréner késő este hívta fel az olasz szövetség vezetőit, hogy tájékoztassa őket a döntéséről.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/olasz-valogatott-szovetsegi-kapitany-maldini-guardiola-pirlo_sto23322363/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/07/24/image-a9437954-a6db-4ac1-bcf5-e35d697dc70a-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 24 Jul 2026 15:03:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/07/24/image-a9437954-a6db-4ac1-bcf5-e35d697dc70a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Most már tényleg hivatalos: Jürgen Klopp lett a német válogatott szövetségi kapitánya</title>
       <link>https://www.eurosport.hu/labdarugas/hivatalos-klopp-szovetsegi-kapitany_sto23322290/story.shtml</link>
@@ -198,18 +210,6 @@
       <pubDate>Wed, 22 Jul 2026 08:00:38 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/13/image-fe53ad0b-4dee-4e20-aa4d-1236bda39c7a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Lejárt, az ideje, nem kellene maradnia” - keményen nekiment Infantinónak a La Liga elnöke</title>
-      <link>https://www.eurosport.hu/labdarugas/gianni-infantino-fifa-tavozas-kritikak_sto23321549/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/21/image-b9a14baa-66b5-4bcc-b400-dbb2a96fd0ac-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A spanyol labdarúgó-bajnokságot (La Liga) irányító Javier Tebas szerint Gianni Infantinónak le kellene mondania a FIFA elnöki posztjáról, hiszen úgy véli, hogy a világszövetség „tönkreteszi a futballipart”.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/gianni-infantino-fifa-tavozas-kritikak_sto23321549/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/21/image-b9a14baa-66b5-4bcc-b400-dbb2a96fd0ac-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 21 Jul 2026 15:13:29 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/21/image-b9a14baa-66b5-4bcc-b400-dbb2a96fd0ac-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

@@ -7,7 +7,43 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 27 Jul 2026 10:52:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:00:07 +0000</lastBuildDate>
+    <item>
+      <title>Nulla fejes, csak rövid passz! Forradalmi húzás a világbajnok védőtől az agyrázkódások ellen</title>
+      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/como-varane-agyrazkodas-utanpotlas-fejeles-tiltas_sto23323213/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2024/09/25/image-05a7addb-6387-468c-a84e-5b96a618cdad-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Az olasz élvonalban szereplő Como drasztikus döntést hozott: teljes mértékben megtiltja a fejelést az U11-es és annál fiatalabb korosztályú utánpótláscsapataiban. A lépés hátterében a Real Madrid és a Manchester United korábbi világbajnok védője, Raphaël Varane áll, aki saját pályafutásának…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/como-varane-agyrazkodas-utanpotlas-fejeles-tiltas_sto23323213/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2024/09/25/image-05a7addb-6387-468c-a84e-5b96a618cdad-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 15:36:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2024/09/25/image-05a7addb-6387-468c-a84e-5b96a618cdad-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>„Olaszország szeretete nem egy munkától függ” – orosz kapcsolatok miatt hiúsult meg Pirlo kinevezése</title>
+      <link>https://www.eurosport.hu/labdarugas/olasz-valogatott-pirlo-orosz-kapcsolatok-botrany-szovetsegi-kapitany-maldini_sto23323204/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/07/27/image-a590542c-b63b-459f-a083-911fd740050c-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Néhány napja még a teljes olasz sportsajtó tényként kezelte, hogy az egykori zseniális labdarúgó, Andrea Pirlo lesz az olasz válogatott új szövetségi kapitánya. A kinevezést azonban egy robbanásveszélyes ügy írta felül: fény derült a szakember orosz üzleti kapcsolataira, ami azonnal megakasztotta a…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/olasz-valogatott-pirlo-orosz-kapcsolatok-botrany-szovetsegi-kapitany-maldini_sto23323204/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/07/27/image-a590542c-b63b-459f-a083-911fd740050c-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 13:57:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/07/27/image-a590542c-b63b-459f-a083-911fd740050c-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Egy héttel a foci-vb döntője után visszavonul a sokat kritizált finálé játékvezetője</title>
+      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/visszavonul-foci-vb-jatekvezeto-slavko-vincic_sto23323206/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/07/27/image-68102fd5-fee3-477d-a930-396f9edbab9c-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Egy héttel a labdarúgó-világbajnokság döntőjét követően bejelentette visszavonulását Slavko Vincic, a finálé játékvezetője.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/visszavonul-foci-vb-jatekvezeto-slavko-vincic_sto23323206/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/07/27/image-68102fd5-fee3-477d-a930-396f9edbab9c-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 13:45:20 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/07/27/image-68102fd5-fee3-477d-a930-396f9edbab9c-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Infantino gyűlöletkeltéssel és álhírterjesztéssel vádolja a kritikusait</title>
       <link>https://www.eurosport.hu/labdarugas/infantino-gyuloeletkeltessel-es-alhirterjesztessel-vadolja-a-kritikusait_sto23323151/story.shtml</link>
@@ -174,42 +210,6 @@
       <pubDate>Fri, 24 Jul 2026 09:01:42 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/24/image-99b89f1a-8bd1-42ef-b8a3-d053127db4a2-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Újabb front nyílt a foci-vb legnagyobb botrányában: etikai bizottság elé kerülhet a Balogun-ügy</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/balogun-ugy-folytatas-fifa_sto23322146/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/23/image-d470e6ae-379d-4ced-9ee1-c1cfceedeb72-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A Norvég Labdarúgó-szövetség (NFF) fontolóra vette, hogy hivatalos panaszt nyújt be a FIFA etikai bizottságához amiatt, hogy a szervezet felfüggesztette Folarin Balogun automatikusan járó egymeccses eltiltását a világbajnokság alatt.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/balogun-ugy-folytatas-fifa_sto23322146/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/23/image-d470e6ae-379d-4ced-9ee1-c1cfceedeb72-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jul 2026 05:30:10 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/23/image-d470e6ae-379d-4ced-9ee1-c1cfceedeb72-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Hivatalos lett a Manchester City rekordigazolása, Anderson egyből oda is szúrt a Unitednek</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/elliot-anderson-manchester-city-igazolas_sto23322161/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/23/image-6adef1d7-0e6e-461e-acec-cf62d12638b4-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Elliot Anderson „Manchester királyának” nevezte a Manchester Cityt, miután 116 millió fontért a Nottingham Foresttől a klubhoz szerződött.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/elliot-anderson-manchester-city-igazolas_sto23322161/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/23/image-6adef1d7-0e6e-461e-acec-cf62d12638b4-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jul 2026 18:17:22 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/23/image-6adef1d7-0e6e-461e-acec-cf62d12638b4-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A norwichi kudarctól az Arsenalig – hogyan építette újjá a karrierjét Christos Tzolis?</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/christos-tzolis-arsenal_sto23322130/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/23/image-5fbb8e57-1023-436d-97b5-b51b3db475d3-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Christos Tzolis neve nem cseng ismeretlenül a Premier League-ben, de első angliai próbálkozása inkább kudarcként maradt emlékezetes. Azóta azonban Belgiumban teljesen újjászületett, és ez elég volt ahhoz, hogy az Arsenal 34 millió fontot fizessen érte.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/christos-tzolis-arsenal_sto23322130/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/23/image-5fbb8e57-1023-436d-97b5-b51b3db475d3-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jul 2026 17:04:25 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/23/image-5fbb8e57-1023-436d-97b5-b51b3db475d3-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

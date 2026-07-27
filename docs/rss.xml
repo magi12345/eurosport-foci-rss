@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 27 Jul 2026 02:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 10:52:55 +0000</lastBuildDate>
+    <item>
+      <title>Infantino gyűlöletkeltéssel és álhírterjesztéssel vádolja a kritikusait</title>
+      <link>https://www.eurosport.hu/labdarugas/infantino-gyuloeletkeltessel-es-alhirterjesztessel-vadolja-a-kritikusait_sto23323151/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/07/27/image-cafb1f62-21cc-465c-9347-e79bed30f8fc-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Gianni Infantino, a Nemzetközi Labdarúgó Szövetség (FIFA) elnöke gyűlöletkeltéssel és hamis hírek terjesztésével vádolta meg nyílt levelében az egy hete befejeződött világbajnokság bírálóit, miközben sikeresnek nevezte a tornát, amely szerinte az egységet, a biztonságot és a befogadást ünnepelte.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/infantino-gyuloeletkeltessel-es-alhirterjesztessel-vadolja-a-kritikusait_sto23323151/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/07/27/image-cafb1f62-21cc-465c-9347-e79bed30f8fc-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 10:31:53 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/07/27/image-cafb1f62-21cc-465c-9347-e79bed30f8fc-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Újabb fordulat az olasz kapitánykeresésben: Pirlo kinevezése körül is áll a bál</title>
       <link>https://www.eurosport.hu/labdarugas/andrea-pirlo-orosz-kapcsolatok_sto23322921/story.shtml</link>
@@ -198,18 +210,6 @@
       <pubDate>Thu, 23 Jul 2026 17:04:25 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/23/image-5fbb8e57-1023-436d-97b5-b51b3db475d3-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A sztárok vébéjének indult, de a csapatjáték ért fel a csúcsra – a 2026-os világbajnokság tanulságai</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/48-csapat-szabalyok-trump-infantino-merleg_sto23321779/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/22/image-ad67c6b1-916d-4e5a-9850-fe3c6667747d-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A múlt héten véget ért a 2026-os labdarúgó-világbajnokság, melynek Spanyolország lett a győztese. A legnagyobb félelmek nem igazolódtak be a torna kapcsán, a 48 csapatos bővítés nem rontott a színvonalon, ugyanakkor a formátumon mindenképpen változtatni kell a jövőben. Hasonló a helyzet a vébén…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/48-csapat-szabalyok-trump-infantino-merleg_sto23321779/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/22/image-ad67c6b1-916d-4e5a-9850-fe3c6667747d-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 23 Jul 2026 14:30:25 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/22/image-ad67c6b1-916d-4e5a-9850-fe3c6667747d-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

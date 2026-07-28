@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:58:00 +0000</lastBuildDate>
+    <item>
+      <title>Betelt a pohár a VAR miatt: az UEFA szigorítana a videóbíró használatán</title>
+      <link>https://www.eurosport.hu/labdarugas/betelt-a-pohar-var-uefa_sto23323445/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/07/28/image-f9f68d03-1c88-4a37-bf0a-ef43c6f69092-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A VAR-t csak akkor kellene használni, ha a játékvezető döntése egyértelműen hibás, vagy világos szabálytalanságot nem vett észre – mondták ki az európai játékvezetői vezetők.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/betelt-a-pohar-var-uefa_sto23323445/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/07/28/image-f9f68d03-1c88-4a37-bf0a-ef43c6f69092-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 13:46:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/07/28/image-f9f68d03-1c88-4a37-bf0a-ef43c6f69092-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Zidane nem kötné gúzsba a franciákat: kreatív futballt várhatunk a világklasszis kerettől</title>
       <link>https://www.eurosport.hu/labdarugas/zinedine-zidane-franciaorszag-kylian-mbappe_sto23323422/story.shtml</link>
@@ -186,30 +198,6 @@
       <pubDate>Sat, 25 Jul 2026 11:37:53 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/24/image-7b2e4c84-2a7f-45e5-8519-00e8975c8575-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Enzo Maresca: "Vannak hasonlóságok, de nem az a célom, hogy lemásoljam Guardiolát"</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/enzo-maresca-pep-guardiola-masolas_sto23322586/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/25/image-0a5da95f-270f-4640-9024-adaeb853d1ed-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Egyelőre még szokni kell a gondolatát, hogy nem Pep Guardiola a Manchester City edzője. Utódja az az Enzo Maresca lett, aki a 2022/23-as szezonban Guardiola segítője volt, később pedig a Leicester Citynél, majd a Chelsea-nél dolgozott vezetőedzőként. Noha a filozófiájuk hasonló, Maresca már a…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/enzo-maresca-pep-guardiola-masolas_sto23322586/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/25/image-0a5da95f-270f-4640-9024-adaeb853d1ed-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 25 Jul 2026 10:31:59 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/25/image-0a5da95f-270f-4640-9024-adaeb853d1ed-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Betelt a pohár: az Arsenal a klubját megkerülve tárgyal a csapatkapitánnyal, a Newcastle megelégelte</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/arsenal-newcastle-united-bruno-guimaraes-atigazolas-targyalsok_sto23322439/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/02/07/image-f4e3fce1-1113-42fa-8204-34166ebd9284-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Egybehangzó szigetországi sajtóbeszámolók szerint a Newcastle United vezetősége és szakmai stábja elégedetlen azzal a móddal, ahogyan az Arsenal próbálja megkörnyékezni a csapat brazil válogatott középpályását és csapatkapitányát, Bruno Guimarãest.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/arsenal-newcastle-united-bruno-guimaraes-atigazolas-targyalsok_sto23322439/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/02/07/image-f4e3fce1-1113-42fa-8204-34166ebd9284-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jul 2026 18:32:06 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/02/07/image-f4e3fce1-1113-42fa-8204-34166ebd9284-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

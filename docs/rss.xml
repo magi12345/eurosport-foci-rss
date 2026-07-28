@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 28 Jul 2026 10:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:19:05 +0000</lastBuildDate>
+    <item>
+      <title>Zidane nem kötné gúzsba a franciákat: kreatív futballt várhatunk a világklasszis kerettől</title>
+      <link>https://www.eurosport.hu/labdarugas/zinedine-zidane-franciaorszag-kylian-mbappe_sto23323422/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/07/28/image-2313865b-5fdb-4fe5-b28b-722e70e12f33-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Zinedine Zidane óriási elvárásokkal és a világ egyik legtehetségesebb keretével a háta mögött veszi át a francia válogatott irányítását. Az 1998-as világbajnok hős visszatérése azt a célt szolgálja, hogy a legutóbbi kudarcok után ismét trófeákat nyerjen a nemzeti csapattal.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/zinedine-zidane-franciaorszag-kylian-mbappe_sto23323422/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/07/28/image-2313865b-5fdb-4fe5-b28b-722e70e12f33-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 28 Jul 2026 12:12:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/07/28/image-2313865b-5fdb-4fe5-b28b-722e70e12f33-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Megkapta az engedélyt a Premier League: új szabály érkezik augusztustól</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/uj-szabaly-engedely-teszteles-premier-league_sto23323364/story.shtml</link>
@@ -198,18 +210,6 @@
       <pubDate>Fri, 24 Jul 2026 18:32:06 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/02/07/image-f4e3fce1-1113-42fa-8204-34166ebd9284-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Álomprojekt edző nélkül: Guardiola nem kért a tízéves olasz tervből, dupla akkora gázsit akart</title>
-      <link>https://www.eurosport.hu/labdarugas/olasz-valogatott-szovetsegi-kapitany-maldini-guardiola-pirlo_sto23322363/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/24/image-a9437954-a6db-4ac1-bcf5-e35d697dc70a-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Pep Guardiola nemet mondott az Olasz Labdarúgó-szövetség (FIGC) megkeresésére, így biztosan nem ő veszi át a nemzeti csapat irányítását. A La Gazzetta dello Sport értesülései szerint a spanyol tréner késő este hívta fel az olasz szövetség vezetőit, hogy tájékoztassa őket a döntéséről.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/olasz-valogatott-szovetsegi-kapitany-maldini-guardiola-pirlo_sto23322363/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/24/image-a9437954-a6db-4ac1-bcf5-e35d697dc70a-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 24 Jul 2026 15:03:10 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/24/image-a9437954-a6db-4ac1-bcf5-e35d697dc70a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

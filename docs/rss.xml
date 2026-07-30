@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 29 Jul 2026 20:28:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 02:03:06 +0000</lastBuildDate>
     <item>
       <title>„Az eredményekkel maximálisan elégedett vagyok” – A paksi pofon sem törte meg a Fradi edzőjét</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/ferencvaros-twente-borbely-rommens-sajtotajekotato_sto23323788/story.shtml</link>
@@ -165,6 +165,18 @@
       </media:group>
     </item>
     <item>
+      <title>Sztárklubok csábítása ellenére hosszabbított: Alkmaarban marad a magyar csodatini</title>
+      <link>https://www.eurosport.hu/labdarugas/kovacs-bendeguz-magyar-tehetseg-az-alkmaar-szerzodeshosszabbitas_sto23323281/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/03/13/image-c3895471-a493-4fa4-b073-2e75eacf23f2-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Kovács Bendegúz válogatott labdarúgó meghosszabbította szerződését a holland élvonalban szereplő AZ Alkmaarnál.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/kovacs-bendeguz-magyar-tehetseg-az-alkmaar-szerzodeshosszabbitas_sto23323281/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/03/13/image-c3895471-a493-4fa4-b073-2e75eacf23f2-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 27 Jul 2026 19:10:22 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/03/13/image-c3895471-a493-4fa4-b073-2e75eacf23f2-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Nulla fejes, csak rövid passz! Forradalmi húzás a világbajnok védőtől az agyrázkódások ellen</title>
       <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/como-varane-agyrazkodas-utanpotlas-fejeles-tiltas_sto23323213/story.shtml</link>
       <description>&lt;img src="https://i.eurosport.com/2024/09/25/image-05a7addb-6387-468c-a84e-5b96a618cdad-85-2560-1440.jpeg" /&gt;
@@ -186,18 +198,6 @@
       <pubDate>Mon, 27 Jul 2026 13:57:20 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/27/image-a590542c-b63b-459f-a083-911fd740050c-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Robbant az átigazolási bomba: távozik a PSG egyik legjobbja, főszerepben az ügyben a Real Madrid is</title>
-      <link>https://www.eurosport.hu/labdarugas/bradley-barcola-psg-tavozas-atigazolas-liverpool_sto23322880/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/26/image-e43de885-2c4e-4cb2-9ba5-4d5d3effc0b2-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Vasárnap szinte a semmiből érkezett a hír a nemzetközi sportsajtóban: Bradley Barcola nem hosszabbítja meg a 2028-ban lejáró szerződését a PSG-nél. A 23 éves, kétszeres Bajnokok Ligája-győztes francia támadó már idén nyáron klubot válthat, három európai sztárcsapat is kinézte őt.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bradley-barcola-psg-tavozas-atigazolas-liverpool_sto23322880/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/26/image-e43de885-2c4e-4cb2-9ba5-4d5d3effc0b2-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 26 Jul 2026 15:46:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/26/image-e43de885-2c4e-4cb2-9ba5-4d5d3effc0b2-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>

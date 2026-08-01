@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 01 Aug 2026 17:28:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 19:03:36 +0000</lastBuildDate>
+    <item>
+      <title>Hatgólos döntetlen a Kispest-Honvéd és az MTK 200. mérkőzésén</title>
+      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mtk-kispest-honved-eredmeny_sto23324600/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/01/image-162f06b2-122c-497c-a21b-e105fa356dac-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Labdarúgó NB I - Az MTK Budapest a 96. percben egyenlítve 3-3-as döntetlent játszott a Kispest-Honvéd vendégeként az OTP Bank Liga második fordulójának egyetlen szombati összecsapásán. A hazai gólszerzők közül Szamosi Ádám 19, míg Somogyi Ádám 18 éves, kettejüknek összesen négy NB I-es mérkőzésük…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mtk-kispest-honved-eredmeny_sto23324600/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/01/image-162f06b2-122c-497c-a21b-e105fa356dac-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 01 Aug 2026 18:01:43 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/01/image-162f06b2-122c-497c-a21b-e105fa356dac-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>A Barcelonától a PSG-hez igazolhat a világbajnoki döntő egyetlen gólját szerző Ferran Torres</title>
       <link>https://www.eurosport.hu/labdarugas/ferras-torres-atigazolasi-pletyka-barcelona-psg_sto23324562/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Fri, 31 Jul 2026 06:50:44 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/31/image-d45df11f-5f39-49cf-885c-f2c5e4be2940-85-2560-1440.png" type="image/png" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Emberhátrányban játszva is kiejtette a holland élvonalbeli Twentét a Ferencváros az Európa-ligában</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/ferencvaros-twente-selejtezo-gyozelem-tovabbjutas_sto23324109/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/30/image-d6d51052-47aa-4e15-b313-571cb80b9c94-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Az előző kiírásban nyolcaddöntős Ferencváros közel egy órán keresztül emberhátrányban játszva 2-2-es döntetlent játszott a holland Twentével csütörtökön a Groupama Arénában a labdarúgó Európa-liga-selejtező második fordulójának visszavágóján, és 4-3-as összesítéssel továbbjutott.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/ferencvaros-twente-selejtezo-gyozelem-tovabbjutas_sto23324109/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/30/image-d6d51052-47aa-4e15-b313-571cb80b9c94-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jul 2026 20:36:18 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/30/image-d6d51052-47aa-4e15-b313-571cb80b9c94-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>

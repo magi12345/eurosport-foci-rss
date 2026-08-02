@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 01 Aug 2026 21:51:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 02:27:23 +0000</lastBuildDate>
     <item>
       <title>Hatgólos döntetlen a Kispest-Honvéd és az MTK 200. mérkőzésén</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mtk-kispest-honved-eredmeny_sto23324600/story.shtml</link>
@@ -210,18 +210,6 @@
       <pubDate>Thu, 30 Jul 2026 16:54:44 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/30/image-694905e4-04e9-4b60-86be-d1f8936df903-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„A futball lelkét adják el” – Óriási a balhé a FIFA 20 milliárd dolláros terve miatt</title>
-      <link>https://www.eurosport.hu/labdarugas/gianni-infantino-fifa-balhe_sto23323999/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/30/image-5a526330-b3d9-41b2-8bff-b2c208b1b4f0-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A FIFA 20 milliárd dollár értékű kereskedelmi leányvállalat létrehozására és kisebbségi részesedések értékesítésére vonatkozó terve komoly ellenállást váltott ki a labdarúgás regionális szövetségeiből, amelyek szerint a nemzetközi szövetség úgy hozta nyilvánosságra elképzelését, hogy előzetesen nem…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/gianni-infantino-fifa-balhe_sto23323999/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/30/image-5a526330-b3d9-41b2-8bff-b2c208b1b4f0-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 30 Jul 2026 14:37:12 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/30/image-5a526330-b3d9-41b2-8bff-b2c208b1b4f0-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

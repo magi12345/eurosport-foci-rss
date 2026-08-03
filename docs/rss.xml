@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 03 Aug 2026 12:18:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:59:54 +0000</lastBuildDate>
+    <item>
+      <title>„Van egy sebem, de már begyógyult” – Xabi Alonso új fejezetet nyit a madridi kudarc után</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/xabi-alonso-chelsea-pl_sto23325040/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/03/image-51b6bafe-c351-424f-b537-51634448736d-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Xabi Alonso néhány hónappal a Real Madridtól való távozása után a Chelsea-nél már új kihíváson dolgozik. A spanyol szakember nemcsak eredményes csapatot építene, hanem az öltözői kultúrán és a vezérek hiányán is változtatna.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/xabi-alonso-chelsea-pl_sto23325040/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/03/image-51b6bafe-c351-424f-b537-51634448736d-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 03 Aug 2026 15:55:04 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/03/image-51b6bafe-c351-424f-b537-51634448736d-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>A Liverpool kétgólos előnyről kapott ki a Leedstől</title>
       <link>https://www.eurosport.hu/labdarugas/liverpool-leeds-amerikai-tura_sto23324890/story.shtml</link>
@@ -210,18 +222,6 @@
       <pubDate>Fri, 31 Jul 2026 18:33:40 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/07/31/image-200ba168-ffca-472b-ad03-f5d4597c7c5f-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Akit túl kicsinek tartottak, mégis a legnagyobb lett – Franco Baresi öröksége</title>
-      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/franco-baresi-elete-karrierje-oroksege_sto23324313/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/31/image-a28fa73d-c7e5-4d6d-8a52-e2d4e8eba5a1-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Franco Baresi karrierje nehezen indult be, miután az alacsony termete miatt több akadémia is visszautasította. A lehetőséget a Milantól kapta meg, ahol a klub történetének legfontosabb játékosa lett. Három BEK/BL-trófea mellett hat bajnoki címet nyert a piros-feketéknél, és nem csak az…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/franco-baresi-elete-karrierje-oroksege_sto23324313/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/31/image-a28fa73d-c7e5-4d6d-8a52-e2d4e8eba5a1-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 17:04:46 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/31/image-a28fa73d-c7e5-4d6d-8a52-e2d4e8eba5a1-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

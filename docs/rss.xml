@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 03 Aug 2026 23:32:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 02:08:58 +0000</lastBuildDate>
     <item>
       <title>A Zalaegerszeg három góllal verte hazai pályán a Paksot</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/zte-paks-eredmeny_sto23325100/story.shtml</link>
@@ -210,18 +210,6 @@
       <pubDate>Sat, 01 Aug 2026 10:13:03 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/01/image-f9f1453b-4e93-41a0-a5b7-2e5951746102-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Ő a futball istene” – a Real Madrid egykori sztárja leborult Messi nagysága előtt</title>
-      <link>https://www.eurosport.hu/labdarugas/inter-miami-casemiro-messi-real-madrid-barcelona-futballisten-nyilatkozat_sto23324336/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/31/image-200ba168-ffca-472b-ad03-f5d4597c7c5f-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A spanyol El Clásicók ádáz csatái után a Real Madrid egykori meghatározó szereplője, a brazil Casemiro az MLS-ben címvédő Inter Miamiban egyesíti erejét az argentin zsenivel, akit egykor képtelenség volt megállítania.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/inter-miami-casemiro-messi-real-madrid-barcelona-futballisten-nyilatkozat_sto23324336/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/31/image-200ba168-ffca-472b-ad03-f5d4597c7c5f-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 31 Jul 2026 18:33:40 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/31/image-200ba168-ffca-472b-ad03-f5d4597c7c5f-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

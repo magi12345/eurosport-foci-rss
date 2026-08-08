@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 08 Aug 2026 04:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:44:27 +0000</lastBuildDate>
     <item>
       <title>Hiába jött vissza kétgólos hátrányból az MTK, Colley hosszabbításos góljával nyert a PAFC</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mtk-pafc-eredmeny_sto23326260/story.shtml</link>
@@ -201,18 +201,6 @@
       </media:group>
     </item>
     <item>
-      <title>Kétszer még felállt, harmadszor már nem tudott: idén is elszállt a Ferencváros BL-álma</title>
-      <link>https://www.eurosport.hu/labdarugas/noi-bl-selejtezo-ferencvaros-paok-kieses_sto23325705/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/05/image-4bc5c363-b40e-4043-8084-83f845d0345b-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A Ferencváros hosszabbítás után 3-2-re kikapott a görög PAOK-tól a női labdarúgó Bajnokok Ligája-selejtező óbudai tornájának szerdai elődöntőjében, így ebben a sorozatban lemarad a továbbjutásról.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/noi-bl-selejtezo-ferencvaros-paok-kieses_sto23325705/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/05/image-4bc5c363-b40e-4043-8084-83f845d0345b-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 05 Aug 2026 18:20:07 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/05/image-4bc5c363-b40e-4043-8084-83f845d0345b-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
       <title>„Egy semmirekellő gazfickót bálványozunk” – alaposan felkapták a vizet Neymar provokációja után</title>
       <link>https://www.eurosport.hu/labdarugas/neymar-santos-brazil-kupa-balhe-klubelnok-semmirekello-gazficko_sto23325667/story.shtml</link>
       <description>&lt;img src="https://i.eurosport.com/2026/08/05/image-461a069e-2c0a-4cd9-97d4-ecccf5870cc9-85-2560-1440.jpeg" /&gt;
@@ -234,6 +222,18 @@
       <pubDate>Wed, 05 Aug 2026 14:00:40 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/05/image-98efa2d0-068c-4dca-bb41-f1f6dd07d210-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>„Hála Istennek, hogy Diego a kokainhoz nyúlt” – Maradona legfőbb bizalmasának titkai</title>
+      <link>https://www.eurosport.hu/labdarugas/maradona-signorini-eronleti-edzo-konyvajanlo_sto23325285/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/06/11/image-502e2d3f-10ae-490d-8975-6d7aae2171af-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A 2020-ban elhunyt Diego Maradona életét az elmúlt években több kiadvány elevenítette fel, azonban mind közül kiemelkedik Fernando Signorini exkluzív kötete. A legendás világbajnok labdarúgó egykori személyi edzője és bizalmasa Luciano Wernicke közreműködésével egy olyan kötetet tett az olvasók…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/maradona-signorini-eronleti-edzo-konyvajanlo_sto23325285/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/06/11/image-502e2d3f-10ae-490d-8975-6d7aae2171af-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 04 Aug 2026 15:52:38 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/06/11/image-502e2d3f-10ae-490d-8975-6d7aae2171af-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

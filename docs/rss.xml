@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 12 Aug 2026 14:34:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:56:05 +0000</lastBuildDate>
+    <item>
+      <title>Messi először szólalt meg édesapja halála óta; kételkedik abban, hogy még sokáig fog játszani</title>
+      <link>https://www.eurosport.hu/labdarugas/messi-edesapja-halala-folytatas_sto23327505/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/12/image-994d2753-1535-4bd8-9f6e-cf68aeb24e4e-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Édesapja halála után az idén az argentin válogatottat világbajnoki ezüstéremre vezető Lionel Messi kételkedik abban, hogy még sokáig fog futballozni. A 39 éves sztár először nyilvánult meg Jorge Messi szombati halála óta, és érzelmes posztban köszönt el 68 évesen elhunyt apjától.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/messi-edesapja-halala-folytatas_sto23327505/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/12/image-994d2753-1535-4bd8-9f6e-cf68aeb24e4e-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 15:27:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/12/image-994d2753-1535-4bd8-9f6e-cf68aeb24e4e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>"Ez nem igaz" – Slot cáfolta a pletykákat, nem érdekli a holland szövetségi kapitányi poszt</title>
       <link>https://www.eurosport.hu/labdarugas/slot-holland-szovkap-nem-akar-lenni_sto23327431/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Sun, 09 Aug 2026 16:52:01 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/09/image-d51ec94f-b2f2-40a9-8d64-d37564740d7d-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Egy újabb tragédia után lépett az FA: "Minden betonfaltól meg kell szabadulni"</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/angol-fa-kozlemeny-minden-betonfaltol-megszabadulni_sto23326670/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/09/image-3d61d2b0-ea57-48d9-9982-be7ffeadc941-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Az angol labdarúgó-szövetség (FA) egy biztonsági felülvizsgálatot követően betiltotta a pályák körüli, tömör téglából, salakblokkból vagy betonból készült kerítésfalak alkalmazását.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/angol-fa-kozlemeny-minden-betonfaltol-megszabadulni_sto23326670/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/09/image-3d61d2b0-ea57-48d9-9982-be7ffeadc941-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 15:54:41 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/09/image-3d61d2b0-ea57-48d9-9982-be7ffeadc941-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:13:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:00:13 +0000</lastBuildDate>
+    <item>
+      <title>"Ez nem igaz" – Slot cáfolta a pletykákat, nem érdekli a holland szövetségi kapitányi poszt</title>
+      <link>https://www.eurosport.hu/labdarugas/slot-holland-szovkap-nem-akar-lenni_sto23327431/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/12/image-a62d1532-4958-436f-a7eb-598055d9732d-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Liverpool korábbi vezetőedzője, Arne Slot elárulta, hogy nem érdekli a holland válogatott megüresedett szövetségi kapitányi posztja, mert inkább a klubfutballban maradna.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/slot-holland-szovkap-nem-akar-lenni_sto23327431/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/12/image-a62d1532-4958-436f-a7eb-598055d9732d-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 12 Aug 2026 11:34:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/12/image-a62d1532-4958-436f-a7eb-598055d9732d-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>A klub, amelynek már jövője sem volt: 14 évnyi küszködés után újra az élvonalban a Racing Santander</title>
       <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/racing-santander_sto23327358/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Sun, 09 Aug 2026 15:54:41 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/09/image-3d61d2b0-ea57-48d9-9982-be7ffeadc941-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Óriási futballista lehet” - Del Piero hatalmas potenciált lát a Juventus új ígéretében</title>
-      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/alexxandro-del-piero-kerim-alajbegovic-potencial_sto23326660/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/09/image-8eae6460-e5f5-4cce-b9b6-413bce6b8349-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Alessandro Del Piero kellemesen meglepődött, hogy a Juventusnak sikerült leigazolnia a 18 éves Kerim Alajbegovićot a Bayer Leverkusentől. A torinóiak legendája nagy tehetségnek tartja a fiatal támadót, és külön kiemelte, hogy a hozzá hasonló játékosokat mostanában elveszíteni szoktak az olasz…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/alexxandro-del-piero-kerim-alajbegovic-potencial_sto23326660/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/09/image-8eae6460-e5f5-4cce-b9b6-413bce6b8349-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 09 Aug 2026 14:21:25 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/09/image-8eae6460-e5f5-4cce-b9b6-413bce6b8349-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

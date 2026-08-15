@@ -7,7 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 15 Aug 2026 10:45:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:49:14 +0000</lastBuildDate>
+    <item>
+      <title>Elfogyott volna a szaúdi pénz? Miért alakult át ennyire drasztikusan a Newcastle-projekt?</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/newcastle-united-iranyvaltas-uj-projekt_sto23328021/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/14/image-eedb49f3-7d18-41cd-8066-fdf59036f031-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Miután 2021 októberében a Public Investment Found (PIF) – vagyis lényegében a szaúdi állam – megvásárolta a Newcastle-t, sokan arra számítottak, hogy egy újabb szuperklub nő ki a Premier League-ből. A klubra rászabadult pénz valóban fejlődőpályára állította a Newcastle-t, több alkalommal…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/newcastle-united-iranyvaltas-uj-projekt_sto23328021/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/14/image-eedb49f3-7d18-41cd-8066-fdf59036f031-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 11:57:51 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/14/image-eedb49f3-7d18-41cd-8066-fdf59036f031-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A PSG nem szöszöl: leigazolta a világbajnoki címet eldöntő támadót a Barcelonától</title>
+      <link>https://www.eurosport.hu/labdarugas/psg-barcelona-ferran-torres_sto23328317/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/15/image-9ce83dc9-a966-4bde-99a4-98e5b3ef62c4-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Bajnokok Ligája- és friss európai Szuperkupa-győztes Paris Saint-Germain leigazolta a Barcelonától a spanyolok világbajnok futballistáját, Ferran Torrest.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/psg-barcelona-ferran-torres_sto23328317/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/15/image-9ce83dc9-a966-4bde-99a4-98e5b3ef62c4-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 15 Aug 2026 11:27:19 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/15/image-9ce83dc9-a966-4bde-99a4-98e5b3ef62c4-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>97. percben szerzett góllal fordított a Vasas a szintén újonc Kispest-Honvéd otthonában</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/kispest-honved-vasas-eredmeny_sto23328165/story.shtml</link>
@@ -186,18 +210,6 @@
       <pubDate>Wed, 12 Aug 2026 15:27:03 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/12/image-994d2753-1535-4bd8-9f6e-cf68aeb24e4e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A klub, amelynek már jövője sem volt: 14 évnyi küszködés után újra az élvonalban a Racing Santander</title>
-      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/racing-santander_sto23327358/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/12/image-6c4b1d5e-420b-48b8-a156-27a3bc2f2fc7-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A Racing Santander 14 év után visszatér a spanyol élvonalba, de a feljutás története jóval többről szól egy sikeres szezon megkoronázásáról. A klub megjárta az alacsonyabb osztályokat, komoly működési és gazdasági nehézségeken ment keresztül, kétszer is éppen csak egy hajszállal maradt le a…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/racing-santander_sto23327358/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/12/image-6c4b1d5e-420b-48b8-a156-27a3bc2f2fc7-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 08:14:45 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/12/image-6c4b1d5e-420b-48b8-a156-27a3bc2f2fc7-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

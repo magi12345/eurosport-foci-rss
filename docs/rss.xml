@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Fri, 14 Aug 2026 21:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 02:29:05 +0000</lastBuildDate>
     <item>
       <title>97. percben szerzett góllal fordított a Vasas a szintén újonc Kispest-Honvéd otthonában</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/kispest-honved-vasas-eredmeny_sto23328165/story.shtml</link>
@@ -198,18 +198,6 @@
       <pubDate>Wed, 12 Aug 2026 08:14:45 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/12/image-6c4b1d5e-420b-48b8-a156-27a3bc2f2fc7-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Elaludtak a játékosok a megbeszéléseken” – kemény részletek az olasz sikeredző bizarr módszereiről</title>
-      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/ashley-young-nyilatkozat-conte-brutalis-edzesmodszerek_sto23327238/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/11/image-319e3275-bc1e-42eb-a102-566b4975dc1a-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A Manchester United és az Internazionale korábbi angol válogatott szélsője rávilágított, hogy az olasz sikeredző, Antonio Conte miért képtelen két évnél tovább megmaradni egyetlen klubnál.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/ashley-young-nyilatkozat-conte-brutalis-edzesmodszerek_sto23327238/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/11/image-319e3275-bc1e-42eb-a102-566b4975dc1a-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 04:30:42 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/11/image-319e3275-bc1e-42eb-a102-566b4975dc1a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

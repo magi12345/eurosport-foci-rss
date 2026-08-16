@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 15 Aug 2026 21:17:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 03:44:31 +0000</lastBuildDate>
     <item>
       <title>Késői dráma Nyíregyházán, kihagyott MTK-tizenegyes a zárt kapus Szuszában: ez történt az NB I-ben</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/ujpest-mtk-nyiregyhaza-kisvarda_sto23328437/story.shtml</link>
@@ -201,15 +201,15 @@
       </media:group>
     </item>
     <item>
-      <title>Messi először szólalt meg édesapja halála óta; kételkedik abban, hogy még sokáig fog játszani</title>
-      <link>https://www.eurosport.hu/labdarugas/messi-edesapja-halala-folytatas_sto23327505/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/12/image-994d2753-1535-4bd8-9f6e-cf68aeb24e4e-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Édesapja halála után az idén az argentin válogatottat világbajnoki ezüstéremre vezető Lionel Messi kételkedik abban, hogy még sokáig fog futballozni. A 39 éves sztár először nyilvánult meg Jorge Messi szombati halála óta, és érzelmes posztban köszönt el 68 évesen elhunyt apjától.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/messi-edesapja-halala-folytatas_sto23327505/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/12/image-994d2753-1535-4bd8-9f6e-cf68aeb24e4e-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 12 Aug 2026 15:27:03 +0000</pubDate>
+      <title>„Ne számoljatok velem!” – beintett a világbajnok csatár, és azonnal átigazolási kérelmet nyújtott be</title>
+      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/alvarez-atletico-tavozas-barcelona-uzenet-simeone-balhe_sto23327192/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/04/18/image-418db3bf-3f96-408f-af70-e03afb3ad1a5-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Végképp pattanásig feszültek az indulatok az Atlético Madrid távozással kacérkodó támadója és a spanyol klub vezetése között. A legfrissebb beszámolók szerint Julián Álvarez sorsa visszafordíthatatlan, a világbajnok argentin csatár az egész klubra berágott és mielőbb távozni akar a madridiaktól.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/alvarez-atletico-tavozas-barcelona-uzenet-simeone-balhe_sto23327192/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/04/18/image-418db3bf-3f96-408f-af70-e03afb3ad1a5-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 11 Aug 2026 14:40:56 +0000</pubDate>
       <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/12/image-994d2753-1535-4bd8-9f6e-cf68aeb24e4e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+        <media:content url="https://i.eurosport.com/2026/04/18/image-418db3bf-3f96-408f-af70-e03afb3ad1a5-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

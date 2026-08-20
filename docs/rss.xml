@@ -7,12 +7,22 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Thu, 20 Aug 2026 14:06:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:29:32 +0000</lastBuildDate>
     <item>
       <title>Harry Kane elárulta, már nem érzi ugyanazt a késztetést a Premier League-be való visszatérésre</title>
       <link>https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Nem csitulnak a kedélyek: bizalmatlansági szavazást fontolgatnak Infantino ellen</title>
+      <link>https://www.eurosport.hu/labdarugas/bizalmatlansagi-inditvany-merlegeles_sto23329734/story.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bizalmatlansagi-inditvany-merlegeles_sto23329734/story.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
@@ -89,30 +99,20 @@
       </media:group>
     </item>
     <item>
-      <title>"Egy vagyok közületek" – ezzel az üzenettel tért vissza Mourinho a Real Madridhoz</title>
-      <link>https://www.eurosport.hu/labdarugas/jose-mourinho-visszateres-real-madrid_vid60093944/video.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/jose-mourinho-visszateres-real-madrid_vid60093944/video.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>"A Milan ugyanazon a szinten van, mint a Real Madrid" – Modrić elárulta, miért nem vonult vissza</title>
-      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/luka-modric-milan-real-madrid-visszavonulas_sto23329268/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/luka-modric-milan-real-madrid-visszavonulas_sto23329268/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
       <title>Ezzel a zseniális videóval jelentette be Rodri leigazolását a Barcelona</title>
       <link>https://www.eurosport.hu/labdarugas/rodri-barcelona-atigazolas_vid60093894/video.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/rodri-barcelona-atigazolas_vid60093894/video.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>"Egy vagyok közületek" – ezzel az üzenettel tért vissza Mourinho a Real Madridhoz</title>
+      <link>https://www.eurosport.hu/labdarugas/jose-mourinho-visszateres-real-madrid_vid60093944/video.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/jose-mourinho-visszateres-real-madrid_vid60093944/video.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
@@ -149,6 +149,16 @@
       </media:group>
     </item>
     <item>
+      <title>Megvédi a címét az Arsenal? Rengeteg új edzővel rajtol a Premier League 2026-2027-es szezonja</title>
+      <link>https://www.eurosport.hu/labdarugas/megvedheti-a-cimet-az-arsenal-ki-lesz-a-szezon-legnagyobb-meglepetese-rengeteg-uj-edzovel-rajtol-a-premier-league-2026-2027-es-szezonja_vid60094030/video.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/megvedheti-a-cimet-az-arsenal-ki-lesz-a-szezon-legnagyobb-meglepetese-rengeteg-uj-edzovel-rajtol-a-premier-league-2026-2027-es-szezonja_vid60094030/video.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Rodri már Barcelonában – küszöbön a bejelentés</title>
       <link>https://www.eurosport.hu/labdarugas/rodri-megerkezett-barcelonaba_vid60093870/video.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
@@ -159,10 +169,10 @@
       </media:group>
     </item>
     <item>
-      <title>Megvédi a címét az Arsenal? Rengeteg új edzővel rajtol a Premier League 2026-2027-es szezonja</title>
-      <link>https://www.eurosport.hu/labdarugas/megvedheti-a-cimet-az-arsenal-ki-lesz-a-szezon-legnagyobb-meglepetese-rengeteg-uj-edzovel-rajtol-a-premier-league-2026-2027-es-szezonja_vid60094030/video.shtml</link>
+      <title>"A Milan ugyanazon a szinten van, mint a Real Madrid" – Modrić elárulta, miért nem vonult vissza</title>
+      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/luka-modric-milan-real-madrid-visszavonulas_sto23329268/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/megvedheti-a-cimet-az-arsenal-ki-lesz-a-szezon-legnagyobb-meglepetese-rengeteg-uj-edzovel-rajtol-a-premier-league-2026-2027-es-szezonja_vid60094030/video.shtml</guid>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/luka-modric-milan-real-madrid-visszavonulas_sto23329268/story.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>

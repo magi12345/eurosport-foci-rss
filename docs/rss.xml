@@ -7,7 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:52:19 +0000</lastBuildDate>
+    <item>
+      <title>Közel az újabb csoportkör: a Ferencváros egygólos előnyt szerzett a Trabzonspor othonában</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/rajatszas-trabzonspor-ferencvaros-eredmeny-gyozelem_sto23329795/story.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/rajatszas-trabzonspor-ferencvaros-eredmeny-gyozelem_sto23329795/story.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Pusztít a forróság, az extrém hőség kicsinálta Európa egyik ikonikus stadionjának gyepét is</title>
       <link>https://www.eurosport.hu/labdarugas/psg-hohullam-palya_sto23329666/story.shtml</link>
@@ -83,16 +93,6 @@
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/eltiltas-eljaras-mlsz-lecsapott-bodog-tamas_sto23329505/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/eltiltas-eljaras-mlsz-lecsapott-bodog-tamas_sto23329505/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>39 évesen először kerül kés alá Böde Dániel, hónapokra kidőlhet</title>
-      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/boede-daniel-elete-elso-mutete-paksi-fc_sto23329476/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/boede-daniel-elete-elso-mutete-paksi-fc_sto23329476/story.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
@@ -219,10 +219,10 @@
       </media:group>
     </item>
     <item>
-      <title>Hivatalosan is bejelentette az aranylabdás Rodri érkezését az FC Barcelona</title>
-      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/rodri-barcelona-bejelentes_sto23329266/story.shtml</link>
+      <title>39 évesen először kerül kés alá Böde Dániel, hónapokra kidőlhet</title>
+      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/boede-daniel-elete-elso-mutete-paksi-fc_sto23329476/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/rodri-barcelona-bejelentes_sto23329266/story.shtml</guid>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/boede-daniel-elete-elso-mutete-paksi-fc_sto23329476/story.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>

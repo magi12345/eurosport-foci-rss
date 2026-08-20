@@ -7,7 +7,27 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:40:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:06:43 +0000</lastBuildDate>
+    <item>
+      <title>Harry Kane elárulta, már nem érzi ugyanazt a késztetést a Premier League-be való visszatérésre</title>
+      <link>https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Rekordszámú új edzővel rajtol az új PL-szezon: megvédi bajnoki címét az Arsenal?</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/pl-szezon-elozetes_sto23329691/story.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/pl-szezon-elozetes_sto23329691/story.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>A német szurkolók a VAR megszüntetését követelik, tiltakozó akciókat is terveznek</title>
       <link>https://www.eurosport.hu/labdarugas/nemet-kupa/2026-2027/nemet-szurkolok-var-megszuntetes_sto23329668/story.shtml</link>
@@ -89,26 +109,6 @@
       </media:group>
     </item>
     <item>
-      <title>"Idő kérdése, hogy Yamal mikor lesz aranylabdás" – Rodri nagy szavakkal írt alá a Barcelonánál</title>
-      <link>https://www.eurosport.hu/labdarugas/rodri-barcelona-atigazolas-nyilatkozat-reakcio_sto23329296/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/rodri-barcelona-atigazolas-nyilatkozat-reakcio_sto23329296/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Az egyeduralkodó birodalom repedései: egyre nagyobb veszélyben Fabrizio Romano pletykagyára?</title>
-      <link>https://www.eurosport.hu/labdarugas/fabrizio-romano-birodalom-kozossegi-media-pletykagyar-vege_sto23328945/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fabrizio-romano-birodalom-kozossegi-media-pletykagyar-vege_sto23328945/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
       <title>Ezzel a zseniális videóval jelentette be Rodri leigazolását a Barcelona</title>
       <link>https://www.eurosport.hu/labdarugas/rodri-barcelona-atigazolas_vid60093894/video.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
@@ -179,6 +179,26 @@
       </media:group>
     </item>
     <item>
+      <title>Az egyeduralkodó birodalom repedései: egyre nagyobb veszélyben Fabrizio Romano pletykagyára?</title>
+      <link>https://www.eurosport.hu/labdarugas/fabrizio-romano-birodalom-kozossegi-media-pletykagyar-vege_sto23328945/story.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fabrizio-romano-birodalom-kozossegi-media-pletykagyar-vege_sto23328945/story.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>"Idő kérdése, hogy Yamal mikor lesz aranylabdás" – Rodri nagy szavakkal írt alá a Barcelonánál</title>
+      <link>https://www.eurosport.hu/labdarugas/rodri-barcelona-atigazolas-nyilatkozat-reakcio_sto23329296/story.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/rodri-barcelona-atigazolas-nyilatkozat-reakcio_sto23329296/story.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>Hivatalosan is bejelentette az aranylabdás Rodri érkezését az FC Barcelona</title>
       <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/rodri-barcelona-bejelentes_sto23329266/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
@@ -193,26 +213,6 @@
       <link>https://www.eurosport.hu/labdarugas/yael-trepy-friss-hirek-tul-az-eletveszelyen_sto23329304/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/yael-trepy-friss-hirek-tul-az-eletveszelyen_sto23329304/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Patrick Vieira lett a szenegáli válogatott szövetségi kapitánya</title>
-      <link>https://www.eurosport.hu/labdarugas/patrick-vieira-szenegal_sto23329235/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/patrick-vieira-szenegal_sto23329235/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Tovább nyomul Fernandezért a Manchester City, akár két új középpályást is kaphat Enzo Maresca</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/enzo-fernandez-manchester-city-pletyka_sto23329124/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/enzo-fernandez-manchester-city-pletyka_sto23329124/story.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>

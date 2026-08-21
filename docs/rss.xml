@@ -7,7 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:28:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:58:28 +0000</lastBuildDate>
+    <item>
+      <title>Nem úszták meg a vb-döntő utáni botrányt az argentinok: Parades tíz, Molina hét meccset kapott</title>
+      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/vb-donto-botrany-argentinok-parades-molina_sto23330049/story.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/vb-donto-botrany-argentinok-parades-molina_sto23330049/story.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Máris visszavonja az MLSZ az energiakorlátozást, újra jöhetnek a villanyfényes meccsek</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mlsz-visszavonja-az-intezkedeseket-villanyfenyes-meccsek_sto23329983/story.shtml</link>
@@ -99,16 +109,6 @@
       </media:group>
     </item>
     <item>
-      <title>Harry Kane elárulta, már nem érzi ugyanazt a késztetést a Premier League-be való visszatérésre</title>
-      <link>https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
       <title>Ezzel a zseniális videóval jelentette be Rodri leigazolását a Barcelona</title>
       <link>https://www.eurosport.hu/labdarugas/rodri-barcelona-atigazolas_vid60093894/video.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
@@ -159,20 +159,20 @@
       </media:group>
     </item>
     <item>
-      <title>A Manchester City elfogadta a Barcelona ajánlatát a vb legjobbjává választott Rodriért</title>
-      <link>https://www.eurosport.hu/labdarugas/man-city-barca-rodri_vid60093830/video.shtml</link>
+      <title>Az Arsenal simán verte a Manchester Cityt az angol Szuperkupáért</title>
+      <link>https://www.eurosport.hu/labdarugas/fa-community-shield/2026/angol-szuperkupa_vid60093826/video.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/man-city-barca-rodri_vid60093830/video.shtml</guid>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fa-community-shield/2026/angol-szuperkupa_vid60093826/video.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
-      <title>Az Arsenal simán verte a Manchester Cityt az angol Szuperkupáért</title>
-      <link>https://www.eurosport.hu/labdarugas/fa-community-shield/2026/angol-szuperkupa_vid60093826/video.shtml</link>
+      <title>A Manchester City elfogadta a Barcelona ajánlatát a vb legjobbjává választott Rodriért</title>
+      <link>https://www.eurosport.hu/labdarugas/man-city-barca-rodri_vid60093830/video.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fa-community-shield/2026/angol-szuperkupa_vid60093826/video.shtml</guid>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/man-city-barca-rodri_vid60093830/video.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
@@ -209,6 +209,16 @@
       </media:group>
     </item>
     <item>
+      <title>Harry Kane elárulta, már nem érzi ugyanazt a késztetést a Premier League-be való visszatérésre</title>
+      <link>https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
       <title>A német szurkolók a VAR megszüntetését követelik, tiltakozó akciókat is terveznek</title>
       <link>https://www.eurosport.hu/labdarugas/nemet-kupa/2026-2027/nemet-szurkolok-var-megszuntetes_sto23329668/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
@@ -223,16 +233,6 @@
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/eltiltas-eljaras-mlsz-lecsapott-bodog-tamas_sto23329505/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/eltiltas-eljaras-mlsz-lecsapott-bodog-tamas_sto23329505/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>39 évesen először kerül kés alá Böde Dániel, hónapokra kidőlhet</title>
-      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/boede-daniel-elete-elso-mutete-paksi-fc_sto23329476/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/boede-daniel-elete-elso-mutete-paksi-fc_sto23329476/story.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>

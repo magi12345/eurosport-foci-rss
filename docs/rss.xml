@@ -7,7 +7,17 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 22 Aug 2026 07:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 10:46:15 +0000</lastBuildDate>
+    <item>
+      <title>Kényszermegoldás vagy álomigazolás? A spanyolok szerint a Barca megállapodott az Inter sztárjával</title>
+      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/barcelona-inter-lautaro-martinez-atigazolasi-pletykak_sto23330025/story.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/barcelona-inter-lautaro-martinez-atigazolasi-pletykak_sto23330025/story.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>A Paks megállította a lendületben lévő Újpestet, amely először kapott ki az első forduló óta</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/megallitotta-lenduletben-levo-ujpest-paks-nb-i_sto23330060/story.shtml</link>
@@ -99,16 +109,6 @@
       </media:group>
     </item>
     <item>
-      <title>Közel az újabb csoportkör: a Ferencváros egygólos előnyt szerzett a Trabzonspor othonában</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/rajatszas-trabzonspor-ferencvaros-eredmeny-gyozelem_sto23329795/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/rajatszas-trabzonspor-ferencvaros-eredmeny-gyozelem_sto23329795/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
       <title>Megvédi a címét az Arsenal? Rengeteg új edzővel rajtol a Premier League 2026-2027-es szezonja</title>
       <link>https://www.eurosport.hu/labdarugas/megvedheti-a-cimet-az-arsenal-ki-lesz-a-szezon-legnagyobb-meglepetese-rengeteg-uj-edzovel-rajtol-a-premier-league-2026-2027-es-szezonja_vid60094030/video.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
@@ -129,20 +129,20 @@
       </media:group>
     </item>
     <item>
-      <title>Három napon belül másodszor esett össze a pályán Jamal Musiala</title>
-      <link>https://www.eurosport.hu/labdarugas/harom-napon-beluel-masodszor-esett-oessze-a-palyan-jamal-musiala_vid60093907/video.shtml</link>
+      <title>Az Arsenal simán verte a Manchester Cityt az angol Szuperkupáért</title>
+      <link>https://www.eurosport.hu/labdarugas/fa-community-shield/2026/angol-szuperkupa_vid60093826/video.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/harom-napon-beluel-masodszor-esett-oessze-a-palyan-jamal-musiala_vid60093907/video.shtml</guid>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fa-community-shield/2026/angol-szuperkupa_vid60093826/video.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
-      <title>Az Arsenal simán verte a Manchester Cityt az angol Szuperkupáért</title>
-      <link>https://www.eurosport.hu/labdarugas/fa-community-shield/2026/angol-szuperkupa_vid60093826/video.shtml</link>
+      <title>Három napon belül másodszor esett össze a pályán Jamal Musiala</title>
+      <link>https://www.eurosport.hu/labdarugas/harom-napon-beluel-masodszor-esett-oessze-a-palyan-jamal-musiala_vid60093907/video.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fa-community-shield/2026/angol-szuperkupa_vid60093826/video.shtml</guid>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/harom-napon-beluel-masodszor-esett-oessze-a-palyan-jamal-musiala_vid60093907/video.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
@@ -189,20 +189,20 @@
       </media:group>
     </item>
     <item>
-      <title>Kényszermegoldás vagy álomigazolás? A spanyolok szerint a Barca megállapodott az Inter sztárjával</title>
-      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/barcelona-inter-lautaro-martinez-atigazolasi-pletykak_sto23330025/story.shtml</link>
+      <title>Harry Kane elárulta, már nem érzi ugyanazt a késztetést a Premier League-be való visszatérésre</title>
+      <link>https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/barcelona-inter-lautaro-martinez-atigazolasi-pletykak_sto23330025/story.shtml</guid>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
-      <title>Harry Kane elárulta, már nem érzi ugyanazt a késztetést a Premier League-be való visszatérésre</title>
-      <link>https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</link>
+      <title>Közel az újabb csoportkör: a Ferencváros egygólos előnyt szerzett a Trabzonspor othonában</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/rajatszas-trabzonspor-ferencvaros-eredmeny-gyozelem_sto23329795/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-kesztetes-premier-league_sto23329652/story.shtml</guid>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/rajatszas-trabzonspor-ferencvaros-eredmeny-gyozelem_sto23329795/story.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
@@ -243,16 +243,6 @@
       <link>https://www.eurosport.hu/labdarugas/nemet-kupa/2026-2027/nemet-szurkolok-var-megszuntetes_sto23329668/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/nemet-kupa/2026-2027/nemet-szurkolok-var-megszuntetes_sto23329668/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Elversberg, ahol vonat sem jár és Kane is konténerben öltözhet: egy kis csapat nagy Bundesliga-álma</title>
-      <link>https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/sv-elversberg-tortenet_sto23329388/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/sv-elversberg-tortenet_sto23329388/story.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>

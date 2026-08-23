@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 23 Aug 2026 01:06:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 02:40:32 +0000</lastBuildDate>
     <item>
       <title>A Milan és a Juventus is kinyitotta a pénztárcát, de mire lesz ez elég a profin erősítő Inter ellen?</title>
       <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/olasz-bajnoksag-inter-milan-juventus-elozetes_sto23330188/story.shtml</link>
@@ -193,6 +193,16 @@
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/virgil-van-dijk-liverpool-uj-szezon_sto23329747/story.shtml</link>
       <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/virgil-van-dijk-liverpool-uj-szezon_sto23329747/story.shtml</guid>
+      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <media:group>
+        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Hiába hagyott ki két évet, a még mindig életveszélyes Suárez visszatérhet az uruguayi válogatottba</title>
+      <link>https://www.eurosport.hu/labdarugas/uruguay-luis-suarez-visszateres-diego-forlan_sto23330249/story.shtml</link>
+      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uruguay-luis-suarez-visszateres-diego-forlan_sto23330249/story.shtml</guid>
       <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
       <media:group>
         <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>

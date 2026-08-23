@@ -136,16 +136,33 @@ def fetch_page(url: str, retries: int = 3) -> str:
 # --- 1. forrás: RSC payload (strukturált JSON) -----------------------------
 
 def _decode_rsc(html: str) -> str:
-    """A self.__next_f.push([1,"..."]) fragmentumok összefűzve, dekódolva."""
-    fragments = re.findall(
-        r'self\.__next_f\.push\(\[1,(".*?")\]\)', html, re.S
-    )
+    """
+    A self.__next_f.push([1,"..."]) fragmentumokban lévő JSON-stringek
+    összefűzve, dekódolva.
+
+    Nem regexszel vágunk: a payload lehet egyetlen, több tíz kByte-os push is,
+    amelyben előfordulhat `"])` részlet a stringen belül – ezt egy naiv regex
+    korán lezárná. Ehelyett a nyitó idézőjeltől a json.JSONDecoder.raw_decode
+    olvassa be pontosan egy JSON-stringet (az escape-eket helyesen kezelve),
+    és megadja, hol ér véget.
+    """
+    decoder = json.JSONDecoder()
+    marker = "self.__next_f.push([1,"
     buf = []
-    for frag in fragments:
+    idx = 0
+    while True:
+        hit = html.find(marker, idx)
+        if hit == -1:
+            break
+        start = html.find('"', hit + len(marker))  # a JSON-string nyitó idézőjele
+        if start == -1:
+            break
         try:
-            buf.append(json.loads(frag))  # JSON-string -> nyers szöveg
+            text, end = decoder.raw_decode(html, start)
+            buf.append(text)  # JSON-string -> nyers szöveg
+            idx = end
         except json.JSONDecodeError:
-            continue
+            idx = hit + len(marker)
     return "".join(buf)
 
 

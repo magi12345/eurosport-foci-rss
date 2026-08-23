@@ -7,265 +7,233 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 23 Aug 2026 07:54:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:45:41 +0000</lastBuildDate>
     <item>
       <title>Sallói gólpasszt adott Messiék ellen, Csongvai az első gólját szerezte új csapatában</title>
       <link>https://www.eurosport.hu/labdarugas/salloi-daniel-golpassz-lionel-messi-csongvai-aron-gol_sto23330426/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/23/image-716b7e51-ac3a-4c4b-8947-4f4fc96f4ec3-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Sallói Dániel gólpasszal vette ki a részét a Toronto FC 2-1-es idegenbeli győzelméből a címvédő Inter Miami ellen az MLS-ben, míg Csongvai Áron először talált be a Saint-Étienne-ben.&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/salloi-daniel-golpassz-lionel-messi-csongvai-aron-gol_sto23330426/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://i.eurosport.com/2026/08/23/image-716b7e51-ac3a-4c4b-8947-4f4fc96f4ec3-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 07:32:26 +0000</pubDate>
       <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Hiába hagyott ki két évet, a még mindig életveszélyes Suárez visszatérhet az uruguayi válogatottba</title>
-      <link>https://www.eurosport.hu/labdarugas/uruguay-luis-suarez-visszateres-diego-forlan_sto23330249/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uruguay-luis-suarez-visszateres-diego-forlan_sto23330249/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A Milan és a Juventus is kinyitotta a pénztárcát, de mire lesz ez elég a profin erősítő Inter ellen?</title>
-      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/olasz-bajnoksag-inter-milan-juventus-elozetes_sto23330188/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/olasz-bajnoksag-inter-milan-juventus-elozetes_sto23330188/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Szuperbayern: Olise vezérletével húzták be a trófeát a bajorok a Dortmund otthonában</title>
-      <link>https://www.eurosport.hu/labdarugas/franz-beckenbauer-supercup/2026/bayern-munchen-12-szuperkupa-gyozelem-dortmund_sto23330390/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/franz-beckenbauer-supercup/2026/bayern-munchen-12-szuperkupa-gyozelem-dortmund_sto23330390/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Jurek duplájával győzte le az MTK a büntetőt hibázó Nyíregyházát</title>
-      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mtk-nyiregyhaza-eredmeny_sto23330324/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mtk-nyiregyhaza-eredmeny_sto23330324/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Megpaskolta ellenfele fejét, pénzbírságot kapott Lionel Messi az MLS-ben</title>
-      <link>https://www.eurosport.hu/labdarugas/mls/2026/lionel-messi-utes-buntetes-penzbirsag_sto23330209/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/mls/2026/lionel-messi-utes-buntetes-penzbirsag_sto23330209/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Az NB I-et vezető Puskás Akadémia egygólos meccsen verte a megfogyatkozó Vasast</title>
-      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/vasas-pafc-eredmeny_sto23330278/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/vasas-pafc-eredmeny_sto23330278/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Inkább legyen jó a csapatunk, mint szórakoztató” – izgatottan várja a PL-rajtot a Liverpool edzője</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/andoni-iraola-liverpool-interju_sto23330161/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/andoni-iraola-liverpool-interju_sto23330161/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Kényszermegoldás vagy álomigazolás? A spanyolok szerint a Barca megállapodott az Inter sztárjával</title>
-      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/barcelona-inter-lautaro-martinez-atigazolasi-pletykak_sto23330025/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/barcelona-inter-lautaro-martinez-atigazolasi-pletykak_sto23330025/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A Paks megállította a lendületben lévő Újpestet, amely először kapott ki az első forduló óta</title>
-      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/megallitotta-lenduletben-levo-ujpest-paks-nb-i_sto23330060/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/megallitotta-lenduletben-levo-ujpest-paks-nb-i_sto23330060/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Videó: Ronaldo megszerezte pályafutása 977. gólját; 4-0-ra nyert az Al-Nassr Rijádban</title>
-      <link>https://www.eurosport.hu/labdarugas/saudi-pro-league/2026-2027/ronaldo-977-gol_vid60094243/video.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/saudi-pro-league/2026-2027/ronaldo-977-gol_vid60094243/video.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Az Arsenal simán verte a Manchester Cityt az angol Szuperkupáért</title>
-      <link>https://www.eurosport.hu/labdarugas/fa-community-shield/2026/angol-szuperkupa_vid60093826/video.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fa-community-shield/2026/angol-szuperkupa_vid60093826/video.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Más az illata, mint a felkészülési meccseknek” – Iraola várja a Liverpool bajnoki rajtját</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/mas-az-illata-iraola-varja-a-liverpool-bajnoki-rajtjat_vid60094251/video.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/mas-az-illata-iraola-varja-a-liverpool-bajnoki-rajtjat_vid60094251/video.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Megvédi a címét az Arsenal? Rengeteg új edzővel rajtol a Premier League 2026-2027-es szezonja</title>
-      <link>https://www.eurosport.hu/labdarugas/megvedheti-a-cimet-az-arsenal-ki-lesz-a-szezon-legnagyobb-meglepetese-rengeteg-uj-edzovel-rajtol-a-premier-league-2026-2027-es-szezonja_vid60094030/video.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/megvedheti-a-cimet-az-arsenal-ki-lesz-a-szezon-legnagyobb-meglepetese-rengeteg-uj-edzovel-rajtol-a-premier-league-2026-2027-es-szezonja_vid60094030/video.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A 46 éves Ronaldinho landolt Olaszországban, hamarosan bemutatják új csapatában</title>
-      <link>https://www.eurosport.hu/labdarugas/ronaldinho-landolt-olaszorszagban_vid60094041/video.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/ronaldinho-landolt-olaszorszagban_vid60094041/video.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Carrick marad a Manchester United vezetőedzője? – "A következő napokban kitisztul a kép"</title>
-      <link>https://www.eurosport.hu/labdarugas/michael-carrick-manchester-united-jovo_vid60074905/video.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/michael-carrick-manchester-united-jovo_vid60074905/video.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Óriási ünnep Milánó kék-fekete részében: így örültek az Inter-szurkolók a bajnoki címnek</title>
-      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2025-2026/inter-szurkolok-bajnoki-cim-unneples_vid60071962/video.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2025-2026/inter-szurkolok-bajnoki-cim-unneples_vid60071962/video.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Óriási üzlet: klubrekordot jelentő összegért adja el brazil szélsőjét a Manchester City</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/oriasi-uzlet-klubrekordot-jelento-osszeg_sto23329955/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/oriasi-uzlet-klubrekordot-jelento-osszeg_sto23329955/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Van Dijk: „Elfogadhatatlan volt az előző év, de nem hiszem, hogy bárkinek bizonyítanunk kellene”</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/virgil-van-dijk-liverpool-uj-szezon_sto23329747/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/virgil-van-dijk-liverpool-uj-szezon_sto23329747/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
-      <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://i.eurosport.com/2026/08/23/image-716b7e51-ac3a-4c4b-8947-4f4fc96f4ec3-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
       <title>„Eddig kifejezetten jók voltunk” – Carrick a pozitívumokat látja a United sokkoló szezonkezdése után</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/manchester-united-hull-city-carrick-nyilatkozat-pozitivumok_sto23330313/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/22/image-53281850-2bf8-426f-896f-04bda20b35dc-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Manchester United sokkoló vereséggel kezdte a Premier League új idényét, miután a bajnokság nyitófordulójában 2-0-s vereséget szenvedett az újonc Hull City otthonában. A váratlan fiaskó ellenére a csapat vezetőedzője, Michael Carrick nem esett pánikba.&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/manchester-united-hull-city-carrick-nyilatkozat-pozitivumok_sto23330313/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://i.eurosport.com/2026/08/22/image-53281850-2bf8-426f-896f-04bda20b35dc-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 23 Aug 2026 05:30:19 +0000</pubDate>
       <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://i.eurosport.com/2026/08/22/image-53281850-2bf8-426f-896f-04bda20b35dc-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
-      <title>Íme hét játékos, akik a Premier League idei felfedezettjei lehetnek</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/felfedezettek-a-premier-leagueben_sto23329980/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/felfedezettek-a-premier-leagueben_sto23329980/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <title>Szuperbayern: Olise vezérletével húzták be a trófeát a bajorok a Dortmund otthonában</title>
+      <link>https://www.eurosport.hu/labdarugas/franz-beckenbauer-supercup/2026/bayern-munchen-12-szuperkupa-gyozelem-dortmund_sto23330390/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/22/image-0a7432be-c828-4e2f-a023-cf9bdac1827f-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A bajnoki és Német Kupa-címvédő Bayern München nyerte a labdarúgó Német Szuperkupát, miután szombat este 2-1-re legyőzte az előző szezonban a Bundesliga második helyezettjeként zárt Borussia Dortmundot.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/franz-beckenbauer-supercup/2026/bayern-munchen-12-szuperkupa-gyozelem-dortmund_sto23330390/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/22/image-0a7432be-c828-4e2f-a023-cf9bdac1827f-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 21:06:22 +0000</pubDate>
       <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://i.eurosport.com/2026/08/22/image-0a7432be-c828-4e2f-a023-cf9bdac1827f-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
-      <title>Nem úszták meg a vb-döntő utáni botrányt az argentinok: Parades tíz, Molina hét meccset kapott</title>
-      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/vb-donto-botrany-argentinok-parades-molina_sto23330049/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/vb-donto-botrany-argentinok-parades-molina_sto23330049/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <title>Jurek duplájával győzte le az MTK a büntetőt hibázó Nyíregyházát</title>
+      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mtk-nyiregyhaza-eredmeny_sto23330324/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/22/image-082c2bc2-e1ca-4420-af27-f8b4b3f4213c-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Labdarúgó NB I - Az MTK Budapest Jurek Gábor duplájával 2-1-re legyőzte otthon a tizenegyest hibázó Nyíregyházát szombaton az OTP Bank Liga ötödik fordulójában. A kék-fehérek 22 éves csatára először szerzett egy bajnokin két gólt az élvonalban, korábban az NB II-ben és az NB III-ban ugyanez már…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mtk-nyiregyhaza-eredmeny_sto23330324/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/22/image-082c2bc2-e1ca-4420-af27-f8b4b3f4213c-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 17:50:53 +0000</pubDate>
       <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://i.eurosport.com/2026/08/22/image-082c2bc2-e1ca-4420-af27-f8b4b3f4213c-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
-      <title>Máris visszavonja az MLSZ az energiakorlátozást, újra jöhetnek a villanyfényes meccsek</title>
-      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mlsz-visszavonja-az-intezkedeseket-villanyfenyes-meccsek_sto23329983/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mlsz-visszavonja-az-intezkedeseket-villanyfenyes-meccsek_sto23329983/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <title>Hiába hagyott ki két évet, a még mindig életveszélyes Suárez visszatérhet az uruguayi válogatottba</title>
+      <link>https://www.eurosport.hu/labdarugas/uruguay-luis-suarez-visszateres-diego-forlan_sto23330249/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2024/07/14/image-3ee5eafb-09e4-4e38-9dea-4deb6afc0e25-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Dél-amerikai sajtóhírek szerint az uruguayi válogatott történetének legeredményesebb játékosa, Luis Suárez hamarosan újra magára öltheti az egykori kétszeres világbajnok Celeste címeres mezét. Uruguay új szövetségi kapitánya, Diego Forlán szívesen számítana egykori játékostársára.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uruguay-luis-suarez-visszateres-diego-forlan_sto23330249/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2024/07/14/image-3ee5eafb-09e4-4e38-9dea-4deb6afc0e25-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 16:23:14 +0000</pubDate>
       <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://i.eurosport.com/2024/07/14/image-3ee5eafb-09e4-4e38-9dea-4deb6afc0e25-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Az NB I-et vezető Puskás Akadémia egygólos meccsen verte a megfogyatkozó Vasast</title>
+      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/vasas-pafc-eredmeny_sto23330278/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/22/image-12e776b9-0787-48ca-b76d-07b8cb4752e0-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Labdarúgó NB I - A listavezető Puskás Akadémia egygólos mérkőzésen nyert a több mint egy félidőn keresztül emberhátrányban futballozó Vasas otthonában az OTP Bank Liga 5. fordulójának szombati játéknapján. Az élvonalba visszajutó angyalföldiek először kaptak ki a szezonban.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/vasas-pafc-eredmeny_sto23330278/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/22/image-12e776b9-0787-48ca-b76d-07b8cb4752e0-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 15:44:22 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/22/image-12e776b9-0787-48ca-b76d-07b8cb4752e0-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Megpaskolta ellenfele fejét, pénzbírságot kapott Lionel Messi az MLS-ben</title>
+      <link>https://www.eurosport.hu/labdarugas/mls/2026/lionel-messi-utes-buntetes-penzbirsag_sto23330209/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/22/image-9aa45d4e-1538-4fc7-a2a4-8b9dd3f7d2ef-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Nemcsak egy góllal hívta fel magára a figyelmet Lionel Messi az Inter Miami legutóbbi mérkőzésén, hanem azzal is, hogy megütötte a Philadelphia Union egyik játékosát, Quinn Sullivant. Az MLS nem is hagyta szó nélkül a megmozdulást.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/mls/2026/lionel-messi-utes-buntetes-penzbirsag_sto23330209/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/22/image-9aa45d4e-1538-4fc7-a2a4-8b9dd3f7d2ef-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 13:42:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/22/image-9aa45d4e-1538-4fc7-a2a4-8b9dd3f7d2ef-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A Milan és a Juventus is kinyitotta a pénztárcát, de mire lesz ez elég a profin erősítő Inter ellen?</title>
+      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/olasz-bajnoksag-inter-milan-juventus-elozetes_sto23330188/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/22/image-6533d73c-bed1-4ffd-bec0-7032c19a6df6-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A 2025/26-os szezon rengeteg fordulatot hozott az olasz bajnokságban, az utolsó fordulóban a Roma és a Como is becsúszott a BL-indulók közé, elütve a lehetőségtől az összeomló Milant és a Juventust. A top 4 egyetlen stabil pontja az Inter volt, amely a szinte teljesen újonc edzőjével is…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/olasz-bajnoksag-inter-milan-juventus-elozetes_sto23330188/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/22/image-6533d73c-bed1-4ffd-bec0-7032c19a6df6-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 12:47:25 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/22/image-6533d73c-bed1-4ffd-bec0-7032c19a6df6-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>„Inkább legyen jó a csapatunk, mint szórakoztató” – izgatottan várja a PL-rajtot a Liverpool edzője</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/andoni-iraola-liverpool-interju_sto23330161/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/22/image-a54ca9c7-05d9-4399-b483-72db950e59ab-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Andoni Iraola elégedett a játékosai hozzáállásával: szerinte csapata készen áll arra, hogy változtassanak korábban bevetett dolgokon. A Liverpool új vezetőedzője beszélt arról az új igazolásról is, aki szerinte már-már „veszélyesen jól” mutatkozott be a felkészülési időszakban.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/andoni-iraola-liverpool-interju_sto23330161/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/22/image-a54ca9c7-05d9-4399-b483-72db950e59ab-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 22 Aug 2026 08:27:44 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/22/image-a54ca9c7-05d9-4399-b483-72db950e59ab-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
       <title>Hontalanul a csúcson: Londonban hozza össze a BL-varázst a Shakhtar Donetsk</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/shakhtar-donetsk-chelsea-stamford-bridge-alberlet_sto23330071/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <description>&lt;img src="https://i.eurosport.com/2026/05/04/image-dfdfdf4d-15ff-41ff-928f-691906f5d35e-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Az ukrán Shakhtar Donetsk labdarúgócsapata Londonban, a Chelsea stadionjában játssza hazai mérkőzéseit a Bajnokok Ligája 2026/27-es idényének ligaszakaszában.&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/shakhtar-donetsk-chelsea-stamford-bridge-alberlet_sto23330071/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://i.eurosport.com/2026/05/04/image-dfdfdf4d-15ff-41ff-928f-691906f5d35e-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 18:25:59 +0000</pubDate>
       <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://i.eurosport.com/2026/05/04/image-dfdfdf4d-15ff-41ff-928f-691906f5d35e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>A Paks megállította a lendületben lévő Újpestet, amely először kapott ki az első forduló óta</title>
+      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/megallitotta-lenduletben-levo-ujpest-paks-nb-i_sto23330060/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/21/image-0bf60c7b-04d6-4375-afbe-ebdd665f5be0-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Paks hazai pályán magabiztos játékkal 2-0-ra legyőzte az Újpestet a labdarúgó OTP Bank Liga ötödik fordulójának pénteki nyitómérkőzésén.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/megallitotta-lenduletben-levo-ujpest-paks-nb-i_sto23330060/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/21/image-0bf60c7b-04d6-4375-afbe-ebdd665f5be0-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 17:55:56 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/21/image-0bf60c7b-04d6-4375-afbe-ebdd665f5be0-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Kényszermegoldás vagy álomigazolás? A spanyolok szerint a Barca megállapodott az Inter sztárjával</title>
+      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/barcelona-inter-lautaro-martinez-atigazolasi-pletykak_sto23330025/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2025/09/21/image-0c816aa1-2ca3-49c7-aec5-54c5c0cbde79-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A nyári átigazolási piac hajrájához közeledve az FC Barcelona továbbra is azon dolgozik, hogy új csatárt igazoljon Robert Lewandowski távozása után. Miután az egyik kiszemelt argentin ügyében nem történt előrelépés, most egy másikat szemeltek ki – egyesek szerint megállapodtak vele, de valójában…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/barcelona-inter-lautaro-martinez-atigazolasi-pletykak_sto23330025/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2025/09/21/image-0c816aa1-2ca3-49c7-aec5-54c5c0cbde79-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 16:59:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2025/09/21/image-0c816aa1-2ca3-49c7-aec5-54c5c0cbde79-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Nem úszták meg a vb-döntő utáni botrányt az argentinok: Parades tíz, Molina hét meccset kapott</title>
+      <link>https://www.eurosport.hu/labdarugas/foci-vb/2026/vb-donto-botrany-argentinok-parades-molina_sto23330049/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/21/image-73590d57-8efd-4247-9517-062017edb646-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Nemzetközi Labdarúgó Szövetség (FIFA) fegyelmi bizottsága az argentin válogatott tagjai közül tíz mérkőzésre tiltotta el Leandro Paredest, míg hét meccsre Nahuel Molinát.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/foci-vb/2026/vb-donto-botrany-argentinok-parades-molina_sto23330049/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/21/image-73590d57-8efd-4247-9517-062017edb646-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 16:49:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/21/image-73590d57-8efd-4247-9517-062017edb646-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Íme hét játékos, akik a Premier League idei felfedezettjei lehetnek</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/felfedezettek-a-premier-leagueben_sto23329980/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/21/image-54a6acaf-12a3-4d48-8a03-79b34c9b3755-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Bár a Premier League már most is tele van világsztárokkal, rengeteg olyan futballista is akad, aki a szintlépésre készül. Az előző idényben olyan játékosok robbantak be, mint Igor Thiago, Kroupi Junior vagy Rayan, és a feltörekvő tehetségek sora napról napra csak nő. Bőven akadnak olyan fiatalok,…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/felfedezettek-a-premier-leagueben_sto23329980/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/21/image-54a6acaf-12a3-4d48-8a03-79b34c9b3755-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 13:58:21 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/21/image-54a6acaf-12a3-4d48-8a03-79b34c9b3755-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Máris visszavonja az MLSZ az energiakorlátozást, újra jöhetnek a villanyfényes meccsek</title>
+      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mlsz-visszavonja-az-intezkedeseket-villanyfenyes-meccsek_sto23329983/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/21/image-da8faaaa-d5d0-4e9d-8dfb-bc9123461a9b-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Magyar Labdarúgó Szövetség (MLSZ) visszavonja az augusztus elején bevezetett energiatakarékossági intézkedéseit, így hamarosan ismét villanyfényben rendezhetik a mérkőzéseket. Az élvonalban már jövő hétfőtől, a többi bajnokságban pedig augusztus 31-től megszűnik a korlátozás.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/mlsz-visszavonja-az-intezkedeseket-villanyfenyes-meccsek_sto23329983/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/21/image-da8faaaa-d5d0-4e9d-8dfb-bc9123461a9b-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 13:17:02 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/21/image-da8faaaa-d5d0-4e9d-8dfb-bc9123461a9b-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Óriási üzlet: klubrekordot jelentő összegért adja el brazil szélsőjét a Manchester City</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/oriasi-uzlet-klubrekordot-jelento-osszeg_sto23329955/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/21/image-d2df1c46-65df-4c57-b9fa-d1dab0ca103a-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A brazil Sávio Moreira de Oliveira, ismertebb nevén Savinho távozik a Manchester Citytől és a Tottenham Hotspur labdarúgócsapatához igazol.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/oriasi-uzlet-klubrekordot-jelento-osszeg_sto23329955/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/21/image-d2df1c46-65df-4c57-b9fa-d1dab0ca103a-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 12:16:48 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/21/image-d2df1c46-65df-4c57-b9fa-d1dab0ca103a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
       <title>Mikel Arteta nyolc védővel szeretne címet védeni? - avagy miért van szükség Ezri Konsa leigazolására</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/hany-vedot-bir-el-az-arsenal-kerete_sto23329907/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/21/image-21d5a48d-53bb-4b8a-913d-f601f1f4a892-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Az Arsenal nem áll meg, továbbra is építkezik, hogy megvédhesse Premier League-címét. Ezúttal 51 millió fontért cserébe Ezri Konsával erősödött a védelem.&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/hany-vedot-bir-el-az-arsenal-kerete_sto23329907/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://i.eurosport.com/2026/08/21/image-21d5a48d-53bb-4b8a-913d-f601f1f4a892-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 10:03:24 +0000</pubDate>
       <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://i.eurosport.com/2026/08/21/image-21d5a48d-53bb-4b8a-913d-f601f1f4a892-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>
       <title>Jamal Musiala nem játszhat a német Szuperkupa-döntőjében</title>
       <link>https://www.eurosport.hu/labdarugas/osszeeses-miatt-kimarad-musiala-a-szuperkuparol_sto23329926/story.shtml</link>
-      <description>&lt;img src="https://assets.eurosport.io/web/img/og/eurosport.jpg" /&gt;</description>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/17/image-f495f0d7-537e-4424-bdfb-e9a880c7b440-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Jamal Musiala nem játszhat a Bayern München labdarúgócsapatában szombaton a Borussia Dortmund elleni német Szuperkupa-mérkőzésen, mert a napokban kétszer is összeesett a pályán.&lt;/p&gt;</description>
       <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/osszeeses-miatt-kimarad-musiala-a-szuperkuparol_sto23329926/story.shtml</guid>
-      <enclosure url="https://assets.eurosport.io/web/img/og/eurosport.jpg" length="0" type="image/jpeg"/>
+      <enclosure url="https://i.eurosport.com/2026/08/17/image-f495f0d7-537e-4424-bdfb-e9a880c7b440-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 21 Aug 2026 09:59:05 +0000</pubDate>
       <media:group>
-        <media:content url="https://assets.eurosport.io/web/img/og/eurosport.jpg" type="image/jpeg" medium="image"/>
+        <media:content url="https://i.eurosport.com/2026/08/17/image-f495f0d7-537e-4424-bdfb-e9a880c7b440-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Van Dijk: „Elfogadhatatlan volt az előző év, de nem hiszem, hogy bárkinek bizonyítanunk kellene”</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/virgil-van-dijk-liverpool-uj-szezon_sto23329747/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/20/image-1ac16853-1f6c-4931-8ebf-fbb72accebd5-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Izgatottan várja az új Premier League-szezont Virgil van Dijk: a Liverpool csapatkapitánya szerint az előző idény kudarcai ellenére sincs mit bizonyítaniuk, és csak élvezniük kell, hogy a legendás klub színeit képviselhetik – olykor akár több fronton is.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/virgil-van-dijk-liverpool-uj-szezon_sto23329747/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/20/image-1ac16853-1f6c-4931-8ebf-fbb72accebd5-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 20 Aug 2026 16:48:26 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/20/image-1ac16853-1f6c-4931-8ebf-fbb72accebd5-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

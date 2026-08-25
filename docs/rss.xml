@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 25 Aug 2026 09:31:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:57:06 +0000</lastBuildDate>
     <item>
       <title>A Liverpool-középpálya nem bombabiztos, de Iraola kezében három eszköz is van amivel megszerelheti</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/iraola-liverpool-kozeppalya_sto23330906/story.shtml</link>
@@ -186,18 +186,6 @@
       <pubDate>Sun, 23 Aug 2026 05:30:19 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/22/image-53281850-2bf8-426f-896f-04bda20b35dc-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Hiába hagyott ki két évet, a még mindig életveszélyes Suárez visszatérhet az uruguayi válogatottba</title>
-      <link>https://www.eurosport.hu/labdarugas/uruguay-luis-suarez-visszateres-diego-forlan_sto23330249/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2024/07/14/image-3ee5eafb-09e4-4e38-9dea-4deb6afc0e25-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Dél-amerikai sajtóhírek szerint az uruguayi válogatott történetének legeredményesebb játékosa, Luis Suárez hamarosan újra magára öltheti az egykori kétszeres világbajnok Celeste címeres mezét. Uruguay új szövetségi kapitánya, Diego Forlán szívesen számítana egykori játékostársára.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uruguay-luis-suarez-visszateres-diego-forlan_sto23330249/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2024/07/14/image-3ee5eafb-09e4-4e38-9dea-4deb6afc0e25-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 22 Aug 2026 16:23:14 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2024/07/14/image-3ee5eafb-09e4-4e38-9dea-4deb6afc0e25-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

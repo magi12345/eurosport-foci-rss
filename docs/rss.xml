@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 26 Aug 2026 03:50:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:05:51 +0000</lastBuildDate>
+    <item>
+      <title>Megvan Amorim új kedvence? A City kegyvesztett szélsőjével pótolná a bizonytalan Leaót az AC Milan</title>
+      <link>https://www.eurosport.hu/labdarugas/grealish-manchester-city-milan-atigazolas-sajtohir-leao-potlas_sto23331178/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/02/image-d061da10-1c7a-4afb-aa10-da1ca8bb820b-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Az AC Milan komoly érdeklődést mutat a Manchester City angol válogatott szélsője, Jack Grealish iránt. A 30 éves játékos az átigazolási időszak hajrájában új csapatot kereshet, miután a jövője bizonytalanná vált a manchesterieknél.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/grealish-manchester-city-milan-atigazolas-sajtohir-leao-potlas_sto23331178/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/02/image-d061da10-1c7a-4afb-aa10-da1ca8bb820b-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 26 Aug 2026 04:30:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/02/image-d061da10-1c7a-4afb-aa10-da1ca8bb820b-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Utolsó másodperces csoda: hosszabbításban harcolta ki a BL-főtáblát az azeri meglepetéscsapat</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/sabah-hosszabbitas-tovabbjutas-azeri-csoda_sto23331203/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Sun, 23 Aug 2026 17:58:52 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/23/image-da2062ad-5e76-4ed0-9d7f-a575d6344dd8-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Ez lehet az utolsó” – Manuel Neuer erős célzást tett rá, hogy az idény végén visszavonulhat</title>
-      <link>https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/manuel-neuer-visszavonulas-eselye-nyilatkozatok_sto23330560/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/23/image-6ed276fd-2b76-4e40-9185-1cb75a9bec82-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Egyre egyértelműbb utalásokat tesz arra Manuel Neuer, hogy az idei szezon végén lezárhatja a pályafutását. Igaz, a németek legendás kapusa szerint eleve a Bayern München az oka annak, hogy ilyen sokáig folytatta.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/manuel-neuer-visszavonulas-eselye-nyilatkozatok_sto23330560/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/23/image-6ed276fd-2b76-4e40-9185-1cb75a9bec82-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 23 Aug 2026 16:14:38 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/23/image-6ed276fd-2b76-4e40-9185-1cb75a9bec82-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

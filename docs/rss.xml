@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Thu, 27 Aug 2026 03:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 15:22:00 +0000</lastBuildDate>
+    <item>
+      <title>Érzékeny érvágás: egy fájó veszteség nyithatja meg a kaput az újonnan igazolt fiatal tehetség előtt</title>
+      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/juventus-yildiz-serules-kieses-helyettesek_sto23331462/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/24/image-66443939-0bad-4515-b781-db2ce8038ffc-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Az olasz rekordbajnok Juventus már a szezon elején nehéz időszak elé nézhet, miután a csapat kulcsembere, Kenan Yildiz súlyosabb lábsérülést szenvedett. A török támadó bal lábában felmerült problémák miatt műtétre volt szüksége, ami előreláthatólag 2-3 hónapos kihagyással jár.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/juventus-yildiz-serules-kieses-helyettesek_sto23331462/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/24/image-66443939-0bad-4515-b781-db2ce8038ffc-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 27 Aug 2026 04:30:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/24/image-66443939-0bad-4515-b781-db2ce8038ffc-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Kiütés a visszavágón: Varga Barnabás két góllal lőtte a BL-be az AEK Athént</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/aek-athen-fotabla-varga-barnabas-dupla_sto23331510/story.shtml</link>
@@ -186,30 +198,6 @@
       <pubDate>Mon, 24 Aug 2026 15:46:16 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2024/11/18/image-08a3fa7f-c92f-492d-a7d9-dc3d4018391c-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Égési sebek, szemsérülések, félbeszakított meccs – elszabadult a pokol Hollandiában</title>
-      <link>https://www.eurosport.hu/labdarugas/vriendenloterij-eredivisie/2026-2027/egesi-sebek-szemserules_sto23330816/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/24/image-68dca059-56bd-4780-a18d-5529e58c6254-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A holland élvonalban szereplő SC Cambuur közlése szerint égési sérüléseket, halláskárosodást és szemsérüléseket szenvedtek szurkolók, miután a Feyenoord drukkerei pirotechnikai eszközöket dobáltak közéjük a vasárnapi bajnoki mérkőzésen.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/vriendenloterij-eredivisie/2026-2027/egesi-sebek-szemserules_sto23330816/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/24/image-68dca059-56bd-4780-a18d-5529e58c6254-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 14:09:41 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/24/image-68dca059-56bd-4780-a18d-5529e58c6254-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Ceferin nem pályázik a FIFA elnöki posztjára, de szerinte Infantinónak lesz kihívója</title>
-      <link>https://www.eurosport.hu/labdarugas/infantino-ceferin-uefa-fifa_sto23330804/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/24/image-4b7985a0-9901-44d9-ac55-00281314530c-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A FIFA elnöke, Gianni Infantino vasárnap a szegényebb futballnemzetek támogatásának szószólójaként vázolta fel újraválasztási programját, miközben az UEFA elnöke, Aleksander Ceferin kizárta, hogy a sokat bírált olasz kihívója legyen, ugyanakkor úgy véli, Infantino ellen várhatóan más jelölt elindul…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/infantino-ceferin-uefa-fifa_sto23330804/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/24/image-4b7985a0-9901-44d9-ac55-00281314530c-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 12:48:11 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/24/image-4b7985a0-9901-44d9-ac55-00281314530c-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>

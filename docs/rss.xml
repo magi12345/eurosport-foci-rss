@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 29 Aug 2026 05:28:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 07:58:38 +0000</lastBuildDate>
+    <item>
+      <title>Katalán agy, holland kispad: Xavi révén folytatódik a holland-katalán történet, amit Cruyff kezdett</title>
+      <link>https://www.eurosport.hu/labdarugas/barcelona-hollandia-osszekapcsolodas-cruyff-van-gaal-xavi-valogatott_sto23331565/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/27/image-a6d24123-e95a-4873-976c-056156bc0d22-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A holland labdarúgó-szövetség bejelentése, amely szerint a Barcelona egykori legendás középpályása és korábbi vezetőedzője, Xavi Hernández vette át a holland válogatott irányítását, újabb izgalmas fejezetet nyitott az európai labdarúgás egyik legmélyebben gyökerező kultúrcseréjében.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/barcelona-hollandia-osszekapcsolodas-cruyff-van-gaal-xavi-valogatott_sto23331565/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/27/image-a6d24123-e95a-4873-976c-056156bc0d22-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 29 Aug 2026 07:00:57 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/27/image-a6d24123-e95a-4873-976c-056156bc0d22-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Német gólzsákból olasz reménység: így csapott le Mancini a Club Brugge gólerős tehetségére</title>
       <link>https://www.eurosport.hu/labdarugas/tresoldi-nemet-olasz-valogatott-honositas-mancini_sto23332066/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Wed, 26 Aug 2026 18:46:39 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/26/image-66abfbed-35e0-40f8-bbaf-617af16b46f6-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>"Kell a karakter egyénileg és csapatban is" – Egygólos előnyben fogadja Salahékat a Fradi</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/borbely-nyilatkozat_sto23331465/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/26/image-253e2dbd-b5a6-4204-b5cf-f9b028e03260-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Labdarúgó El - Borbély Balázs vezetőedző egyéni és csapat szinten is karakteres Ferencvárost szeretne a pályán látni csütörtökön a török Trabzonspor ellen az Európa-liga-selejtező utolsó fordulójának visszavágóján.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/borbely-nyilatkozat_sto23331465/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/26/image-253e2dbd-b5a6-4204-b5cf-f9b028e03260-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 26 Aug 2026 17:49:32 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/26/image-253e2dbd-b5a6-4204-b5cf-f9b028e03260-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

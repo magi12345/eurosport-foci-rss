@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 29 Aug 2026 22:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:28:42 +0000</lastBuildDate>
     <item>
       <title>Európa-liga - Glasgow-ban kezdi és Sinsheimben zárja az alapszakaszt a Ferencváros</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/europa-liga-ferencvaros-menetrend_sto23332408/story.shtml</link>
@@ -222,18 +222,6 @@
       <pubDate>Thu, 27 Aug 2026 17:37:18 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/27/image-617e2cf3-1ecc-4f1d-9a6e-24cda4698dcf-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Minden idők negyedik legdrágább igazolásával szerezhet új támadót a Liverpool a PSG-től</title>
-      <link>https://www.eurosport.hu/labdarugas/bradley-barcola-liverpool-igazolas-120-millio_sto23331705/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/27/image-73ff382d-c7a0-4c1c-ab5a-55f7808fa4de-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Egybehangzó sajtóértesülések szerint közel kerültek a megállapodáshoz a felek: nagyságrendileg 120 millió angol fontért teheti át a székhelyét Liverpoolba Bradley Barcola, aki ezzel a futballtörténelem negyedik legdrágább átigazolása lehet.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bradley-barcola-liverpool-igazolas-120-millio_sto23331705/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/27/image-73ff382d-c7a0-4c1c-ab5a-55f7808fa4de-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 27 Aug 2026 15:29:17 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/27/image-73ff382d-c7a0-4c1c-ab5a-55f7808fa4de-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

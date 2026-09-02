@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 02 Sep 2026 06:02:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:10:23 +0000</lastBuildDate>
+    <item>
+      <title>A pénz nem számít - az angol klubok újra megdöntötték a költési rekordot az átigazolási időszakban</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/ismet-koltesi-rekordot-dontott-a-premier-league_sto23333414/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/08/20/image-18be2c43-531d-4b7f-9ea7-32cc93bb3b84-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A labdarúgó Premier League a második egymást követő szezonban megdöntötte a nyári költekezési rekordját, az angol élvonalbeli klubok kiadásai elérték a 3,46 milliárd fontot, vagyis az 1490 milliárd forintot.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/ismet-koltesi-rekordot-dontott-a-premier-league_sto23333414/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/08/20/image-18be2c43-531d-4b7f-9ea7-32cc93bb3b84-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 02 Sep 2026 08:28:07 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/08/20/image-18be2c43-531d-4b7f-9ea7-32cc93bb3b84-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>„Hogy micsoda?” – A Manchester United csapatkapitányának fia Szoboszlai Dominikért rajong</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/bruno-fernandes-fia-szoboszlai-dominik-manchester-united-liverpool_sto23333284/story.shtml</link>
@@ -198,18 +210,6 @@
       <pubDate>Sat, 29 Aug 2026 13:43:01 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/29/image-6ff11953-3350-4a3c-9758-fb4b165c0355-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Katalán agy, holland kispad: Xavi révén folytatódik a holland-katalán történet, amit Cruyff kezdett</title>
-      <link>https://www.eurosport.hu/labdarugas/barcelona-hollandia-osszekapcsolodas-cruyff-van-gaal-xavi-valogatott_sto23331565/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/27/image-a6d24123-e95a-4873-976c-056156bc0d22-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A holland labdarúgó-szövetség bejelentése, amely szerint a Barcelona egykori legendás középpályása és korábbi vezetőedzője, Xavi Hernández vette át a holland válogatott irányítását, újabb izgalmas fejezetet nyitott az európai labdarúgás egyik legmélyebben gyökerező kultúrcseréjében.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/barcelona-hollandia-osszekapcsolodas-cruyff-van-gaal-xavi-valogatott_sto23331565/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/27/image-a6d24123-e95a-4873-976c-056156bc0d22-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 29 Aug 2026 07:00:57 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/27/image-a6d24123-e95a-4873-976c-056156bc0d22-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

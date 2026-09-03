@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Thu, 03 Sep 2026 00:24:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:00:51 +0000</lastBuildDate>
+    <item>
+      <title>Rekordok és milliárdok: Így forgatta fel a Chelsea és a Manchester City az átigazolási piacot</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/chelsea-manchester-city-atigazolas-koltekezes-enzo-fernandez_sto23333567/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/02/image-9694b3bc-582b-41c2-9abd-39b9a5415227-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Premier League két gigásza, a Chelsea és a Manchester City teljesen új szintre emelte a játékosmozgásokat a nyári átigazolási ablakban. Mindkét csapat élen járt a vásárlások és az eladások terén, ráadásul még egymással is megkötött egy csúcsüzletet.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/chelsea-manchester-city-atigazolas-koltekezes-enzo-fernandez_sto23333567/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/02/image-9694b3bc-582b-41c2-9abd-39b9a5415227-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 03 Sep 2026 04:30:34 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/02/image-9694b3bc-582b-41c2-9abd-39b9a5415227-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Sikertelen orvosi és dominó-effektus: a Chelsea és az Everton erősítése is romba dőlt a hajrában</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/meghiusult-atigazolas-balogun-lamine-camara-chelsea-everton-monaco_sto23333561/story.shtml</link>
@@ -198,18 +210,6 @@
       <pubDate>Sat, 29 Aug 2026 19:35:26 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/29/image-b02653bd-2dc9-40ea-b000-acaacda74a36-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Első idénybeli győzelmét szerezte a Kispest-Honvéd, folytatódott a ZTE rossz sorozata</title>
-      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/kispest-honved-zte-eredmeny_sto23332345/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/29/image-0065f2f0-4bf6-4e8c-9ff4-8f88f9635cc1-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Labdarúgó NB I - A Kispest-Honvéd megszerezte idénybeli első győzelmét az OTP Bank Ligában, miután a hatodik forduló szombati játéknapján házigazdaként 1-0-ra nyert a Zalaegerszeg ellen. A ZTE FC sorozatban negyedszer kapott ki a bajnokságban, és immár 360 perce gólt sem szerzett.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/kispest-honved-zte-eredmeny_sto23332345/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/29/image-0065f2f0-4bf6-4e8c-9ff4-8f88f9635cc1-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 29 Aug 2026 17:28:22 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/29/image-0065f2f0-4bf6-4e8c-9ff4-8f88f9635cc1-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

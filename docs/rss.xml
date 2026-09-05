@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:09:00 +0000</lastBuildDate>
+    <item>
+      <title>„Van, hogy nem tudod, miért kaptál ki” – Mourinho a vereség ellenére elégedett a játékkal</title>
+      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/jose-mourinho-betis-vereseg-nyilatkozat_sto23334479/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/05/image-a72b55c8-5890-422d-8261-d89bddbc70d9-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Real Madrid elszenvedte első vereségét a második José Mourinho-érában. A madridiak mindent megtettek a gólért, 20 lövésből 3.46-os várható gólig jutottak, de a végén még büntetőből sem tudtak betalálni. Mourinho önmagához képest visszafogottan értékelt, ugyanakkor picit oda is szúrt a Betis…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/jose-mourinho-betis-vereseg-nyilatkozat_sto23334479/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/05/image-a72b55c8-5890-422d-8261-d89bddbc70d9-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 05 Sep 2026 13:12:15 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/05/image-a72b55c8-5890-422d-8261-d89bddbc70d9-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>„Nápolyban vagy túl nagy a lelkesedés, vagy rögtön depresszió van” – Allegri az Intert dicsérte</title>
       <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/inter-napoli-allegri-onkirikus-nyilatkozat_sto23334271/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Tue, 01 Sep 2026 18:49:18 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/01/image-68d89992-668e-4564-8ba3-794137cc4960-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Harry Kane-elemzés Harry Kane-től – hogyan old meg egy támadást a világ egyik legjobb csatára?</title>
-      <link>https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-melyelemzes-a-jatekrol_sto23333173/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/10/image-9fd7c17b-7079-4090-a525-7dad32a57c7a-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Harry Kane egy elképesztő szezonon van túl, és sokak szerint ő érdemli meg az idei Aranylabdát is. Rengeteg kiváló megoldása volt mind a Bundesligában, a BL-ben vagy a vb-n Kane-nek, most pedig néhány szituációt az ő szemüvegén keresztül is átélhetünk, és jobban megérthetjük, hogyan gondolkozik egy…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/harry-kane-melyelemzes-a-jatekrol_sto23333173/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/10/image-9fd7c17b-7079-4090-a525-7dad32a57c7a-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 01 Sep 2026 15:05:58 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/10/image-9fd7c17b-7079-4090-a525-7dad32a57c7a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

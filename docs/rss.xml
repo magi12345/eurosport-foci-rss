@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 05 Sep 2026 00:13:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 05:57:28 +0000</lastBuildDate>
+    <item>
+      <title>„Nápolyban vagy túl nagy a lelkesedés, vagy rögtön depresszió van” – Allegri az Intert dicsérte</title>
+      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/inter-napoli-allegri-onkirikus-nyilatkozat_sto23334271/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/04/image-7bb3e87b-5c1e-4617-b8cd-7dc68fb23c17-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Napoli nyáron kinevezett vezetőedzője, Massimiliano Allegri a Como elleni vereség után önmérsékletre intette a csapat szurkolóit. A tréner a szombati, Inter elleni rangadó előtt tartott sajtótájékoztatón beszélt a csapat helyzetéről, a sérülésekről és az előttük álló kihívásokról.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/inter-napoli-allegri-onkirikus-nyilatkozat_sto23334271/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/04/image-7bb3e87b-5c1e-4617-b8cd-7dc68fb23c17-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 05 Sep 2026 05:25:43 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/04/image-7bb3e87b-5c1e-4617-b8cd-7dc68fb23c17-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Kovácsréti duplával lőtte az újonc Vasast a dobogóra egy ötgólos meccsen</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/vasas-nyiregyhaza-eredmeny_sto23334295/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Tue, 01 Sep 2026 15:05:58 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/10/image-9fd7c17b-7079-4090-a525-7dad32a57c7a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Egy korszak vége: Lionel Messi visszavonul az argentin válogatottól</title>
-      <link>https://www.eurosport.hu/labdarugas/messi-argentin-valogatott-visszavonulas_sto23332932/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/31/image-35e0588c-321a-43d0-9c9f-2aa733a28598-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A nyolcszoros aranylabdás Lionel Messi közösségi oldalán hétfőn bejelentette, hogy nem szerepel többet az argentin labdarúgó-válogatottban.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/messi-argentin-valogatott-visszavonulas_sto23332932/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/31/image-35e0588c-321a-43d0-9c9f-2aa733a28598-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 31 Aug 2026 15:44:35 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/31/image-35e0588c-321a-43d0-9c9f-2aa733a28598-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

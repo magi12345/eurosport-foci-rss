@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 06 Sep 2026 18:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 21:29:35 +0000</lastBuildDate>
+    <item>
+      <title>Kilencven perc csend, nyolc perc káosz: drámai sikerével második a címvédő, sereghajtó a Honvéd</title>
+      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/eto-fc-gyor-kispest-honved-eredmeny_sto23334963/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/04/27/image-3730b4c6-d066-4b66-8076-a8ea075115ab-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A címvédő Győr hazai pályán egy utolsó pillanatos büntetővel 3-2-re legyőzte az újonc Kispest-Honvédot a labdarúgó OTP Bank Liga hetedik fordulójának vasárnap esti zárómérkőzésén.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/eto-fc-gyor-kispest-honved-eredmeny_sto23334963/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/04/27/image-3730b4c6-d066-4b66-8076-a8ea075115ab-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 06 Sep 2026 20:26:16 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/04/27/image-3730b4c6-d066-4b66-8076-a8ea075115ab-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>10 év után, kétgólos hátrányból felállva szerzett pontot az Újpest a Fradi otthonában</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/ferencvaros-ujpest-nb-1-eredmeny_sto23334927/story.shtml</link>
@@ -174,18 +186,6 @@
       <pubDate>Thu, 03 Sep 2026 18:16:01 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/06/17/image-fdffd9a8-db3a-4ffe-9b35-0645d771a9ef-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Elhunyt Martos Győző 34-szeres válogatott labdarúgó</title>
-      <link>https://www.eurosport.hu/labdarugas/martos-gyozo-gyaszhir_sto23333842/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/03/image-09327cf6-1ba9-4ff6-8b9d-f6d97d46ab86-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Életének 77. évében elhunyt Martos Győző 34-szeres válogatott labdarúgó, aki két világbajnokságon szerepelt.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/martos-gyozo-gyaszhir_sto23333842/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/03/image-09327cf6-1ba9-4ff6-8b9d-f6d97d46ab86-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Sep 2026 13:52:08 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/03/image-09327cf6-1ba9-4ff6-8b9d-f6d97d46ab86-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>

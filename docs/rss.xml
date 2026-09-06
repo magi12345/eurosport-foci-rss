@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 06 Sep 2026 17:29:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 18:26:07 +0000</lastBuildDate>
+    <item>
+      <title>10 év után, kétgólos hátrányból felállva szerzett pontot az Újpest a Fradi otthonában</title>
+      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/ferencvaros-ujpest-nb-1-eredmeny_sto23334927/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/06/image-563a7935-6719-4977-a817-faff4034d48b-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Labdarúgó NB I - Az Újpest kétgólos hátrányból felállva 2-2-es döntetlent ért el az ősi rivális Ferencváros vendégeként az OTP Bank Liga hetedik fordulójának vasárnapi játéknapján. A lila-fehérek ezt megelőzően sorozatban 16 bajnokin kaptak ki a Groupama Arénában, 2016 szeptembere óta először…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/ferencvaros-ujpest-nb-1-eredmeny_sto23334927/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/06/image-563a7935-6719-4977-a817-faff4034d48b-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 06 Sep 2026 17:53:46 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/06/image-563a7935-6719-4977-a817-faff4034d48b-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Második perces gól döntött: az éllovas Puskás Akadémia kikapott Zalaegerszegen</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/zte-pafc-nb-1-eredmeny_sto23334866/story.shtml</link>
@@ -198,18 +210,6 @@
       <pubDate>Thu, 03 Sep 2026 09:02:06 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/03/image-f0fa8933-94b1-43a4-b9a1-7014a483fd9e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Rekordok és milliárdok: Így forgatta fel a Chelsea és a Manchester City az átigazolási piacot</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/chelsea-manchester-city-atigazolas-koltekezes-enzo-fernandez_sto23333567/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/02/image-9694b3bc-582b-41c2-9abd-39b9a5415227-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A Premier League két gigásza, a Chelsea és a Manchester City teljesen új szintre emelte a játékosmozgásokat a nyári átigazolási ablakban. Mindkét csapat élen járt a vásárlások és az eladások terén, ráadásul még egymással is megkötött egy csúcsüzletet.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/chelsea-manchester-city-atigazolas-koltekezes-enzo-fernandez_sto23333567/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/02/image-9694b3bc-582b-41c2-9abd-39b9a5415227-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Sep 2026 04:30:34 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/02/image-9694b3bc-582b-41c2-9abd-39b9a5415227-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 06 Sep 2026 21:29:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 02:43:10 +0000</lastBuildDate>
     <item>
       <title>Kilencven perc csend, nyolc perc káosz: drámai sikerével második a címvédő, sereghajtó a Honvéd</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/eto-fc-gyor-kispest-honved-eredmeny_sto23334963/story.shtml</link>
@@ -198,18 +198,6 @@
       <pubDate>Thu, 03 Sep 2026 11:38:07 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/03/image-327a76e6-b46f-4831-9f65-1e3e94edca05-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Messi előtt tisztelegnek: a 10. percben minden meccs leáll Argentínában</title>
-      <link>https://www.eurosport.hu/labdarugas/messi-elott-tisztelegnek-10.-perc_sto23333741/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/03/image-f0fa8933-94b1-43a4-b9a1-7014a483fd9e-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A válogatottságtól visszavonuló Lionel Messi tiszteletére a hétvégén a 10. percben leállnak a futballmérkőzések Argentínában.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/messi-elott-tisztelegnek-10.-perc_sto23333741/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/03/image-f0fa8933-94b1-43a4-b9a1-7014a483fd9e-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Sep 2026 09:02:06 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/03/image-f0fa8933-94b1-43a4-b9a1-7014a483fd9e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

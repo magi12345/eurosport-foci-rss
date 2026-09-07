@@ -7,7 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 07 Sep 2026 14:44:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 18:58:03 +0000</lastBuildDate>
+    <item>
+      <title>Mbappé: ez lehet az év, amikor megnyerem az Aranylabdát</title>
+      <link>https://www.eurosport.hu/labdarugas/kylian-mbappe-aranylabda_sto23335192/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/07/image-fe6eb8e7-4213-4ece-9ea0-b38ab27ab3de-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A 27 éves francia támadó, Kylian Mbappé az előző idényben 44 mérkőzésen 42 gólt szerzett a Real Madrid színeiben, csapatával azonban egyetlen trófeát sem nyert.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/kylian-mbappe-aranylabda_sto23335192/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/07/image-fe6eb8e7-4213-4ece-9ea0-b38ab27ab3de-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 16:40:31 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/07/image-fe6eb8e7-4213-4ece-9ea0-b38ab27ab3de-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Varga és Vitális is bemutatkozik a Bajnokok Ligája alapszakaszában – A keddi program</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/varga-vitalis-bl-kedd-program_sto23335194/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/07/image-6afb75a1-4679-4565-8343-deedc4d8cdc9-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Labdarúgó BL - Varga Barnabás és Vitális Milán az első alapszakasz-mérkőzésére készül a Bajnokok Ligájában, amelynek első fordulójában a görög bajnok AEK Athén az osztrák LASK együttesét fogadja kedden.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/varga-vitalis-bl-kedd-program_sto23335194/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/07/image-6afb75a1-4679-4565-8343-deedc4d8cdc9-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 15:35:54 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/07/image-6afb75a1-4679-4565-8343-deedc4d8cdc9-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Harry Kane egy igazán exkluzív klub tagja lehet: „Örülök, hogy versenyben vagyok az Aranylabdáért”</title>
       <link>https://www.eurosport.hu/labdarugas/the-breakdown-harry-kane-tnt-sports_sto23335140/story.shtml</link>
@@ -186,18 +210,6 @@
       <pubDate>Fri, 04 Sep 2026 11:58:22 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/04/image-3bf3304c-7294-4bdc-a82c-9385cb1b05bb-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Egyre több pénzért vesznek egyre középszerűbb játékosokat - mit is jelent a Premier League-adó?</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/premier-league-ado-kozepes-jatekosok-rengeteg-penzert_sto23333945/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/27/image-51b444a7-6897-45b6-955b-c0eb093b0a41-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Ma már szinte fel se kapjuk a fejünket, ha egy Premier League-csapat átigazolási rekordot dönt. A klubok pénze is több, és az átigazolási díjak is emelkedtek. Utóbbi talán jobban is, mint az indokolt lenne. A jelenség mögött a "Premier League-adó" áll, de mit is jelent ez pontosan?&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/premier-league-ado-kozepes-jatekosok-rengeteg-penzert_sto23333945/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/27/image-51b444a7-6897-45b6-955b-c0eb093b0a41-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 04 Sep 2026 04:55:50 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/27/image-51b444a7-6897-45b6-955b-c0eb093b0a41-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

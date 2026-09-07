@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 07 Sep 2026 02:43:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:17:54 +0000</lastBuildDate>
+    <item>
+      <title>Ronaldo és Messi újra egy mérkőzésen? Egymás ellen vagy egy csapatban látjuk őket?</title>
+      <link>https://www.eurosport.hu/labdarugas/tevez-bucsumeccs-cristiano-ronaldo-messi-meghivo_sto23334928/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/06/24/image-a46a1742-140b-4173-a87b-dbb04e4bfcb2-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Carlos Tévez hamarosan végleg búcsút int a futballpályának egy emlékezetes gálamérkőzés keretében, melyre egykori csapattársai közül Lionel Messit és Cristiano Ronaldót is meghívta. A hivatalos búcsúmérkőzést a Boca Juniors otthonában, a kultikus La Bombonerában rendezik decemberben.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/tevez-bucsumeccs-cristiano-ronaldo-messi-meghivo_sto23334928/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/06/24/image-a46a1742-140b-4173-a87b-dbb04e4bfcb2-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 07 Sep 2026 04:30:40 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/06/24/image-a46a1742-140b-4173-a87b-dbb04e4bfcb2-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Kilencven perc csend, nyolc perc káosz: drámai sikerével második a címvédő, sereghajtó a Honvéd</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/eto-fc-gyor-kispest-honved-eredmeny_sto23334963/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Thu, 03 Sep 2026 18:16:01 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/06/17/image-fdffd9a8-db3a-4ffe-9b35-0645d771a9ef-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Októberben elköszön a válogatottól a bosnyákok csapatkapitánya</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/dzeko-valogatott-visszavonulas_sto23333802/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/03/image-327a76e6-b46f-4831-9f65-1e3e94edca05-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Nemzetek Ligája - Edin Džeko a közösségi oldalán bejelentette, hogy októberben, a svédek elleni, hazai Nemzetek Ligája-mérkőzésen lép utoljára pályára a bosnyák labdarúgó-válogatottban.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/dzeko-valogatott-visszavonulas_sto23333802/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/03/image-327a76e6-b46f-4831-9f65-1e3e94edca05-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 03 Sep 2026 11:38:07 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/03/image-327a76e6-b46f-4831-9f65-1e3e94edca05-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

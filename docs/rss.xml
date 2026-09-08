@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:12:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:16:40 +0000</lastBuildDate>
     <item>
       <title>Régi barátok: Mourinho és a nyomás - A portugál tréner nem szívbajos a Bajnokok Ligája miatt</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/jose-mourinho-nem-erez-nyomast-a-bl-megnyerese-miatt_sto23335392/story.shtml</link>
@@ -186,18 +186,6 @@
       <pubDate>Sat, 05 Sep 2026 05:25:43 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/04/image-7bb3e87b-5c1e-4617-b8cd-7dc68fb23c17-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Mourinho rájött, mi kell Bellinghamnek: az angol sztár újra szárnyal Madridban</title>
-      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/mi-kell-bellinghamnek-mourinho-rajott_sto23334118/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/04/image-e169e249-4972-47a3-97c7-ada3bde2983f-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Az angol válogatott középpályás Jude Bellingham két góllal és három gólpasszal járult hozzá a Real Madrid remek szezonrajtjához José Mourinho irányítása alatt, a spanyol rekordbajnok pedig mindhárom mérkőzését megnyerte.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/mi-kell-bellinghamnek-mourinho-rajott_sto23334118/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/04/image-e169e249-4972-47a3-97c7-ada3bde2983f-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 04 Sep 2026 13:16:33 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/04/image-e169e249-4972-47a3-97c7-ada3bde2983f-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

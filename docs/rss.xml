@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 08 Sep 2026 23:09:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 00:23:19 +0000</lastBuildDate>
     <item>
       <title>Varga és Vitális sikerrel debütált a BL-ben, Gulácsi három gólt kapott, a Real legyőzte az Intert</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/eredmenyek-osszefoglalo-varga-vitalis-gulacsi-real-inter_sto23335591/story.shtml</link>
@@ -174,18 +174,6 @@
       <pubDate>Sun, 06 Sep 2026 13:03:01 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/06/image-a4dbdb77-e591-4a67-a265-6e20b0c4dabf-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Nem finomkodott Ferran Torres: elárulta, miben jobb a PSG a Barcelonánál</title>
-      <link>https://www.eurosport.hu/labdarugas/nem-finomkodott-odaszurt-ferran-torres_sto23334537/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/05/image-421c6a70-92f3-40a7-baf5-0b5d4454deb5-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A 2026-os vb-döntő hőse, Ferran Torres meglehetősen egyértelműen fogalmazott arról, mi a legnagyobb különbség, amit a Barcelonától való távozása óta a Paris Saint-Germainnél tapasztalt.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/nem-finomkodott-odaszurt-ferran-torres_sto23334537/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/05/image-421c6a70-92f3-40a7-baf5-0b5d4454deb5-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 05 Sep 2026 17:23:46 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/05/image-421c6a70-92f3-40a7-baf5-0b5d4454deb5-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

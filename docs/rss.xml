@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 09 Sep 2026 02:55:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:11:09 +0000</lastBuildDate>
+    <item>
+      <title>Összeesett a pályán a Dortmund 18 éves játékosa a Gulácsiék elleni BL-meccsen</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/konstantinos-karetsas-osszeeses-rosszullet-dortmund_sto23335605/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/09/image-14d78eb0-ef8b-4dea-a70d-0edc40c1a288-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Ijesztő jelenetek játszódtak le kedd este, a Dortmund–Villarreal Bajnokok Ligája-mérkőzés első félidejében. A hazaiak 18 éves nyári igazolása, Konstantinos Karetsas mindössze 23 percet töltött a pályán élete első BL-meccsén, hiszen rosszul lett, összeesett a gyepen. A görög játékost ápolták, majd…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/konstantinos-karetsas-osszeeses-rosszullet-dortmund_sto23335605/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/09/image-14d78eb0-ef8b-4dea-a70d-0edc40c1a288-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 09 Sep 2026 04:26:06 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/09/image-14d78eb0-ef8b-4dea-a70d-0edc40c1a288-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Varga és Vitális sikerrel debütált a BL-ben, Gulácsi három gólt kapott, a Real legyőzte az Intert</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/eredmenyek-osszefoglalo-varga-vitalis-gulacsi-real-inter_sto23335591/story.shtml</link>
@@ -162,18 +174,6 @@
       <pubDate>Sun, 06 Sep 2026 17:53:46 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/06/image-563a7935-6719-4977-a817-faff4034d48b-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Boldogok vagyunk, de mostantól háromnaponta játszunk” – Kerkez a Liverpool idei első győzelme után</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/kerkez-milos-interju-gyozelem-utan_sto23334798/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/06/image-a4dbdb77-e591-4a67-a265-6e20b0c4dabf-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Az Ipswich Town ellen lett meg a Liverpool idei első sikere: a magyar hátvéd szerint javultak az első két meccs után, és az új edző stílusához is egyre jobban alkalmazkodnak – de az igazi sorozatterhelés még csak most indul majd a Bajnokok Ligája-rajttal.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/kerkez-milos-interju-gyozelem-utan_sto23334798/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/06/image-a4dbdb77-e591-4a67-a265-6e20b0c4dabf-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 06 Sep 2026 13:03:01 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/06/image-a4dbdb77-e591-4a67-a265-6e20b0c4dabf-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

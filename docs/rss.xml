@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 14 Sep 2026 06:34:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:41:41 +0000</lastBuildDate>
+    <item>
+      <title>Lamine Yamal szerint egyetlen igazi kihívója lehet az aranylabdáért, úgy érzi kétesélyes a küzdelem</title>
+      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/lamine-yamal-aranylabda-o-vagy-mbappe_sto23337195/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/08/image-6d368b99-30e6-49af-950b-cafa0cfd1555-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A spanyol labdarúgó-válogatottal az idei világbajnokságon aranyérmes Lamine Yamal szerint Kylian Mbappé vagy ő kaphatja az idei Aranylabdát, másnak nincs erre esélye.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/lamine-yamal-aranylabda-o-vagy-mbappe_sto23337195/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/08/image-6d368b99-30e6-49af-950b-cafa0cfd1555-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 07:16:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/08/image-6d368b99-30e6-49af-950b-cafa0cfd1555-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Foden a 23. percben kiállíttatta magát, Haaland góljával mégis a City nyerte a manchesteri derbit</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/foden-piros-haaland-gol-manchester-city-gyozelem_sto23337064/story.shtml</link>
@@ -198,18 +210,6 @@
       <pubDate>Thu, 10 Sep 2026 13:05:25 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/10/image-b4842b10-3609-4e48-b27c-da3537e85f6b-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Szoboszlai Mac Allisterről: "Ismerjük egymás gondolatát anélkül, hogy beszélnünk kellene"</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/szoboszlai-mac-allister_sto23336078/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/10/image-db7934c7-49c3-4ae9-b6f9-68039158a0f9-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Bajnokok Ligája - Szoboszlai Dominik szerint nagyszerűen megértik egymást a Liverpool csapatánál az argentin Alexis Mac Allisterrel, ez pedig hosszú távon is hozzájárulhat az együttes sikerességéhez.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/szoboszlai-mac-allister_sto23336078/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/10/image-db7934c7-49c3-4ae9-b6f9-68039158a0f9-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 12:29:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/10/image-db7934c7-49c3-4ae9-b6f9-68039158a0f9-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 14 Sep 2026 11:41:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:17:13 +0000</lastBuildDate>
+    <item>
+      <title>Dráma Manchesterben, már a bírói testület is elnézést kért a Unitedtől Haaland gólja miatt</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/megszolalt-a-biroi-testulet-haaland-golja-kapcsan_sto23337238/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/13/image-8f6751d9-803a-456d-8c03-f84314c4c2c5-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Premier League bírói testülete, a Pro Ref elismerte, hogy ”hibás döntést” hoztak Erling Haaland győztes gólja kapcsán a Manchester City–Manchester United rangadón.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/megszolalt-a-biroi-testulet-haaland-golja-kapcsan_sto23337238/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/13/image-8f6751d9-803a-456d-8c03-f84314c4c2c5-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 14 Sep 2026 12:23:41 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/13/image-8f6751d9-803a-456d-8c03-f84314c4c2c5-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Lamine Yamal szerint egyetlen igazi kihívója lehet az aranylabdáért, úgy érzi kétesélyes a küzdelem</title>
       <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/lamine-yamal-aranylabda-o-vagy-mbappe_sto23337195/story.shtml</link>
@@ -198,18 +210,6 @@
       <pubDate>Thu, 10 Sep 2026 14:19:54 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/10/image-32713c07-033f-44c3-ac92-11a212f60a50-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>"Szinte mindenki jobb bajnokságba került" – Rossi elégedett a válogatottak nyári klubváltásával</title>
-      <link>https://www.eurosport.hu/labdarugas/rossi-valogatott-igazolasok_sto23336092/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/10/image-b4842b10-3609-4e48-b27c-da3537e85f6b-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Marco Rossi szövetségi kapitány "összességében elégedett" a válogatott futballisták nyári klubváltását illetően. Rossi ugyanakkor hozzátette, egyelőre nem sikerült mindenkinek stabilizálnia a helyét új csapatában.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/rossi-valogatott-igazolasok_sto23336092/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/10/image-b4842b10-3609-4e48-b27c-da3537e85f6b-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 10 Sep 2026 13:05:25 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/10/image-b4842b10-3609-4e48-b27c-da3537e85f6b-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 15 Sep 2026 17:42:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:23:25 +0000</lastBuildDate>
+    <item>
+      <title>„Ha ez álom, nem akarok felébredni” – Neymar és Coutinho végre egy csapatban</title>
+      <link>https://www.eurosport.hu/labdarugas/coutinho-santos-atigazolas-neymar-csapattarsak_sto23337659/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/15/image-9ff14be1-2d17-4641-ad4e-c90ad51ac800-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Philippe Coutinho a szezon hátralévő részére újra csatlakozott korábbi válogatott társához, Neymarhoz a Santosnál - jelentette be hétfőn a brazil élvonalbeli labdarúgóklub.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/coutinho-santos-atigazolas-neymar-csapattarsak_sto23337659/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/15/image-9ff14be1-2d17-4641-ad4e-c90ad51ac800-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 15 Sep 2026 18:23:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/15/image-9ff14be1-2d17-4641-ad4e-c90ad51ac800-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Egy utolsó tangó Buenos Airesben: érzelmes búcsúval tisztelegnének Messi előtt</title>
       <link>https://www.eurosport.hu/labdarugas/messi-argentin-valogatott-bucsumeccs_sto23337590/story.shtml</link>
@@ -174,18 +186,6 @@
       <pubDate>Sat, 12 Sep 2026 13:39:27 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/31/image-53511ca1-e1d0-4e1d-9cfb-decd30b76c37-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>95 év várakozás: a leghűségesebb Como-szurkoló, aki a klubelnök székéből élhette át a BL-csodát</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/como-95-eves-szurkolo-elnoki-paholy-alom_sto23336472/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/10/image-43d9b055-5e24-494c-b525-52eb1c7fec7f-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Létezik a futballban egyfajta elhivatottság, amelyet nem a trófeák száma, hanem az eltelt évtizedek és a megrendíthetetlen hűség mér. Ernesto Bianchi története pontosan erről szól: a 95 éves férfi egész életét imádott csapatának, a Comónak szentelte, csütörtök este pedig a Bajnokok Ligájában…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/como-95-eves-szurkolo-elnoki-paholy-alom_sto23336472/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/10/image-43d9b055-5e24-494c-b525-52eb1c7fec7f-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 11 Sep 2026 17:29:34 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/10/image-43d9b055-5e24-494c-b525-52eb1c7fec7f-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

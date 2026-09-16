@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:23:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 03:10:38 +0000</lastBuildDate>
     <item>
       <title>„Ha ez álom, nem akarok felébredni” – Neymar és Coutinho végre egy csapatban</title>
       <link>https://www.eurosport.hu/labdarugas/coutinho-santos-atigazolas-neymar-csapattarsak_sto23337659/story.shtml</link>
@@ -174,18 +174,6 @@
       <pubDate>Sat, 12 Sep 2026 17:12:23 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/12/image-a42eff62-3536-4f21-89c0-d588f2f8f844-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Repülőrajt Barcelonában - ki hitte volna, hogy Anthony Gordon megszerzése ennyire jó ötlet lesz</title>
-      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/anthony-gordon-barcelona_sto23336649/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/08/31/image-53511ca1-e1d0-4e1d-9cfb-decd30b76c37-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Anthony Gordon mindössze öt mérkőzést játszott a Barcelonánál azóta, hogy a nyár elején csatlakozott, ám az angol szélső már most is jelentős hatást gyakorol csapatára.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/anthony-gordon-barcelona_sto23336649/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/08/31/image-53511ca1-e1d0-4e1d-9cfb-decd30b76c37-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 12 Sep 2026 13:39:27 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/08/31/image-53511ca1-e1d0-4e1d-9cfb-decd30b76c37-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

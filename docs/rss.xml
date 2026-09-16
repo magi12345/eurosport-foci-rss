@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 16 Sep 2026 03:10:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:16:16 +0000</lastBuildDate>
+    <item>
+      <title>Óriási csapás a rangadó előtt: kidőlt az Inter agya az AS Roma elleni csúcsmeccsről</title>
+      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/inter-calhanoglu-serules-kihagyas_sto23337646/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/15/image-bf6f8739-21b6-4664-a7a6-450438e08e24-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Súlyos veszteség érte az Intert a hétvégi bajnoki csúcsrangadó előtt: a milánói klub hivatalos közleményben erősítette meg, hogy Hakan Çalhanoğlu izomsérülést szenvedett, így nem léphet pályára a szombati, AS Roma elleni Serie A-mérkőzésen a Stadio Olimpicóban.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/inter-calhanoglu-serules-kihagyas_sto23337646/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/15/image-bf6f8739-21b6-4664-a7a6-450438e08e24-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 16 Sep 2026 04:35:08 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/15/image-bf6f8739-21b6-4664-a7a6-450438e08e24-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>„Ha ez álom, nem akarok felébredni” – Neymar és Coutinho végre egy csapatban</title>
       <link>https://www.eurosport.hu/labdarugas/coutinho-santos-atigazolas-neymar-csapattarsak_sto23337659/story.shtml</link>
@@ -162,18 +174,6 @@
       <pubDate>Sun, 13 Sep 2026 15:15:15 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/13/image-c2668f1a-0cd0-4ab0-85c1-e832c7136477-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Mbappé lát esélyt az Aranylabdára: „Nem volt nálam jobb játékos”</title>
-      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/kylian-mbappe-aranylabda-eselyek_sto23336731/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/12/image-a42eff62-3536-4f21-89c0-d588f2f8f844-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Kylian Mbappé úgy gondolja, hogy a 2026-os teljesítménye alapján megérdemelné az Aranylabdát. A Real Madrid sztárja nem tartja problémának, hogy egyetlen trófeát sem nyert a szezonban, mivel elsősorban az egyéni teljesítményt tartja mérvadónak, abban pedig maradandót alkotott.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/kylian-mbappe-aranylabda-eselyek_sto23336731/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/12/image-a42eff62-3536-4f21-89c0-d588f2f8f844-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 12 Sep 2026 17:12:23 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/12/image-a42eff62-3536-4f21-89c0-d588f2f8f844-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

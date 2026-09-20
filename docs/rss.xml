@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 19 Sep 2026 22:38:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:11:46 +0000</lastBuildDate>
     <item>
       <title>Eszement hajrával fordított a Vasas a Debrecen ellen</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/debrecen-vasas-eszement-forditas_sto23338777/story.shtml</link>
@@ -213,18 +213,6 @@
       </media:group>
     </item>
     <item>
-      <title>Magyarellenes rigmusok, obszcén bekiabálások, félbeszakított meccs – nem úszta meg a román klub</title>
-      <link>https://www.eurosport.hu/labdarugas/magyarellenes-rigmusok-obszecen-bekiabalasok-roman-klub_sto23338100/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/17/image-42e11d15-467a-45f2-9a73-13c92f975358-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Magyarellenes skandálás miatt megbírságolta a Dinamo Bucuresti labdarúgóklubot a román szövetség (FRF).&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/magyarellenes-rigmusok-obszecen-bekiabalasok-roman-klub_sto23338100/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/17/image-42e11d15-467a-45f2-9a73-13c92f975358-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 17 Sep 2026 11:52:13 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/17/image-42e11d15-467a-45f2-9a73-13c92f975358-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
       <title>Iraola el volt ájulva Szoboszlai bombagóljától: „Ez egy világklasszis találat!” - Mutatjuk!</title>
       <link>https://www.eurosport.hu/labdarugas/andoni-iraola-szoboszlai-dominik_sto23337833/story.shtml</link>
       <description>&lt;img src="https://i.eurosport.com/2026/09/16/image-89b39c5e-84f4-4cc6-8ba1-eb5c24497d9e-85-2560-1440.jpeg" /&gt;
@@ -234,18 +222,6 @@
       <pubDate>Wed, 16 Sep 2026 12:25:23 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/16/image-89b39c5e-84f4-4cc6-8ba1-eb5c24497d9e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Szoboszlai világklasszis gólt szerzett a Liverpool vezetőedzője szerint</title>
-      <link>https://www.eurosport.hu/labdarugas/szoboszlai-vilagklasszis-gol-iraola_sto23337746/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/16/image-e1682b67-c057-4c75-bf49-1f8d0fce2b91-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Andoni Iraola szerint világklasszis volt Szoboszlai Dominik keddi gólja, amellyel beállította a 3-1-es végeredményt a Tottenham Hotspur ellen az angol labdarúgó Ligakupában.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/szoboszlai-vilagklasszis-gol-iraola_sto23337746/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/16/image-e1682b67-c057-4c75-bf49-1f8d0fce2b91-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 16 Sep 2026 07:07:12 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/16/image-e1682b67-c057-4c75-bf49-1f8d0fce2b91-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

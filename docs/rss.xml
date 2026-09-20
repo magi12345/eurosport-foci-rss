@@ -7,7 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 20 Sep 2026 12:31:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 15:22:05 +0000</lastBuildDate>
+    <item>
+      <title>Szoboszlaiék nyertek Bournemouthban, a Manchester City őrült meccsen őrizte meg hibátlan mérlegét</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/szoboszlai-liverpool-bournemouth-manchester-city_sto23338955/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/20/image-9fecf647-aaf7-43dd-8be7-cfa8bf8068bc-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Szoboszlai Dominikkal és Kerkez Milossal felálló Liverpool egygólos mérkőzésen nyert a Tóth Alexet a 89. percben csereként bevető Bournemouth otthonában az angol labdarúgó-bajnokság 5. fordulójának vasárnapi játéknapján.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/szoboszlai-liverpool-bournemouth-manchester-city_sto23338955/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/20/image-9fecf647-aaf7-43dd-8be7-cfa8bf8068bc-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 15:18:58 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/20/image-9fecf647-aaf7-43dd-8be7-cfa8bf8068bc-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Kétszer vezetett, másodszor már nem volt válasz: nyert az ETO az MTK otthonában</title>
+      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/ketszer-vezetett-masodszor-nem-volt-valaszeto-mtk-nb-i_sto23338930/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/20/image-245fed07-fd80-4bd1-9cf9-539e7a21095f-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A címvédő ETO FC 2-1-re nyert az MTK Budapest vendégeként a labdarúgó OTP Bank Liga 8. fordulójának vasárnapi játéknapján.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/ketszer-vezetett-masodszor-nem-volt-valaszeto-mtk-nb-i_sto23338930/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/20/image-245fed07-fd80-4bd1-9cf9-539e7a21095f-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 14:55:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/20/image-245fed07-fd80-4bd1-9cf9-539e7a21095f-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Megvan, kit hívott be Marco Rossi a sérült Varga Barnabás helyére</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/megvan-ki-hivott-be-rossi-valogatott_sto23338880/story.shtml</link>
@@ -186,18 +210,6 @@
       <pubDate>Fri, 18 Sep 2026 15:38:07 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/18/image-5414175e-e7dd-4fa2-a390-01c7a1989911-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Kubatov Gábor és Deutsch Tamás nem hagyta szó nélkül a kormány bejelentését: kemény üzenetet küldtek</title>
-      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/kubatov-gabor-deutsch-tamas-kemeny-uzenet_sto23338411/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/18/image-5ecb1787-dedd-41cd-bdb7-f052e32bf7eb-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Több klubelnököt, szövetségi vezetőt érinthet az az összeférhetetlenségi jogszabály, amelyet a miniszterelnök bejelentése szerint a sportban vezet be a kormány.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/kubatov-gabor-deutsch-tamas-kemeny-uzenet_sto23338411/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/18/image-5ecb1787-dedd-41cd-bdb7-f052e32bf7eb-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 12:43:53 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/18/image-5ecb1787-dedd-41cd-bdb7-f052e32bf7eb-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

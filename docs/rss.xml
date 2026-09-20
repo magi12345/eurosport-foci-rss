@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 20 Sep 2026 10:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:31:32 +0000</lastBuildDate>
+    <item>
+      <title>Megvan, kit hívott be Marco Rossi a sérült Varga Barnabás helyére</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/megvan-ki-hivott-be-rossi-valogatott_sto23338880/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/20/image-8e3498e7-638c-4c3c-8c44-e1147887b8cf-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Marco Rossi szövetségi kapitány vasárnap meghívta a Nemzetek Ligájára készülő magyar labdarúgó-válogatott keretébe Bárány Donátot.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/megvan-ki-hivott-be-rossi-valogatott_sto23338880/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/20/image-8e3498e7-638c-4c3c-8c44-e1147887b8cf-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 20 Sep 2026 11:21:10 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/20/image-8e3498e7-638c-4c3c-8c44-e1147887b8cf-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>25 év után nyert újra meccset a Coventry a Premier League-ben, Lampardék végre fellélegezhetnek</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/coventry-elso-pl-gyozelem-frank-lampard_sto23338853/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Fri, 18 Sep 2026 12:43:53 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/18/image-5ecb1787-dedd-41cd-bdb7-f052e32bf7eb-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A kétszeres BL-győztes Khvicha Kvaratshkelia is érkezik Budapestre – keretet hirdetett Georgia</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/ketszeres-bl-gyoztes-budapest-georgia_sto23338386/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/18/image-08f8b076-0197-4e27-8d7b-1304cbef7c5e-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Az idei Aranylabda egyik várományosa, a Paris Saint-Germain kétszeres BL-győztes szélsője, Khvicha Kvaratskhelia is ott van a georgiai válogatott keretében, amely október 2-án, a Nemzetek Ligája harmadik fordulójában találkozik a mieinkkel a Puskás Arénában.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/ketszeres-bl-gyoztes-budapest-georgia_sto23338386/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/18/image-08f8b076-0197-4e27-8d7b-1304cbef7c5e-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 11:43:27 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/18/image-08f8b076-0197-4e27-8d7b-1304cbef7c5e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

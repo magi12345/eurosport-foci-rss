@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 20 Sep 2026 21:41:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:20:25 +0000</lastBuildDate>
     <item>
       <title>Az Újpest-meccset követően újabb döntetlent játszott a Fradi az NB I-ben</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/nyiregyhaza-ferencvaros-osszefoglalo_sto23339044/story.shtml</link>
@@ -21,7 +21,7 @@
       </media:group>
     </item>
     <item>
-      <title>Elszabadult a pokol az Atlético-Real után, Mourinho csalással vádolja a bírókat</title>
+      <title>Mourinho csalással vádolja a bírókat, elszabadult a pokol az Atlético-Real után</title>
       <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/real-madrid-jose-mourinho-kritika-atletico-madrid-jatekvezetok_sto23339021/story.shtml</link>
       <description>&lt;img src="https://i.eurosport.com/2026/09/20/image-e4c1f889-053b-4181-8289-0f5b3cf8e51f-85-2560-1440.jpeg" /&gt;
 &lt;p&gt;José Mourinho nem finomkodott az Atlético Madrid-Real Madrid (2-1) rangadót követő sajtótájékoztatón. A Real portugál menedzsere Miguel Ángel Ortiz Arias bírót és a VAR-szobában tevékenykedő Daniel Jesús Trujillót is élesen bírálta, és azt sugallta, hogy a játékvezetői csapat elcsalhatta a meccset…&lt;/p&gt;</description>
@@ -210,18 +210,6 @@
       <pubDate>Sat, 19 Sep 2026 04:37:51 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/18/image-96fc738a-7622-4bcc-b855-b9d3d3f8d784-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A Liverpool-legenda Vladimír Šmicer az aranylabdás Pavel Nedvedhez hasonlította Szoboszlai Dominikot</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/szoboszlai-dominik-dicseret-pavel-nedved-vladimir-smicer-liverpool_sto23338449/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/18/image-5414175e-e7dd-4fa2-a390-01c7a1989911-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Vladimír Šmicer szerint a játék fizikai oldalán mutatkoznak hasonlóságok Pavel Nedved és Szoboszlai Dominik között: a csehek egykori klasszisa szerint mindkét játékos kiemelkedő munkabírással rendelkezik. Ráadásul úgy látja, a magyar középpályás egyre inkább vezérévé válik a Liverpoolnak.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/szoboszlai-dominik-dicseret-pavel-nedved-vladimir-smicer-liverpool_sto23338449/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/18/image-5414175e-e7dd-4fa2-a390-01c7a1989911-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 18 Sep 2026 15:38:07 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/18/image-5414175e-e7dd-4fa2-a390-01c7a1989911-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

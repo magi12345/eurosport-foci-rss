@@ -7,7 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:26:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:54:35 +0000</lastBuildDate>
+    <item>
+      <title>Bojkott jöhet a Nemzetek Ligájában? Az írek Izrael felfüggesztését is kezdeményezték</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/irorszag-bojkott-nyilt-level_sto23339382/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/22/image-bf2878e8-9f5a-4b55-a6bf-e17736ba19b7-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Több mint 160 ír sportoló nyílt levélben arra kérte a labdarúgó-válogatottat, hogy bojkottálja a közelgő, Izrael elleni mérkőzéseket a Nemzetek Ligájában.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/irorszag-bojkott-nyilt-level_sto23339382/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/22/image-bf2878e8-9f5a-4b55-a6bf-e17736ba19b7-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Sep 2026 10:32:52 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/22/image-bf2878e8-9f5a-4b55-a6bf-e17736ba19b7-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>„Ez egy vicc” – Miért maradt ki Raphinha a 2026-os Aranylabda jelöltjei közül?</title>
+      <link>https://www.eurosport.hu/labdarugas/raphinha-barcelona-aranylabda_sto23339342/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/21/image-637ff307-2679-41d8-840f-d6d1a189aa7f-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;„Hihetetlen. Érthetetlen. Egy vicc.” Csak néhány a reakciók közül, miután a Barcelona brazil sztárja, Raphinha kimaradt a 2026-os Aranylabda jelöltjei közül.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/raphinha-barcelona-aranylabda_sto23339342/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/21/image-637ff307-2679-41d8-840f-d6d1a189aa7f-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 22 Sep 2026 08:47:23 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/21/image-637ff307-2679-41d8-840f-d6d1a189aa7f-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Taroltak a bajnok győriek az egyik legrangosabb magyar díjátadón, Szoboszlai is nyert</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2025-2026/hlsz-dijatado-gyor-szoboszlai-dominik_sto23339292/story.shtml</link>
@@ -210,18 +234,6 @@
       <pubDate>Sun, 20 Sep 2026 09:25:33 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/20/image-7ff0e2ba-9288-4d0a-99ae-efd60216c8ba-85-2560-1440.png" type="image/png" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Van-e élet a sikerkorszak után? Messi mellett Scaloni is otthagyhatja az argentin válogatottat</title>
-      <link>https://www.eurosport.hu/labdarugas/argentin-valogatott-messi-scaloni-korszakvaltas-elott_sto23338635/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/07/23/image-e463e267-5b7c-4cf9-830e-2a0d0f926ce7-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Lionel Messi és Nicolás Otamendi visszavonulása után a világbajnok szövetségi kapitány, Lionel Scaloni jövője is megkérdőjeleződött. Bónusztartozások, elhibázott felkészülési meccsek és stábbeli feloszlás árnyékolja be a megújulásra szoruló Albiceleste jövőjét.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/argentin-valogatott-messi-scaloni-korszakvaltas-elott_sto23338635/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/07/23/image-e463e267-5b7c-4cf9-830e-2a0d0f926ce7-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 20 Sep 2026 05:44:11 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/07/23/image-e463e267-5b7c-4cf9-830e-2a0d0f926ce7-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

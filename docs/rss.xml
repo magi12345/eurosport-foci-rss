@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 22 Sep 2026 23:27:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:46:40 +0000</lastBuildDate>
     <item>
       <title>Úgy megsérült Valverde a sokat vitatott belépő során, hogy a válogatottban sem léphet pályára</title>
       <link>https://www.eurosport.hu/labdarugas/megserult-valverde-sokat-vitatott-belepo_sto23339537/story.shtml</link>
@@ -222,18 +222,6 @@
       <pubDate>Sun, 20 Sep 2026 15:18:58 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/20/image-9fecf647-aaf7-43dd-8be7-cfa8bf8068bc-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Megvan, kit hívott be Marco Rossi a sérült Varga Barnabás helyére</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/megvan-ki-hivott-be-rossi-valogatott_sto23338880/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/20/image-8e3498e7-638c-4c3c-8c44-e1147887b8cf-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Marco Rossi szövetségi kapitány vasárnap meghívta a Nemzetek Ligájára készülő magyar labdarúgó-válogatott keretébe Bárány Donátot.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/megvan-ki-hivott-be-rossi-valogatott_sto23338880/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/20/image-8e3498e7-638c-4c3c-8c44-e1147887b8cf-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 20 Sep 2026 11:21:10 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/20/image-8e3498e7-638c-4c3c-8c44-e1147887b8cf-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 28 Sep 2026 12:48:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:41:19 +0000</lastBuildDate>
+    <item>
+      <title>FA-kupa-győztes a Stoke City? – Mi történne, ha büntetésként elvennék a Manchester City trófeáit?</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/manchester-city-elvett-trofeak_sto23341058/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/09/25/image-626118ba-8df0-46eb-bcad-7ce614496c04-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;2011 óta 26 trófeát szerzett a Manchester City, melyekre most sok második helyezett többé-kevésbé jogosan pályázik. De kik kaphatnák ezeket a címeket, és egyáltalán van-e értelme utólag másnak kiosztani egy bajnoki trófeát?&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/manchester-city-elvett-trofeak_sto23341058/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/09/25/image-626118ba-8df0-46eb-bcad-7ce614496c04-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 28 Sep 2026 14:04:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/09/25/image-626118ba-8df0-46eb-bcad-7ce614496c04-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Sérülés-körkép – Nagy nevek dőltek ki már a válogatott szünet első hetében</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/valogatott-szunet-serulesek_sto23341021/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Sat, 26 Sep 2026 07:30:52 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/20/image-8e3498e7-638c-4c3c-8c44-e1147887b8cf-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Kihagyott ziccerek, balhés befejezés: hazai vereséggel indult a Nemzetek Ligája</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/magyarorszag-ukrajna-hazai-vereseg_sto23340399/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/25/image-05af931a-3a2f-4413-bdaf-2ac457220ffb-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A magyar labdarúgó-válogatott 1-0-ra kikapott pénteken a Puskás Arénában a vendég ukránoktól a Nemzetek Ligája B divíziójának első fordulójában.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/magyarorszag-ukrajna-hazai-vereseg_sto23340399/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/25/image-05af931a-3a2f-4413-bdaf-2ac457220ffb-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 25 Sep 2026 21:11:51 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/25/image-05af931a-3a2f-4413-bdaf-2ac457220ffb-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

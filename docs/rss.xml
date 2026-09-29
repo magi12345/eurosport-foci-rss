@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 29 Sep 2026 02:06:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 04:03:05 +0000</lastBuildDate>
     <item>
       <title>Magabiztosan verték a törököket az olaszok, a franciák Olise góljával győzték le a belgákat</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/olaszorszag-torokorszag-franciaorszag-belgium-eredmenyek_sto23341163/story.shtml</link>
@@ -198,18 +198,6 @@
       <pubDate>Sat, 26 Sep 2026 15:20:24 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/26/image-df1f6f87-ad29-4157-9ba9-309061b33ae9-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A Barcelona ismét elhagyja a Camp Nout, és újabb hiteleket vesz fel</title>
-      <link>https://www.eurosport.hu/labdarugas/laliga-hypermotion/2026-2027/a-barca-ismet-elhagyja-a-camp-nout_sto23340511/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/15/image-54088e4a-0d1c-4b9c-9692-02d0ad55c6bb-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Az FC Barcelona jövőre újra elhagyja a Camp Nout, hogy befejezzék a stadion felújítását. Az ehhez felvett hitelek mértéke viszont kezd túlnőni a klubon.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/laliga-hypermotion/2026-2027/a-barca-ismet-elhagyja-a-camp-nout_sto23340511/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/15/image-54088e4a-0d1c-4b9c-9692-02d0ad55c6bb-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 26 Sep 2026 14:20:36 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/15/image-54088e4a-0d1c-4b9c-9692-02d0ad55c6bb-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

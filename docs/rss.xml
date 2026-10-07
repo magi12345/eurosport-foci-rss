@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 07 Oct 2026 18:22:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:24:48 +0000</lastBuildDate>
+    <item>
+      <title>Trónok harca Svájcban: saját honfitársa hívja ki a FIFA sokak szemében megbukott elnökét</title>
+      <link>https://www.eurosport.hu/labdarugas/infantino-fifa-elnokvalasztas-ramon-vega-kihivo_sto23343737/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/10/07/image-fc87e800-e5b5-40c7-a445-76122bf7346d-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Ramon Vega 55 éves üzletember, korábbi svájci válogatott labdarúgó elsőként jelentette be, hogy a nemzetközi szövetség (FIFA) márciusi elnökválasztásán a hónapok óta kritikák kereszttűzében lévő elnök, Gianni Infantino kihívójaként kíván indulni.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/infantino-fifa-elnokvalasztas-ramon-vega-kihivo_sto23343737/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/10/07/image-fc87e800-e5b5-40c7-a445-76122bf7346d-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 07 Oct 2026 19:43:49 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/10/07/image-fc87e800-e5b5-40c7-a445-76122bf7346d-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>”Arra koncentrálok, ami a legfontosabb – a portugál szövetségi kapitány reagált CR7 súlyos vádjaira</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/jorge-jesus-reakcio-cristiano-ronaldo-portugal-valogatott-vita_sto23343673/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Mon, 05 Oct 2026 16:24:09 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/05/image-b02ba319-d035-40a0-aa8e-c9860a241eee-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Goncalo Ramos szállította a győzelmet, Conceição a pirosat – Portugália megállíthatatlan az NL-ben</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/portugalia-norvegia-gorogorszag-nemetorszag-eredmenyek_sto23342844/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/04/image-8b3d5b9d-211c-4ceb-8a52-119dbc1af918-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A görög válogatott hazai környezetben 0-0-s döntetlent játszott a német csapattal a labdarúgó Nemzetek Ligája A divíziójának negyedik fordulójában, vasárnap.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/portugalia-norvegia-gorogorszag-nemetorszag-eredmenyek_sto23342844/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/04/image-8b3d5b9d-211c-4ceb-8a52-119dbc1af918-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 04 Oct 2026 21:06:08 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/04/image-8b3d5b9d-211c-4ceb-8a52-119dbc1af918-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

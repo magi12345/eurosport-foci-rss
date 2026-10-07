@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Tue, 06 Oct 2026 23:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 00:20:19 +0000</lastBuildDate>
     <item>
       <title>Nagyot fordítottak a spanyolok, Kane újabb rekordot állított be, egy gól döntött Budapesten</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/spanyolok-angolok-kane-budapest_sto23343461/story.shtml</link>
@@ -198,18 +198,6 @@
       <pubDate>Sun, 04 Oct 2026 16:46:11 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/04/image-99db9abc-1319-46a7-89e4-2e640c86794f-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Soha nem szégyelltem magam ennyire” – Modrić az angolok elleni 7-0-s vereség után</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/luka-modric-angol-vereseg-szegyen_sto23342654/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/04/image-72877f15-7a26-4978-b255-e992e2c14276-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Az angol labdarúgó-válogatott 7-0-ra lemosta a pályáról Horvátországot a Nemzetek Ligájában. A találkozót követően a horvátok legendája, Luka Modrić elmondta: a két évtizedes nemzetközi pályafutása alatt sosem szégyellte ennyire magát.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/luka-modric-angol-vereseg-szegyen_sto23342654/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/04/image-72877f15-7a26-4978-b255-e992e2c14276-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 04 Oct 2026 09:34:16 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/04/image-72877f15-7a26-4978-b255-e992e2c14276-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

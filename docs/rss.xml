@@ -7,7 +7,43 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Thu, 08 Oct 2026 11:29:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:22:29 +0000</lastBuildDate>
+    <item>
+      <title>„Tartsunk össze és mosolyogjunk” – üzeni a Manchester City-botrány közepette Erling Haaland</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/erling-haaland-manchester-city-botrany-liverpool-rangado_sto23344028/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/10/08/image-4285617e-da47-4572-b1c6-2d394b8f37b5-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Összetartásra buzdítja a csapatot és a szurkolókat a Manchester Cityvel szembeni vádak miatt kialakult botrány kapcsán Erling Haaland, aki a szívén viseli a klub és a város sorsát, miközben szokás szerint különleges mérkőzésre számít Szoboszlai Dominikék Liverpoolja ellen.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/erling-haaland-manchester-city-botrany-liverpool-rangado_sto23344028/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/10/08/image-4285617e-da47-4572-b1c6-2d394b8f37b5-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 18:18:40 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/10/08/image-4285617e-da47-4572-b1c6-2d394b8f37b5-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>„Még Cristianónál is teljesebb volt” – Rafa Benítez szerint Steven Gerrard a legjobb, akit edzett</title>
+      <link>https://www.eurosport.hu/labdarugas/rafa-benitez-steven-gerrard-a-legjobb-ronaldo_sto23344003/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/10/08/image-ab18219a-5261-43cd-86c7-63dc7c9dd688-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Rafael Benítez egy friss könyvben elárulta: a Liverpool-legenda Steven Gerrard szinte mindenben jó volt, így őt tartja a legkomplettebb futballistának, akivel valaha együtt dolgozott – pedig a listán ott van többek között Cristiano Ronaldo is.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/rafa-benitez-steven-gerrard-a-legjobb-ronaldo_sto23344003/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/10/08/image-ab18219a-5261-43cd-86c7-63dc7c9dd688-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 17:03:36 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/10/08/image-ab18219a-5261-43cd-86c7-63dc7c9dd688-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Az örök meg nem értett zseniből a nemzet bálványa: Messi a saját hazáját hódította meg utoljára</title>
+      <link>https://www.eurosport.hu/labdarugas/messi-argentin-valogatott-balvany-szurkolok-maradona_sto23343797/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/07/18/image-2373c7a3-d05d-47bb-9352-f0d6ebaa9ca2-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Amikor az egész világ már rég bálványozta, a saját hazája csak jóval a harmincadik életéve felett fogadta el igazán. Nem énekli a himnuszt, nem küzd teljes erőbedobással, nem elég argentin, nem olyan, mint Maradona, Európában nőtt fel – mondták rá sokan. Hogyan lett egy meg nem értett zseniből egy…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/messi-argentin-valogatott-balvany-szurkolok-maradona_sto23343797/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/07/18/image-2373c7a3-d05d-47bb-9352-f0d6ebaa9ca2-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Thu, 08 Oct 2026 13:34:14 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/07/18/image-2373c7a3-d05d-47bb-9352-f0d6ebaa9ca2-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Tudatos kockázatvállalás, bátrabb támadójáték: Tuchel szerint szintet lépett az angol válogatott</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/thomas-tuchel-szintlepes-angol-valogatott_sto23343876/story.shtml</link>
@@ -177,18 +213,6 @@
       </media:group>
     </item>
     <item>
-      <title>Zidane megérkezett, Franciaország veretlen maradt – így indult az új korszak</title>
-      <link>https://www.eurosport.hu/labdarugas/zidane-megerkezett-igy-indult-az-uj-korszak_sto23343256/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/06/image-40f0fbfb-26d2-4564-a7f8-e38a9255e584-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Didier Deschamps 14 éves kapitányi időszaka után Zinedine Zidane nagy várakozások közepette vette át a francia válogatott irányítását. A francia futball ikonikus figurája az első négy mérkőzésén veretlen maradt, és több biztató jelet is láthatott, emellett persze akadtak olyan területek is,…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/zidane-megerkezett-igy-indult-az-uj-korszak_sto23343256/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/06/image-40f0fbfb-26d2-4564-a7f8-e38a9255e584-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 06 Oct 2026 13:43:23 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/06/image-40f0fbfb-26d2-4564-a7f8-e38a9255e584-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
       <title>„Nem normális, amit látunk tőle” – a Barcelona-legenda Andrés Iniesta is Lamine Yamalt méltatta</title>
       <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/andres-iniesta-lamine-yamal-barcelona-velemeny-luis-de-la-fuente_sto23343091/story.shtml</link>
       <description>&lt;img src="https://i.eurosport.com/2026/10/05/image-7979a259-7ed3-4cf5-833e-387daa510314-85-2560-1440.jpeg" /&gt;
@@ -198,18 +222,6 @@
       <pubDate>Mon, 05 Oct 2026 17:16:24 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/05/image-7979a259-7ed3-4cf5-833e-387daa510314-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Az előítéletek nyomában: miért jobb a hazai edző sajtója, mint a külföldi szakemberé?</title>
-      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/ruben-amorim-massimiliano-allegri-osszehasonlitas_sto23343043/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/05/image-b02ba319-d035-40a0-aa8e-c9860a241eee-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Tavaly ilyenkor az olasz sajtóban optimistán tekintettek a Milan szezonja elé, miután a piros-feketék négy győzelemmel és egy vereséggel nyitották az évet. Idén azonban sokkal kritikusabb a sajtó a milánóiak teljesítményével kapcsolatban, holott öt fordulót követően veretlenül követik az élmezőnyt.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/ruben-amorim-massimiliano-allegri-osszehasonlitas_sto23343043/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/05/image-b02ba319-d035-40a0-aa8e-c9860a241eee-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 16:24:09 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/05/image-b02ba319-d035-40a0-aa8e-c9860a241eee-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

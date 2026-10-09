@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Thu, 08 Oct 2026 23:48:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:56:56 +0000</lastBuildDate>
     <item>
       <title>Gyanúsan alacsony fizetés? A Getafe egyelőre nem szerződtetheti az Európa-bajnok Carvajalt</title>
       <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/dani-carvajal-getafe-szerzodtetes-vizsgalat_sto23344049/story.shtml</link>
@@ -222,18 +222,6 @@
       <pubDate>Tue, 06 Oct 2026 15:21:26 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/06/image-6ccda586-45cf-4408-9499-f1940fec2388-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Nem normális, amit látunk tőle” – a Barcelona-legenda Andrés Iniesta is Lamine Yamalt méltatta</title>
-      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/andres-iniesta-lamine-yamal-barcelona-velemeny-luis-de-la-fuente_sto23343091/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/05/image-7979a259-7ed3-4cf5-833e-387daa510314-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Andrés Iniesta szerint nem normális, amit 19 évesen mutat Lamine Yamal: csodálatos jövőt jósol a fiatal Aranylabda-esélyes játékosnak. Eközben a spanyol válogatott szövetségi kapitánya, Luis de la Fuente már arról beszélt, hogy jó úton jár a legendává válás felé.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/andres-iniesta-lamine-yamal-barcelona-velemeny-luis-de-la-fuente_sto23343091/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/05/image-7979a259-7ed3-4cf5-833e-387daa510314-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 05 Oct 2026 17:16:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/05/image-7979a259-7ed3-4cf5-833e-387daa510314-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

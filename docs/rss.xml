@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 11 Oct 2026 20:26:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:11:02 +0000</lastBuildDate>
     <item>
       <title>A Puskás Akadémia idegenben verte a címvédő Győrt, és továbbra is vezeti az NB I-et</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/puskas-akademia-cimvedo-gyort-vezetik-az-nb-i_sto23344874/story.shtml</link>
@@ -213,15 +213,15 @@
       </media:group>
     </item>
     <item>
-      <title>„Még Cristianónál is teljesebb volt” – Rafa Benítez szerint Steven Gerrard a legjobb, akit edzett</title>
-      <link>https://www.eurosport.hu/labdarugas/rafa-benitez-steven-gerrard-a-legjobb-ronaldo_sto23344003/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/08/image-ab18219a-5261-43cd-86c7-63dc7c9dd688-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Rafael Benítez egy friss könyvben elárulta: a Liverpool-legenda Steven Gerrard szinte mindenben jó volt, így őt tartja a legkomplettebb futballistának, akivel valaha együtt dolgozott – pedig a listán ott van többek között Cristiano Ronaldo is.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/rafa-benitez-steven-gerrard-a-legjobb-ronaldo_sto23344003/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/08/image-ab18219a-5261-43cd-86c7-63dc7c9dd688-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 08 Oct 2026 17:03:36 +0000</pubDate>
+      <title>Nem kerülheti el a Premier League, hogy példát statuáljon a csalással várat építő Manchester Cityvel</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/manchester-city-csalas-penzugy-szabalytalansag_sto23342006/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/10/01/image-73059195-4c14-4f87-9fac-877e31712967-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Meg lehet-e tartani a csalással megszerzett trófeákat, címeket? Számít-e egyáltalán az, ha hivatalosan megsemmisítik az eredményeket? Ilyen és ehhez hasonló kérdések merülhetnek fel azt követően, hogy a Premier League hivatalosan is kimondta: a Manchester City csalással szerzett jelentős pénzügyi…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/manchester-city-csalas-penzugy-szabalytalansag_sto23342006/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/10/01/image-73059195-4c14-4f87-9fac-877e31712967-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 02 Oct 2026 06:36:11 +0000</pubDate>
       <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/08/image-ab18219a-5261-43cd-86c7-63dc7c9dd688-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+        <media:content url="https://i.eurosport.com/2026/10/01/image-73059195-4c14-4f87-9fac-877e31712967-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

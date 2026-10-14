@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:20:57 +0000</lastBuildDate>
+    <item>
+      <title>Egy csapat, amely kétszer is elveszítette az otthonát – a Coventry nem mindennapi története</title>
+      <link>https://www.eurosport.hu/labdarugas/coventry-city_sto23345455/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/10/14/image-3beac3d3-d869-4ad4-9e5b-8eb2c0ba8284-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Egy történet arról, hogyan veszítette el egy angol focicsapat szinte mindenét – az élvonalbeli helyét, a pénzét, a stadionját, majd a szurkolói bizalmát –, és hogyan szerezte vissza mindezt 25 év alatt. A Coventry City focicsapat története.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/coventry-city_sto23345455/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/10/14/image-3beac3d3-d869-4ad4-9e5b-8eb2c0ba8284-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 07:24:29 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/10/14/image-3beac3d3-d869-4ad4-9e5b-8eb2c0ba8284-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>BL: Hátrányból fordított a Barcelona Sallaiék ellen, hatgólos meccsen bukott pontot a Bayern München</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/galatasaray-barcelona-atletico-madrid-manchester-united-bayern-munchen-arsenal-eredmenyek-kedd_sto23345483/story.shtml</link>
@@ -174,18 +186,6 @@
       <pubDate>Mon, 12 Oct 2026 12:15:56 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/08/28/image-e4bc51e9-1fea-48f7-b900-a5e794be7f7a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A kihagyott PL-rangadó után a Liverpool ausztriai BL-meccsén is kérdéses Szoboszlai játéka</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/lask-liverpool-szoboszlai_sto23345011/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/12/image-bc3cb7d0-36d4-4288-b925-b82dfcf1d9c2-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Labdarúgó BL - Az osztrák LASK otthonában sorra kerülő szerdai Bajnokok Ligája-mérkőzésen is kérdéses Szoboszlai Dominik játéka azok után, hogy a Liverpool középpályása a Manchester City elleni vasárnapi bajnoki rangadót kihagyta.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/lask-liverpool-szoboszlai_sto23345011/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/12/image-bc3cb7d0-36d4-4288-b925-b82dfcf1d9c2-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 12 Oct 2026 11:20:20 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/12/image-bc3cb7d0-36d4-4288-b925-b82dfcf1d9c2-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>

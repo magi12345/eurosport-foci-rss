@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 14 Oct 2026 18:04:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:09:00 +0000</lastBuildDate>
+    <item>
+      <title>Kiütötte ellenfelét a Liverpool, beindult a nyáron igazolt BL-győztes francia</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/lask-liverpool-osszefoglalo_sto23345765/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/10/14/image-c4464080-c92b-4bd3-b876-e0a3e0bbc36d-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Liverpool 6-3-as győzelmet aratott a LASK Linz otthonában szerdán, a Bajnokok Ligája alapszakaszának második fordulójában.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/lask-liverpool-osszefoglalo_sto23345765/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/10/14/image-c4464080-c92b-4bd3-b876-e0a3e0bbc36d-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 14 Oct 2026 18:53:13 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/10/14/image-c4464080-c92b-4bd3-b876-e0a3e0bbc36d-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Szörnyű részletek Gulácsiék kirablásáról: álmukból felkeltve, fegyverrel fenyegették őket</title>
       <link>https://www.eurosport.hu/labdarugas/gulacsi-peter-rablas-fenyegetes-reszletek_sto23345668/story.shtml</link>
@@ -162,18 +174,6 @@
       <pubDate>Tue, 13 Oct 2026 11:05:52 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/13/image-c02143a4-38b2-47ac-bb37-ad303b3f0d2b-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Változott a georgiai-magyar Nemzetek Ligája-meccs helyszíne</title>
-      <link>https://www.eurosport.hu/labdarugas/georgia-magyarorszag-helyszinvaltozas_sto23345259/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/13/image-13c8204b-8b57-4558-bb50-f722e2c0069c-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Az eredeti tervektől eltérően nem a legnagyobb, nemzeti stadionban fogadja Georgia a magyar válogatottat a Nemzetek Ligája B-divíziójában.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/georgia-magyarorszag-helyszinvaltozas_sto23345259/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/13/image-13c8204b-8b57-4558-bb50-f722e2c0069c-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 09:21:02 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/13/image-13c8204b-8b57-4558-bb50-f722e2c0069c-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>

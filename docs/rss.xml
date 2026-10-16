@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Fri, 16 Oct 2026 12:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:43:28 +0000</lastBuildDate>
+    <item>
+      <title>Veszélyben lehet Ronaldo rekordja – Ki és mikor lehet az új csúcstartó?</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/cristiano-ronaldo-bl-golrekord_sto23346264/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/10/16/image-371b3c68-0f7e-4adf-864c-b3088cd359af-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Cristiano Ronaldo Bajnokok Ligája-gólrekordja veszélyben lehet, ha Erling Haaland és Kylian Mbappé továbbra is ennyire gyorsan termeli a gólokat. De még akkor is óriási feladat áll a két csatár előtt.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/cristiano-ronaldo-bl-golrekord_sto23346264/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/10/16/image-371b3c68-0f7e-4adf-864c-b3088cd359af-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 16 Oct 2026 12:53:24 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/10/16/image-371b3c68-0f7e-4adf-864c-b3088cd359af-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Eladó a Fehérvár FC - új pályázatot ír ki az önkormányzat, cél a minél előbbi értékesítés</title>
       <link>https://www.eurosport.hu/labdarugas/elado-a-fehervar-fc_sto23346242/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Wed, 14 Oct 2026 15:55:09 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/14/image-13a4baf5-829a-43f0-a044-d937d8bc30d4-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„A kerékpár a szabadságom” – a világbajnok focikapitány két keréken találta meg a lelki békéjét</title>
-      <link>https://www.eurosport.hu/labdarugas/scaloni-amator-kerekparverseny-feltoltodes-szenvedely_sto23345654/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/14/image-c6d1ea57-72e2-4b7c-ba8b-ecaa6a3dc1f5-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Míg a legtöbb futballedzőt teljesen elnyeli a munka, és legtöbbször teljes lazulással tölti a szabadidejét, az argentin válogatottat 2022-ben világbajnoki címhez vezető Lionel Scaloni a feltöltődés különleges formáját választotta. Ha a szakember éppen nem a játékosokat igazgatja a pálya széléről,…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/scaloni-amator-kerekparverseny-feltoltodes-szenvedely_sto23345654/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/14/image-c6d1ea57-72e2-4b7c-ba8b-ecaa6a3dc1f5-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 14 Oct 2026 14:05:21 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/14/image-c6d1ea57-72e2-4b7c-ba8b-ecaa6a3dc1f5-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

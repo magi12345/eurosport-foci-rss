@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Thu, 15 Oct 2026 23:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 02:59:27 +0000</lastBuildDate>
     <item>
       <title>Európa-liga: az utolsó percben fordított a Juventus Spanyolországban, Tóth Alexék könnyedén nyertek</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/utolso-perc-juventus-europa-liga-toth-alex_sto23346141/story.shtml</link>
@@ -198,42 +198,6 @@
       <pubDate>Wed, 14 Oct 2026 08:54:31 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/13/image-bffa1bac-52ce-4a2f-98cd-785744e4ef14-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Egy csapat, amely kétszer is elveszítette az otthonát – a Coventry nem mindennapi története</title>
-      <link>https://www.eurosport.hu/labdarugas/coventry-city_sto23345455/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/14/image-3beac3d3-d869-4ad4-9e5b-8eb2c0ba8284-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Egy történet arról, hogyan veszítette el egy angol focicsapat szinte mindenét – az élvonalbeli helyét, a pénzét, a stadionját, majd a szurkolói bizalmát –, és hogyan szerezte vissza mindezt 25 év alatt. A Coventry City focicsapat története.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/coventry-city_sto23345455/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/14/image-3beac3d3-d869-4ad4-9e5b-8eb2c0ba8284-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 14 Oct 2026 07:24:29 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/14/image-3beac3d3-d869-4ad4-9e5b-8eb2c0ba8284-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>BL: Hátrányból fordított a Barcelona Sallaiék ellen, hatgólos meccsen bukott pontot a Bayern München</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/galatasaray-barcelona-atletico-madrid-manchester-united-bayern-munchen-arsenal-eredmenyek-kedd_sto23345483/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/13/image-e7366973-7706-422b-a5d0-498817082401-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A végső sikerre esélyesnek tartott csapatok közül az FC Barcelona hátrányból fordítva győzött, a Bayern München viszont csak döntetlent ért el a labdarúgó Bajnokok Ligája alapszakaszában, a második forduló keddi játéknapján.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/galatasaray-barcelona-atletico-madrid-manchester-united-bayern-munchen-arsenal-eredmenyek-kedd_sto23345483/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/13/image-e7366973-7706-422b-a5d0-498817082401-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 21:19:15 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/13/image-e7366973-7706-422b-a5d0-498817082401-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Döntött Szoboszlai szerepléséről az ausztriai BL-meccsre utazó Liverpool</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/szoboszlai-dominik-liverpool-linz-serules_sto23345347/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/09/07/image-951d1fd9-2a81-421c-9d90-0a0e21e652ed-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Kihagyja a Linz otthonában sorra kerülő Bajnokok Ligája-mérkőzést Szoboszlai Dominik, a Liverpool magyar válogatott futballistája.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/szoboszlai-dominik-liverpool-linz-serules_sto23345347/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/09/07/image-951d1fd9-2a81-421c-9d90-0a0e21e652ed-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 13 Oct 2026 13:36:36 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/09/07/image-951d1fd9-2a81-421c-9d90-0a0e21e652ed-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

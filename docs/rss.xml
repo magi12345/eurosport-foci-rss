@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sat, 17 Oct 2026 02:51:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 07:29:20 +0000</lastBuildDate>
+    <item>
+      <title>Egy térdről elnevezett újság, a csokibarna mez és a kupagyőztes postás – 10 érdekesség a Coventryről</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/10-dolog-amit-nem-tudtal-coventry-city_sto23345486/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/10/13/image-cd7214d9-77b5-482c-97e2-8fa3a6dbbe5d-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Kerékpárgyári munkások, legendás menekülések, egy postásként dolgozó kupagyőztes és az angol futball egyik leghírhedtebb meze is szerepel a Coventry City történetben.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/10-dolog-amit-nem-tudtal-coventry-city_sto23345486/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/10/13/image-cd7214d9-77b5-482c-97e2-8fa3a6dbbe5d-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sat, 17 Oct 2026 06:49:42 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/10/13/image-cd7214d9-77b5-482c-97e2-8fa3a6dbbe5d-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Muszlimellenes rigmusokat skandáltak a szurkolóik, lecsapott a vb-címvédőre a FIFA</title>
       <link>https://www.eurosport.hu/labdarugas/spanyolok-fifa-buntetes_sto23346338/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Thu, 15 Oct 2026 08:03:15 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/15/image-dea2795e-5b0a-4d89-9bee-2e94b35a6b50-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Szörnyű részletek Gulácsiék kirablásáról: álmukból felkeltve, fegyverrel fenyegették őket</title>
-      <link>https://www.eurosport.hu/labdarugas/gulacsi-peter-rablas-fenyegetes-reszletek_sto23345668/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/14/image-13a4baf5-829a-43f0-a044-d937d8bc30d4-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Mint ismert, Gulácsi Pétert és családját keddre virradóra kirabolták a valenciai otthonukban, ami miatt a magyar kapusnak csapata, a Villarreal esti, Napoli elleni Bajnokok Ligája-meccsét is ki kellett hagynia. Fizikai sérülést nem szenvedtek, lelkit annál inkább – a négyfős család aludt, amikor a…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/gulacsi-peter-rablas-fenyegetes-reszletek_sto23345668/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/14/image-13a4baf5-829a-43f0-a044-d937d8bc30d4-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 14 Oct 2026 15:55:09 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/14/image-13a4baf5-829a-43f0-a044-d937d8bc30d4-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

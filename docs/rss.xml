@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 18 Oct 2026 22:44:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:17:39 +0000</lastBuildDate>
     <item>
       <title>Kisvárdán is ikszelt, zsinórban négy döntetlennél jár a Ferencváros a bajnokságban</title>
       <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/ferencvaros-kisvarda-eredmeny_sto23346946/story.shtml</link>
@@ -198,18 +198,6 @@
       <pubDate>Fri, 16 Oct 2026 09:51:26 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/09/26/image-eba40246-e6f7-4823-b69e-f1a4368bae4e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Ki állítja meg a párizsi expresszt? – Ez a két csapat jelenthet valódi veszélyt a PSG-re</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/ki-allitja-meg-a-parizsi-expresszt-psg_sto23346046/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/15/image-624f9445-2b79-4bba-966a-bbd9311f4126-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A Paris Saint-Germain szerda este megmutatta klasszisát: alig több mint fél óra alatt háromgólos előnybe került a Manchester City ellen a Bajnokok Ligájában. A címvédő félelmetesen erősnek tűnik, és jó eséllyel pályázik arra, hogy sorozatban harmadszor is elhódítsa a trófeát. De vajon megállíthatja…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/ki-allitja-meg-a-parizsi-expresszt-psg_sto23346046/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/15/image-624f9445-2b79-4bba-966a-bbd9311f4126-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 15 Oct 2026 17:08:52 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/15/image-624f9445-2b79-4bba-966a-bbd9311f4126-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

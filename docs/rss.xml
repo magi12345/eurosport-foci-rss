@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 19 Oct 2026 21:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:05:00 +0000</lastBuildDate>
     <item>
       <title>Megvan az első győzelem: az újonc elleni sikerrel már nem nyeretlen a Spurs sem</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/tottenham-coventry-elso-gyozelem-eredmeny_sto23347312/story.shtml</link>
@@ -186,18 +186,6 @@
       <pubDate>Sat, 17 Oct 2026 13:44:31 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/06/29/image-4c1e950d-a86a-48a7-9879-480e47c6eb41-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Veszélyben lehet Ronaldo rekordja – Ki és mikor lehet az új csúcstartó?</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/cristiano-ronaldo-bl-golrekord_sto23346264/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/16/image-371b3c68-0f7e-4adf-864c-b3088cd359af-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Cristiano Ronaldo Bajnokok Ligája-gólrekordja veszélyben lehet, ha Erling Haaland és Kylian Mbappé továbbra is ennyire gyorsan termeli a gólokat. De még akkor is óriási feladat áll a két csatár előtt.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/cristiano-ronaldo-bl-golrekord_sto23346264/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/16/image-371b3c68-0f7e-4adf-864c-b3088cd359af-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 16 Oct 2026 12:53:24 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/16/image-371b3c68-0f7e-4adf-864c-b3088cd359af-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

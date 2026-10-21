@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 21 Oct 2026 03:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:11:13 +0000</lastBuildDate>
     <item>
       <title>BL: Megállította a Barcelonát a PSG, kétgólos hátrányból nyert a Liverpool, ötöt vágott a City</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/barcelona-psg-liverpool-villareal-manchester-city-eredmenyek_sto23347623/story.shtml</link>
@@ -174,18 +174,6 @@
       <pubDate>Mon, 19 Oct 2026 13:05:30 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/18/image-28af1059-c137-44cb-8fdb-d8f35dade194-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Vinícius Júnior helyében már rég elhagyta volna a Real Madridot José Mourinho</title>
-      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/jose-mourinho-vinicius-junior-real-madrid_sto23346805/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/18/image-7d214c47-a538-401c-8b8f-69928f41de2f-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A Real Madrid portugál edzője arról beszélt négy La Liga-meccsre eltiltott játékosa kapcsán, hogy ő már rég átigazolt volna egy olyan klubhoz és egy olyan bajnokságba, ahol tisztelik őt.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/jose-mourinho-vinicius-junior-real-madrid_sto23346805/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/18/image-7d214c47-a538-401c-8b8f-69928f41de2f-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 18 Oct 2026 12:10:41 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/18/image-7d214c47-a538-401c-8b8f-69928f41de2f-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

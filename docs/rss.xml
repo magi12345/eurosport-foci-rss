@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:32:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:15:57 +0000</lastBuildDate>
     <item>
       <title>A Bayern leikszelt az Arsenallal, a Real Madrid kiütéssel menetel tovább a BL-ben</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/bayern-munchen-arsenal-real-madrid-leipzig-eredmenyek_sto23347974/story.shtml</link>
@@ -174,30 +174,6 @@
       <pubDate>Tue, 20 Oct 2026 10:08:50 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/20/image-702ea2d7-0879-42b3-9626-fc42b30adf61-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Megkapta a büntetését Cristiano Ronaldo, amiért hátat fordított a portugál válogatottnak</title>
-      <link>https://www.eurosport.hu/labdarugas/cristiano-ronaldo-fegyelmi-ugy-buntetes_sto23347290/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/10/image-1c345afd-c789-4047-a3d2-05056676c2ed-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A Portugál Labdarúgó Szövetség hétfőn harmincnapos eltiltással sújtotta Cristiano Ronaldót, aki Jorge Jesus szövetségi kapitánnyal fennálló nézeteltérése miatt elhagyta a válogatott edzőtáborát.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/cristiano-ronaldo-fegyelmi-ugy-buntetes_sto23347290/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/10/image-1c345afd-c789-4047-a3d2-05056676c2ed-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 18:41:55 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/10/image-1c345afd-c789-4047-a3d2-05056676c2ed-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Elindult a lélektani hadviselés az El Clásicóra: a Real Madrid nyomást gyakorol a játékvezetőre</title>
-      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/barcelona-real-madrid-birokuldes-feszutltseg-rangado_sto23347221/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/06/12/image-bcbe2730-df1c-46a0-8766-473de7a8f1bb-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A vasárnapi El Clásicót megelőzően egyre inkább fokozódik a feszültség a spanyol labdarúgásban. Egy katalán napilap kemény vádakkal illette a fővárosi klubot, amely szerinte tudatos kampánnyal próbálja befolyásolni a játékvezetést.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/barcelona-real-madrid-birokuldes-feszutltseg-rangado_sto23347221/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/06/12/image-bcbe2730-df1c-46a0-8766-473de7a8f1bb-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 19 Oct 2026 15:57:16 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/06/12/image-bcbe2730-df1c-46a0-8766-473de7a8f1bb-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

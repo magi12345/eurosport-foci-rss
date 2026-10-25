@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 25 Oct 2026 20:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 22:59:53 +0000</lastBuildDate>
+    <item>
+      <title>Mbappé döntött az El Clásicón, a Real Madrid elvette a Barcelona hibátlan mérlegét</title>
+      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/mbappe-el-clasico-real-madrid-barcelona_sto23349233/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/10/25/image-de248eee-2863-4708-88d5-100bfa889630-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A címvédő Barcelona 2-1-re kikapott a Real Madridtól a spanyol labdarúgó-bajnokság tizedik fordulójának szuperrangadóján, a 265. El Clásicón, ezzel a címvédő katalán alakulat kilenc győzelem után először veszített pontot a La Ligában, ráadásul otthon és mindjárt hármat.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/mbappe-el-clasico-real-madrid-barcelona_sto23349233/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/10/25/image-de248eee-2863-4708-88d5-100bfa889630-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 25 Oct 2026 22:30:28 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/10/25/image-de248eee-2863-4708-88d5-100bfa889630-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Aranylabda 2026: Mutatjuk a hétfői gála teljes menetrendjét</title>
       <link>https://www.eurosport.hu/labdarugas/ballon-d-or/2026/aranylabda-gala-teljes-menetrend_sto23349134/story.shtml</link>
@@ -174,30 +186,6 @@
       <pubDate>Fri, 23 Oct 2026 14:48:33 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/22/image-fa9e674e-26ab-4d31-97c5-6e5f096d2a4e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Leterheltek a hatóságok, elhalasztják a PSG vasárnapra tervezett bajnokiját</title>
-      <link>https://www.eurosport.hu/labdarugas/ligue-1-mcdonald-s/2026-2027/psg-lyon-halasztas-rendorseg-keres_sto23348516/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/23/image-75fb3d89-6968-4f4a-b05c-c36e5f4de057-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Ligue 1 - A rendőrség kérésére vasárnapról hétfő estére halasztották a Bajnokok Ligája-címvédő Paris Saint-Germain és az Olympique Lyon mérkőzését a francia labdarúgó-bajnokság nyolcadik fordulójában.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/ligue-1-mcdonald-s/2026-2027/psg-lyon-halasztas-rendorseg-keres_sto23348516/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/23/image-75fb3d89-6968-4f4a-b05c-c36e5f4de057-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 23 Oct 2026 14:02:39 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/23/image-75fb3d89-6968-4f4a-b05c-c36e5f4de057-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Messi nem akármilyen díjat vehet át: "Mindig a győzelem a célom, amikor pályára lépek"</title>
-      <link>https://www.eurosport.hu/labdarugas/messi-dij-mindig-a-gyozelem-a-cel_sto23348390/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/23/image-1aeec50e-1afa-4440-9471-b1392513194d-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Lionel Messi, nyolcsszoros aranylabdás futballista Oviedóba utazott, ahol pénteken az Asztúria Hercegnője-díjat veheti át.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/messi-dij-mindig-a-gyozelem-a-cel_sto23348390/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/23/image-1aeec50e-1afa-4440-9471-b1392513194d-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 23 Oct 2026 08:00:30 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/23/image-1aeec50e-1afa-4440-9471-b1392513194d-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

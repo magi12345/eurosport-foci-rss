@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 25 Oct 2026 03:02:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:38:34 +0000</lastBuildDate>
     <item>
       <title>„Carrick nehéz helyzetbe került, de a Manchester United problémái mélyebben gyökereznek”</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/manchester-united-edzokerdes-owen-hargreaves_sto23348867/story.shtml</link>
@@ -198,18 +198,6 @@
       <pubDate>Thu, 22 Oct 2026 17:12:58 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/22/image-3a818a1b-680f-4939-bfb7-591ee43abe01-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Félő, hogy Vinícius Júniornak befellegzett a Real Madridnál</title>
-      <link>https://www.eurosport.hu/labdarugas/la-liga/2026-2027/vinicius-jr-real-madrid_sto23347820/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/21/image-a96f2337-9064-4568-a453-95594e5bafb8-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Bármilyen furcsán hangzik, a Real Madridot irányító José Mourinho dolgát megkönnyíti, hogy a Barcelona ellen nem számolhat Vinícius Júniorral. Az eltiltott brazil labdarúgó kihagyja a vasárnapi El Clásicót, és ebből hasznot húzhatnak a ”királyiak”. A 26 éves szélső pályafutása legnehezebb időszakát…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/la-liga/2026-2027/vinicius-jr-real-madrid_sto23347820/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/21/image-a96f2337-9064-4568-a453-95594e5bafb8-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 22 Oct 2026 07:20:41 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/21/image-a96f2337-9064-4568-a453-95594e5bafb8-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

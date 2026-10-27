@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 26 Oct 2026 21:06:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:13:01 +0000</lastBuildDate>
+    <item>
+      <title>A Bayern München és az angol válogatott gólvágója, Harry Kane nyerte a 2026-os Aranylabdát</title>
+      <link>https://www.eurosport.hu/labdarugas/ballon-d-or/2026/harry-kane-aranylabda-dijazottak_sto23349554/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/10/26/image-74355bd7-8d21-4345-8d32-56346a4c778a-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Harry Kane, a Bayern München 33 éves angol csatára először nyerte el a France Football magazin által odaítélt és az év legjobb játékosának járó Aranylabdát.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/ballon-d-or/2026/harry-kane-aranylabda-dijazottak_sto23349554/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/10/26/image-74355bd7-8d21-4345-8d32-56346a4c778a-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 26 Oct 2026 23:01:00 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/10/26/image-74355bd7-8d21-4345-8d32-56346a4c778a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>„Vállalom a felelősséget” – Michael Carrick sem tudja, mit hoz számára a jövő a Manchester Unitednél</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/michael-carrick-manchester-united-vereseg-kirugas-harry-maguire_sto23349444/story.shtml</link>
@@ -150,18 +162,6 @@
       <pubDate>Sat, 24 Oct 2026 12:47:41 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/24/image-4b5d9a3a-e393-4ebc-9d47-daba11b7ebe9-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Vincent Kompany jól van, de pár napig kórházban tartják</title>
-      <link>https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/vincent-kompany-nehany-napig-korhazban-marad_sto23348738/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/24/image-ed5e8c98-6e57-4907-8c1b-629b9a18fa90-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Néhány napig orvosi megfigyelés alatt marad Vincent Kompany, a Bayern München labdarúgócsapatának vezetőedzője, akit pénteken szállítottak kórházba.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/bundesliga/2026-2027/vincent-kompany-nehany-napig-korhazban-marad_sto23348738/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/24/image-ed5e8c98-6e57-4907-8c1b-629b9a18fa90-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 24 Oct 2026 10:41:05 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/24/image-ed5e8c98-6e57-4907-8c1b-629b9a18fa90-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:56:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 00:20:06 +0000</lastBuildDate>
     <item>
       <title>„Nem Disneylandben vagyunk” – Arteta nem kivételezik az Arsenal csodagyerekével</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/nem-disneylandben-vagyunk_sto23350715/story.shtml</link>
@@ -174,18 +174,6 @@
       <pubDate>Wed, 28 Oct 2026 09:07:28 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/28/image-3b32b27f-1180-4fbb-b01a-3bb04a437616-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Aranylabda 2026: hajszálon múlt Kane győzelme, Yamaltól saját csapattársa vehetett el szavazatokat</title>
-      <link>https://www.eurosport.hu/labdarugas/aranylabda-hajszolon-mult-kane-rodri-yamal_sto23349712/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/27/image-32316018-62ba-4aab-990d-334c24f86802-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Harry Kane és Kylian Mbappé között rendkívül szoros versenyben dőlt el a 2026-os Aranylabda sorsa. A France Football főszerkesztője szerint a két klasszis párharca még a 2024-es, Rodri és Vinícius Júnior közötti csatánál is kiélezettebb volt.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/aranylabda-hajszolon-mult-kane-rodri-yamal_sto23349712/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/27/image-32316018-62ba-4aab-990d-334c24f86802-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 27 Oct 2026 15:48:29 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/27/image-32316018-62ba-4aab-990d-334c24f86802-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

@@ -7,7 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 01 Nov 2026 04:54:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:37:38 +0000</lastBuildDate>
+    <item>
+      <title>„Fáj” – A Milan átgázolt az Interen, Chivuék a pokolban a derbi után</title>
+      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/milan-inter-amorim-chivu-edzoi-ertekelesek-rangado-utan_sto23351136/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/11/01/image-3f97dffc-5ef9-414b-8a59-c8cf36d30b38-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A szombat esti Derby della Madonnina felejthetetlen élményt hozott a Rossoneri szurkolóknak, miután az AC Milan 3–1-re győzte le az eddig veretlen, éllovas városi rivális Intert. A címvédő edzője kesergett, a győztes trénere a siker ellenére mindenkit óvatosságra intett.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/milan-inter-amorim-chivu-edzoi-ertekelesek-rangado-utan_sto23351136/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/11/01/image-3f97dffc-5ef9-414b-8a59-c8cf36d30b38-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 01 Nov 2026 10:51:46 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/11/01/image-3f97dffc-5ef9-414b-8a59-c8cf36d30b38-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>„Nyitott szemmel alvajárnak a szakadék felé” – a Manchester United kiesési rémálmából valóság lett</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/manchester-united-kieses-elleni-harc-carrick-martinez-velemenyek_sto23351119/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/10/31/image-3985c1f8-faaa-4a10-b40d-800c0e4c7ed5-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Manchester United szurkolói az elmúlt évtizedben már hozzászokhattak a csalódásokhoz, de ami jelenleg a Premier League-ben zajlik, az túllép a megszokott válságokon. A Chelsea elleni, ismételt önpusztító hibák miatt elbukott mérkőzés után a kiesés elleni harc egyre elkerülhetetlenebb.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/manchester-united-kieses-elleni-harc-carrick-martinez-velemenyek_sto23351119/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/10/31/image-3985c1f8-faaa-4a10-b40d-800c0e4c7ed5-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 01 Nov 2026 09:11:52 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/10/31/image-3985c1f8-faaa-4a10-b40d-800c0e4c7ed5-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>A Milan győzelmével zárult a 258. Derby della Madonnina, az Inter először kapott ki a szezonban</title>
       <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/milan-derby-della-madonnina-inter_sto23351067/story.shtml</link>
@@ -129,18 +153,6 @@
       </media:group>
     </item>
     <item>
-      <title>Beleszállt az edzőbe és a taktikába, mégis megtartja a csapatkapitányi karszalagot Bruno Fernandes</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/michael-carrick-bruno-fernandes-csapatkapitany-manchester-united_sto23350449/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/29/image-602a797e-4a09-4834-9d47-952a6fe4ea13-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Bruno Fernandes a Como elleni Bajnokok Ligája-vereség után kritizálta az edzői stáb döntését és a taktikát, ezek után a következő meccsen kispadra ültették, a Manchester United vezetőedzője, Michael Carrick szerint azonban továbbra is a portugál klasszis marad a csapat vezére.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/michael-carrick-bruno-fernandes-csapatkapitany-manchester-united_sto23350449/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/29/image-602a797e-4a09-4834-9d47-952a6fe4ea13-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 29 Oct 2026 19:55:02 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/29/image-602a797e-4a09-4834-9d47-952a6fe4ea13-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
       <title>„Próbáltam elképzelni, hogyan éreznék, ha nyernék” – Harry Kane az Aranylabda-győzelemről</title>
       <link>https://www.eurosport.hu/labdarugas/ballon-d-or/2026/harry-kane-aranylabda-nyilatkozat_sto23350423/story.shtml</link>
       <description>&lt;img src="https://i.eurosport.com/2026/10/29/image-3668b17d-4469-49ef-8e39-c478ce1376a7-85-2560-1440.jpeg" /&gt;
@@ -150,30 +162,6 @@
       <pubDate>Thu, 29 Oct 2026 18:13:30 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/29/image-3668b17d-4469-49ef-8e39-c478ce1376a7-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>A világ legjobb bajnoksága, ahol nincsenek is igazi sztárok? Mi történik a Premier League-gel?</title>
-      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/pl-hianyzik-a-zseni-faktor_sto23350337/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/20/image-f18827d7-e385-466d-a25b-c81522411dbe-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A Premier League a világ legjobb bajnoksága, a legjobb játékosok viszont mégsem Angliában akarnak játszani. Hogy lehet az, hogy egy liga ennyire kiemelkedik, mégis alig ad játékost az Aranylabda-jelöltek közé? Kiderítjük.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/pl-hianyzik-a-zseni-faktor_sto23350337/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/20/image-f18827d7-e385-466d-a25b-c81522411dbe-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 29 Oct 2026 14:58:56 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/20/image-f18827d7-e385-466d-a25b-c81522411dbe-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Aranylabda 2026: Mutatjuk a hétfői gála teljes menetrendjét</title>
-      <link>https://www.eurosport.hu/labdarugas/ballon-d-or/2026/aranylabda-gala-teljes-menetrend_sto23349134/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/25/image-592ad590-4587-424b-ae1f-47b8182495a6-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Hétfőn Londonra szegeződik a futballvilág figyelme: a 2026-os Aranylabda-gálán 13 díj talál gazdára, a legnagyobb kérdés pedig természetesen az, ki veheti át az év legjobb játékosának járó elismerést. Mutatjuk, mikor érkeznek a sztárok, hogyan alakul az este programja, és mikorra várható a nagy…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/ballon-d-or/2026/aranylabda-gala-teljes-menetrend_sto23349134/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/25/image-592ad590-4587-424b-ae1f-47b8182495a6-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 25 Oct 2026 18:58:16 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/25/image-592ad590-4587-424b-ae1f-47b8182495a6-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

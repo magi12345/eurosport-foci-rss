@@ -7,7 +7,31 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 01 Nov 2026 16:52:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:51:08 +0000</lastBuildDate>
+    <item>
+      <title>Otthon győzte le a Ferencváros a Paksot, nyert a Debrecen és az Újpest is</title>
+      <link>https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/ferencvaros-paks-puskas-akademia-debrecen-ujpest-nyiregyhaza-eredmenyek_sto23351308/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/11/01/image-8ee97c9c-943a-443c-863c-62e571bc0c4f-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Ferencváros saját közönsége előtt 2-0-ra nyert a Paks ellen a labdarúgó NB I 12. fordulójának vasárnapi játéknapján. A Debrecen Felcsúton, az Újpest a Nyíregyháza ellen győzött.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/fizz-liga/2026-2027/ferencvaros-paks-puskas-akademia-debrecen-ujpest-nyiregyhaza-eredmenyek_sto23351308/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/11/01/image-8ee97c9c-943a-443c-863c-62e571bc0c4f-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 01 Nov 2026 19:28:33 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/11/01/image-8ee97c9c-943a-443c-863c-62e571bc0c4f-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
+    <item>
+      <title>Havertz gólja döntött, az Anfielden győzte le a Liverpoolt az Arsenal</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/liverpool-arsenal_sto23351273/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/11/01/image-65b9da30-97e8-42c9-93b1-bfd705ccf644-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Az Arsenal 1-0-ra legyőzte a Liverpoolt a Premier League 9. fordulójának rangadóján. A mérkőzés egyetlen találatát Kai Havertz szerezte a 16. percben.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/liverpool-arsenal_sto23351273/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/11/01/image-65b9da30-97e8-42c9-93b1-bfd705ccf644-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 01 Nov 2026 18:46:09 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/11/01/image-65b9da30-97e8-42c9-93b1-bfd705ccf644-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>„Fáj” – A Milan átgázolt az Interen, Chivuék a pokolban a derbi után</title>
       <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/milan-inter-amorim-chivu-edzoi-ertekelesek-rangado-utan_sto23351136/story.shtml</link>
@@ -150,18 +174,6 @@
       <pubDate>Fri, 30 Oct 2026 19:46:36 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/10/30/image-de0509a4-cf8d-4129-aad0-f1cafe7a753b-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>„Próbáltam elképzelni, hogyan éreznék, ha nyernék” – Harry Kane az Aranylabda-győzelemről</title>
-      <link>https://www.eurosport.hu/labdarugas/ballon-d-or/2026/harry-kane-aranylabda-nyilatkozat_sto23350423/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/29/image-3668b17d-4469-49ef-8e39-c478ce1376a7-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Teljesen más érzések kerítették hatalmukba a gálát megelőzően, mint egy meccs előtt, nem Kylian Mbappének és Lamine Yamalnak címezte a Twitter-posztját, és ajándékkal készül a csapattársai számára a friss aranylabdás Harry Kane, aki először nyilatkozott a „csodálatos hétfő este” óta.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/ballon-d-or/2026/harry-kane-aranylabda-nyilatkozat_sto23350423/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/29/image-3668b17d-4469-49ef-8e39-c478ce1376a7-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Thu, 29 Oct 2026 18:13:30 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/29/image-3668b17d-4469-49ef-8e39-c478ce1376a7-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:50:16 +0000</lastBuildDate>
+    <item>
+      <title>Katasztrófát emlegetnek az olasz lapok az AC Milan Ferencvárostól elszenvedett veresége után</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/olasz-lapok-milan-vereseg-reakcio_sto23352856/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/11/05/image-ecc2c66e-539c-41c0-a157-d5dbebfe29a4-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Labdarúgó El - Olaszország legnépszerűbb sportnapilapja, a Gazzetta dello Sport csütörtöki rémálomnak nevezte az AC Milan kétgólos vereségét a Ferencvárostól az Európa-liga alapszakaszának negyedik fordulójában.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/olasz-lapok-milan-vereseg-reakcio_sto23352856/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/11/05/image-ecc2c66e-539c-41c0-a157-d5dbebfe29a4-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Nov 2026 14:26:03 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/11/05/image-ecc2c66e-539c-41c0-a157-d5dbebfe29a4-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>„Nem kaphatunk így ki” – Virgil van Dijk szerint nem fenntartható a Liverpool sok bekapott gólja</title>
       <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/virgil-van-dijk-ertekeles-vereseg_sto23352813/story.shtml</link>
@@ -189,15 +201,15 @@
       </media:group>
     </item>
     <item>
-      <title>A sportvilág gyászol, sokan viszont a kapust is halállal büntetnék a szörnyű tragédia után</title>
-      <link>https://www.eurosport.hu/labdarugas/jesus-de-miguel-halal-jesus-owono-tragedia-reakciok_sto23351874/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/11/03/image-16d529da-7ec7-4378-8014-3c38b2a50b38-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Jesús de Miguel halála után minden erről a szörnyűségről szólt kedden a futballban. Spanyolország a múlt heti vonatszerencsétlenséget követően ismét gyászba borult, játékosok, edzők, klub- és szövetségi vezetők is megemlékeznek a Tenerife néhai csatáráról. Sokan a tragédiát előidéző…&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/jesus-de-miguel-halal-jesus-owono-tragedia-reakciok_sto23351874/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/11/03/image-16d529da-7ec7-4378-8014-3c38b2a50b38-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 03 Nov 2026 20:38:45 +0000</pubDate>
+      <title>„Nagyon puha” tizenegyes és megúszott piros lap – Így dühítette fel az olaszokat a manchesteri játék</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/manchester-united-as-roma-jatekvezeto-kritika-nyilatkozatok_sto23352157/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/11/03/image-c5617474-6f36-439d-a330-221aff92adfe-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Komoly vihart kavart a Bajnokok Ligája kedd esti mérkőzése, miután a Manchester United 3-2-es győzelmet aratott az AS Roma ellen az Old Traffordon. A találkozó nem csupán a fordulatos gólokról és a Vörös Ördögök drámai győzelméről marad emlékezetes, hanem a spanyol játékvezető, Jesús Gil Manzano…&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-bajnokok-ligaja/2026-2027/manchester-united-as-roma-jatekvezeto-kritika-nyilatkozatok_sto23352157/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/11/03/image-c5617474-6f36-439d-a330-221aff92adfe-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 04 Nov 2026 16:17:20 +0000</pubDate>
       <media:group>
-        <media:content url="https://i.eurosport.com/2026/11/03/image-16d529da-7ec7-4378-8014-3c38b2a50b38-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+        <media:content url="https://i.eurosport.com/2026/11/03/image-c5617474-6f36-439d-a330-221aff92adfe-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Fri, 06 Nov 2026 02:37:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 10:20:15 +0000</lastBuildDate>
+    <item>
+      <title>„Nem mindennapi élmény egy játékos pályafutásában” – úsznak a boldogságban a Ferencváros labdarúgói</title>
+      <link>https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/ferencvaros-milan-gyozelem-jatekos-ertekelesek_sto23352735/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/11/06/image-0452f13d-a88b-4f08-aa97-7780831b4f69-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;A Ferencváros labdarúgói pályafutásuk egyik legkiemelkedőbb pillanatának tartják, hogy csütörtökön 2-0-ra győztek az AC Milan vendégeként az Európa-liga alapszakaszának negyedik fordulójában.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-europa-liga/2026-2027/ferencvaros-milan-gyozelem-jatekos-ertekelesek_sto23352735/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/11/06/image-0452f13d-a88b-4f08-aa97-7780831b4f69-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 06 Nov 2026 07:56:59 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/11/06/image-0452f13d-a88b-4f08-aa97-7780831b4f69-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>Borbély próbálja feldolgozni a milánói csodát, Amorim nem kímélte játékosait</title>
       <link>https://www.eurosport.hu/labdarugas/borbely-milanoi-csoda-amorim_sto23352680/story.shtml</link>
@@ -174,18 +186,6 @@
       <pubDate>Wed, 04 Nov 2026 16:17:20 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/11/03/image-c5617474-6f36-439d-a330-221aff92adfe-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Itt a generációváltás, hat légiós szerepel a megújult magyar U21-es válogatott keretében</title>
-      <link>https://www.eurosport.hu/labdarugas/magyar-u21-es-valogatott-uj-keret_sto23352190/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/11/04/image-d529a58b-925d-447d-97d4-cfbfbe01741a-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A generációváltás után először hirdetett keretet Németh Antal, a magyar U21-es labdarúgó-válogatott szövetségi edzője.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/magyar-u21-es-valogatott-uj-keret_sto23352190/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/11/04/image-d529a58b-925d-447d-97d4-cfbfbe01741a-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 04 Nov 2026 15:41:21 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/11/04/image-d529a58b-925d-447d-97d4-cfbfbe01741a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
     <item>

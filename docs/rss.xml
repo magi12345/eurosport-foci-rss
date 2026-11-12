@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 11 Nov 2026 21:42:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:38:06 +0000</lastBuildDate>
     <item>
       <title>Üres a trón, de lesz új király? – Öt futballista, aki megdöntheti Ronaldo válogatott gólrekordját</title>
       <link>https://www.eurosport.hu/labdarugas/ot-futballista-cristiano-ronaldo-ures-a-tron_sto23354339/story.shtml</link>
@@ -162,18 +162,6 @@
       <pubDate>Mon, 09 Nov 2026 10:30:56 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/11/04/image-db286e24-d61c-4d22-a484-cdafd0d27b92-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Olyan jól játszik, hogy mindenki akarja majd – De végül hol köthet ki jövő nyáron Nico Paz?</title>
-      <link>https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/nico-paz-real-madrid-visszateres_sto23353414/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/10/21/image-816a476f-c83f-40bd-9514-10040f1d69fb-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;Nico Paz jelenleg az egyik legjobb játékos Európában, és korához képest rendkívüli érettségről tett bizonyságot azzal, hogy tavaly nyáron visszautasította a Real Madrid hívását, csak hogy maradhasson még egy évet Comóban, ahol a fejlődése az első.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/serie-a-enilive/2026-2027/nico-paz-real-madrid-visszateres_sto23353414/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/10/21/image-816a476f-c83f-40bd-9514-10040f1d69fb-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 08 Nov 2026 12:39:10 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/10/21/image-816a476f-c83f-40bd-9514-10040f1d69fb-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

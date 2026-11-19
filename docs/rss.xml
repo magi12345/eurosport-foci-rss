@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Wed, 18 Nov 2026 21:29:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:13:55 +0000</lastBuildDate>
     <item>
       <title>A magyar válogatott egy helyet javított, továbbra is a világbajnok spanyolok vezetik a ranglistát</title>
       <link>https://www.eurosport.hu/labdarugas/magyar-valogatott-friss-fifa-vilagranglista_sto23356607/story.shtml</link>
@@ -210,30 +210,6 @@
       <pubDate>Tue, 17 Nov 2026 08:08:15 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/11/16/image-b5413d43-2f0d-43b9-ac0a-c74c2d7c3127-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Gólparádé Berlinben: Németország átgázolt Hollandián, és bejutott a Nemzetek Ligája negyeddöntőjébe</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/golparade-berlinben-atgazolt-nemet-holland_sto23355984/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/11/16/image-67500c53-9dad-4885-bbe5-40424470378a-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A német válogatott főleg a második félidőben mutatott meggyőző játékkal 5-0-ra verte a vendég hollandokat hétfőn a labdarúgó Nemzetek Ligája A divíziójának 2. csoportjában, ezzel a négyes élén végzett és bejutott a sorozat negyeddöntőjébe.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/golparade-berlinben-atgazolt-nemet-holland_sto23355984/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/11/16/image-67500c53-9dad-4885-bbe5-40424470378a-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 16 Nov 2026 21:56:46 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/11/16/image-67500c53-9dad-4885-bbe5-40424470378a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Szoboszlai Dominik: "A bemelegítésnél közel voltam ahhoz, hogy azt mondjam, mégsem lépek pályára"</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/szoboszlai-dominik-georgia-serules_sto23355487/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/11/15/image-d4d89e0d-88e4-427a-9962-209450394b84-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A csapatkapitány Szoboszlai Dominik saját bevallása szerint a bemelegítés során közel állt ahhoz, hogy mégse lépjen pályára a Nemzetek Ligája B divíziójában 2-0-ra megnyert szombati mérkőzésen Georgia vendégeként.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/szoboszlai-dominik-georgia-serules_sto23355487/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/11/15/image-d4d89e0d-88e4-427a-9962-209450394b84-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sun, 15 Nov 2026 10:38:19 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/11/15/image-d4d89e0d-88e4-427a-9962-209450394b84-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

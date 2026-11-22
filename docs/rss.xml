@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Sun, 22 Nov 2026 00:54:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 08:19:59 +0000</lastBuildDate>
     <item>
       <title>Kvaratskhelia után újabb sztárját veszítheti el a PSG – Doué sírva, hordágyon hagyta el a pályát</title>
       <link>https://www.eurosport.hu/labdarugas/desire-doue-serules-psg_sto23357531/story.shtml</link>
@@ -186,18 +186,6 @@
       <pubDate>Fri, 20 Nov 2026 12:32:46 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/11/20/image-cd116c91-a6cf-4aac-a98e-4940b3c4289a-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Nemzetek Ligája: A szerbekkel játszik osztályozót a magyar válogatott az A-ligáért</title>
-      <link>https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/magyar-valogatott-ellenfele-rajatszas_sto23357044/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/11/20/image-25f6ea2c-eb50-43d5-97ca-436912ed8db5-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A szerb csapattal találkozik a magyar labdarúgó-válogatott a Nemzetek Ligája márciusi osztályozós párharcában, amelynek tétje a magyarok számára az élvonalba jutás.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/uefa-nations-league/2026-2027/magyar-valogatott-ellenfele-rajatszas_sto23357044/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/11/20/image-25f6ea2c-eb50-43d5-97ca-436912ed8db5-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 20 Nov 2026 11:33:03 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/11/20/image-25f6ea2c-eb50-43d5-97ca-436912ed8db5-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>

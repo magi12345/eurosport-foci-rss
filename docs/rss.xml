@@ -7,7 +7,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>eurosport-labdarugas-rss</generator>
     <language>hu-HU</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:44:37 +0000</lastBuildDate>
+    <item>
+      <title>Roy Keane szerint ideje a játékosoknak is felelősséget vállalni, övék a topligák legrosszabb védelme</title>
+      <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/pochettino-roy-keane-katasztrofa_sto23357934/story.shtml</link>
+      <description>&lt;img src="https://i.eurosport.com/2026/11/22/image-41e4a8cd-dbff-4c7b-b81e-7062ab3e90bb-85-2560-1440.jpeg" /&gt;
+&lt;p&gt;Arra a kezdésre, amit Mauricio Pochettino Manchester Unitedja produkált, még talán a legelvakultabb Liverpool-szurkolók sem számítottak, és ez talán az argentin edző legrosszabb előre elképzelt forgatókönyvét is alulmúlja.&lt;/p&gt;</description>
+      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/premier-league/2026-2027/pochettino-roy-keane-katasztrofa_sto23357934/story.shtml</guid>
+      <enclosure url="https://i.eurosport.com/2026/11/22/image-41e4a8cd-dbff-4c7b-b81e-7062ab3e90bb-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
+      <pubDate>Mon, 23 Nov 2026 10:29:47 +0000</pubDate>
+      <media:group>
+        <media:content url="https://i.eurosport.com/2026/11/22/image-41e4a8cd-dbff-4c7b-b81e-7062ab3e90bb-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
+      </media:group>
+    </item>
     <item>
       <title>„Hat perc után minden megváltozott” – Pochettino rémálomszerűen debütált a Manchester Unitednél</title>
       <link>https://www.eurosport.hu/labdarugas/premier-league/2026-2027/mauricio-pochettino-andoni-iraola-ertekeles-liverpool-manchester-united_sto23357830/story.shtml</link>
@@ -186,18 +198,6 @@
       <pubDate>Sat, 21 Nov 2026 14:22:59 +0000</pubDate>
       <media:group>
         <media:content url="https://i.eurosport.com/2026/11/21/image-dc8f8d9b-1d05-47f0-9228-449b9c967f2e-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
-      </media:group>
-    </item>
-    <item>
-      <title>Harry Kane súlyosan megsérült, hónapokra kidőlt a friss aranylabdás</title>
-      <link>https://www.eurosport.hu/labdarugas/harry-kane-serules_sto23357321/story.shtml</link>
-      <description>&lt;img src="https://i.eurosport.com/2026/11/21/image-0abbdcab-5345-440d-beef-d8556f1423ba-85-2560-1440.jpeg" /&gt;
-&lt;p&gt;A pénteken megsérült Harry Kane bokaszalag-szakadást szenvedett a Bayern München labdarúgócsapatának szombati közlése szerint, ezért a következő néhány hónapban nem játszhat.&lt;/p&gt;</description>
-      <guid isPermaLink="true">https://www.eurosport.hu/labdarugas/harry-kane-serules_sto23357321/story.shtml</guid>
-      <enclosure url="https://i.eurosport.com/2026/11/21/image-0abbdcab-5345-440d-beef-d8556f1423ba-85-2560-1440.jpeg" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 21 Nov 2026 10:05:00 +0000</pubDate>
-      <media:group>
-        <media:content url="https://i.eurosport.com/2026/11/21/image-0abbdcab-5345-440d-beef-d8556f1423ba-85-2560-1440.jpeg" type="image/jpeg" medium="image"/>
       </media:group>
     </item>
   </channel>
